@@ -5,10 +5,252 @@
   font-weight: 400;
   font-style: normal;
 }
-
+@font-face {
+  font-family: Kaway;
+  src: url(../type/Kaway.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Degolan;
+  src: url(../type/Degolan.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Flowers;
+  src: url(../type/Flowers\ Kingdom.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: fatkat;
+  src: url(../type/Fat\ Kat\ -\ \(Demo\)\ hanscostudio.com.ttf);
+  font-weight: 200;
+}
+@font-face {
+  font-family: california;
+  src: url(../type/Groen\ California\ Sans.ttf);
+}
+@font-face {
+  font-family: Rainsoul;
+  src: url(/assets/type/ZrtwRainsoulPersonalUse-ARdKx.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Nake;
+  src: url(/assets/type/Nake-Regular.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: muziek;
+  src: url(/assets/type/Music\ Sound\ -\ Free\ Personal\ Used.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+html {
+  --whitespace-s: 1rem;
+  --whitespace-m: calc(var(--whitespace-s) * 2);
+  --whitespace-l: calc(var(--whitespace-s) * 4);
+  --whitespace-xs: calc(var(--whitespace-s) * 0.5);
+}
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
+  font-family: "degolan", system-ui;
+  background-color: black;
   color-scheme: light dark;
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+body.logboekbody {
+  font-family: "degolan", system-ui;
+  background-color: black;
+  color-scheme: light dark;
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+  transform: rotateX(0deg);
+  transform-origin: 0% 0%;
+}
+
+header {
+  width: 80vw;
+  max-width: 1000px; /* voorkomt dat de header breder wordt dan de rest op grote schermen */
+  margin: 0 auto;
+}
+
+.nav {
+  overflow: hidden;
+  border-bottom: 1px white;
+  display: flex;
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+  background-color: #3f3fa3;
+  padding: 15px 0;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 225%;
+  color: white;
+  margin-top: -8rem;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  position: relative;
+  z-index: 10;
+}
+
+.dag1 {
+  text-align: center;
+  justify-content: center;
+}
+.li1 {
+  rotate: 0deg;
+  display: grid;
+  place-items: center;
+  font-family: "Nake";
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  font-size: 800%;
+  line-height: 0.8;
+  margin-top: -5rem;
+}
+.logboek {
+  rotate: 0deg;
+  display: grid;
+  place-items: center;
+  font-family: "Comic Relief";
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  font-size: 800%;
+  line-height: 0.8;
+  margin-top: 0rem;
+  font-family: Nake;
+}
+.logboekkopjes {
+  font-size: 2em;
+}
+.derest {
+  color-scheme: light dark;
+  text-align: center;
+  max-width: 10000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 200%;
+  font-family: "Degolan";
+  gap: 2rem;
+  letter-spacing: 0.07em;
+  transform: rotateX(20deg);
+  transform-origin: 50% 100%;
+}
+.derestlogboek {
+  font-family: "Comic Relief", system-ui;
+
+  color-scheme: light dark;
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+p {
+  margin: var(--whitespace-s);
+}
+img {
+  width: 200px;
+  height: auto;
+  max-width: 100%;
+  border-radius: 8px;
+  display: inline-flex;
+  margin: var(--whitespace-s);
+}
+.plaatje1 {
+  width: 30em;
+  margin: var(--whitespace-s);
+}
+.blok1 {
+  width: auto;
+  aspect-ratio: 1 / 1;
+  margin-top: 2rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 300%;
+  text-align: center;
+  padding: 0;
+  margin-top: 20px;
+  background-image:
+    radial-gradient(var(orange), var(red) 50%, transparent 0),
+    linear-gradient(45deg, var(blue), var(yellow));
+}
+
+.blok2 {
+  width: auto;
+  aspect-ratio: 1 / 1;
+  background-image: linear-gradient(var(green), var(blue));
+  background-color: blueviolet;
+  margin-top: 2rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 300%;
+  text-align: center;
+  padding: 0;
+  margin-top: 20px;
+}
+.blok3 {
+  width: auto;
+  aspect-ratio: 1 / 1;
+  background-image: linear-gradient(var(green), var(blue));
+  background-color: blueviolet;
+
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 300%;
+  padding: 0;
+}
+.blok4 {
+  width: auto;
+  aspect-ratio: 1 / 1;
+  background-image: linear-gradient(var(green), var(blue));
+  background-color: blueviolet;
+
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 300%;
+  padding: 0;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  max-width: 1000px;
+  row-gap: 5px;
+  column-gap: 16px;
+}
+
+@media (max-width: 800px) {
+  header {
+    width: fit-content;
+  }
+  .li1 {
+    font-size: 600%;
+  }
+  .nav {
+    margin-top: -15%;
+  }
+  .container {
+    grid-template-columns: repeat(1, 1fr);
+    width: 150%;
+  }
 }
