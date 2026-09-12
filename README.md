@@ -1,6 +1,8 @@
-Hier is de tekst zonder HTML-tags, puur de platte inhoud:
+
+Vrijdag 9 september
 
 Donderdag 10 september
+
 
 Woensdag 9 september
 Visual research:
@@ -61,15 +63,14 @@ Woensdag 2 september
 
 - Ik heb vandaag weer verder gewerkt aan mijn website en mijn eerste deepdives gedaan. Ik begon met de deepdive over mmd, hier moesten we een online menukaart namaken in een programma naar jou keuze. Ik heb het nagemaakt in Figma, omdat ik dit graag weer een in de vingers wilden krijgen. En omdat ik al wist hoe ik daarin dingen als micro interacties kan maken.
 
-[mmdopdracht1.png]
-[mmdopdracht2.png]
-[mmdopdracht3.png]
+
 <img width="267" height="537" alt="Scherm­afbeelding 2026-09-04 om 14 10 16" src="https://github.com/user-attachments/assets/319c24e7-850d-4708-b61c-c678e5531059" />
 <img width="337" height="574" alt="Scherm­afbeelding 2026-09-04 om 13 52 23" src="https://github.com/user-attachments/assets/9074be23-c9e5-4e59-b142-f0828978a5a3" />
 
 - Als 2de deepdive heb ik een cursus over fonts en kleur gekregen van Sanne. Deze ging me prima af het lukte me om de gegeven opdrachten te maken en heb daarna de kennis uit de deepdive gebruikt om nieuwe fonts toe te voegen aan mijn eigen site.
 
 [sanneopdracht.png]
+
 
 Maandag 31 augustus
 
