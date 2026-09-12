@@ -1,18 +1,17 @@
 
 Vrijdag 9 september
+Vandaag heb ik doorgewerkt aan mijn website. Omdat ik van desktop naar telefoon toe werk heb ik wat hulp gevraagd aan nicky om me te helpen begrijpen hoe ik mijn design responsive maak. De @media tag is me nu duidelijk en het lukt me steeds beter om alle elementen aan te passen aan kleinere scherm groottes.
+Ook heb ik samen met student assistenten gekeken naar mijn schetsen en gekeken hoe ik dit het best kan laten lukken in html/css, uiteindelijk heb ik gekozen voor een grit structuur met de losse elementen op flex. Daardoor komen de blok elementen naast elkaar.
+
+-note to self, charley had het over een andere grit structuur die je de mogelijkheid geeft een echt gehusselde structuur te krijgen waarin de blokken niet strak naast elkaar liggen maar langs elkaar lopen. vraag hulp maandag!
 
 Donderdag 10 september
 
+Ik heb vandaag mijn crazy 8 verder verwerkt en uitgewerkt tot 5 mobile first schetsen, hierdoor kreeg ik een beter beeld van hoe ik bepaalde elementen uit mijn crazy 8 zou kunnen gebruiken in mijn site. De 3 ontwerpen uit de crazy 8 waar ik mee door ga ga ik combineren om tot een zo dynamisch en levendig mogelijk ontwerp te komen. Dit is een combinatie van diepte en licht, een warrige strakke vormen structuur en vloeiende lijnen met veel beweging en contrasterende kleuren.
+
+Met annotaties geef ik aan wat ik verwacht dat elementen doen. 
 
 Woensdag 9 september
-Visual research:
-Gekozen sfeer woorden: Dynamisch, levendig, euforisch
-
-- hier ben ik omgeslagen van onderwerp, inplaats van album hoezen ga ik mijn website nu een plekkie maken waar gebruikers mijn concert ervaringen kunnen bekijken en info over artiesten verkrijgen. Ik wil dat mijn website aanvoelt als een site van een poppodium met mijn eigen creatieve touch.<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 54" src="https://github.com/user-attachments/assets/ab4a4b48-6848-47f3-8808-4061a544df5c" />
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 51" src="https://github.com/user-attachments/assets/2419cd54-58b3-4557-89a1-73c40f9469aa" />
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 48" src="https://github.com/user-attachments/assets/1d73b251-7e9c-4745-bcb8-2e750cc7dbbf" />
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 45" src="https://github.com/user-attachments/assets/613ccdec-33a9-44a6-b41f-ad967892e479" />
-
 
 Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
 De essentie van wat ik heb gepresenteerd is dat albumhoezen een mooie combinatie zijn van 3 dingen waar ik me graag mee bezig houd: muziek, kunst en cultuur.
@@ -23,14 +22,27 @@ Ik heb besloten het onderwerp te veranderen naar mijn muziekcollectie met als fo
 Welke inspiratie kun je uit je 25 afbeeldingen halen? Stijl, een gevoel, vorm, enz.
 Ik haal veel beweging, dynamiek en levendigheid uit mijn afbeeldingen. Ik krijg hier een gevoel van euforie bij en zie gelijk veel diepte en beweging met kleurcontrasten voor me.
 
-Dinsdag
+Visual research:
+Gekozen sfeer woorden: Dynamisch, levendig, euforisch
 
-Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
-Ik zou graag een website willen ontwerpen met veel visuele elementen en voor mezelf uitdagende bewegingen, animaties.
+- hier ben ik omgeslagen van onderwerp, inplaats van album hoezen ga ik mijn website nu een plekkie maken waar gebruikers mijn concert ervaringen kunnen bekijken en info over artiesten verkrijgen. Ik wil dat mijn website aanvoelt als een site van een poppodium met mijn eigen creatieve touch.<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 54" src="https://github.com/user-attachments/assets/ab4a4b48-6848-47f3-8808-4061a544df5c" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 51" src="https://github.com/user-attachments/assets/2419cd54-58b3-4557-89a1-73c40f9469aa" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 48" src="https://github.com/user-attachments/assets/1d73b251-7e9c-4745-bcb8-2e750cc7dbbf" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 45" src="https://github.com/user-attachments/assets/613ccdec-33a9-44a6-b41f-ad967892e479" />
+
+
+
+
+
+
 
 Dinsdag 8 september
 
 Welke webby dingen heb je gezien die je ook wil gebruiken?
+Vloeiende menus met een gehusselde knoppen structuur waar je uit kan kiezen. Beweeglijke fonts (deze wil ik zelf maken). 
+
+Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
+Ik zou graag een website willen ontwerpen met veel visuele elementen en voor mezelf uitdagende bewegingen, animaties.
 
 Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, de context, het doel, wat zijn onderwerpen, wat is 'het' wat jou raakt?
 Ik ben zelf altijd bezig met muziek en vind het bijzonder interessant om over te praten. Ik vind het leuk om mensen wat kennis bij te brengen en zelf ook meer te weten te komen over dit onderwerp. Ik ga daarom ook mijn eigen kennis combineren met wat ik nog te weten kom. Verschillende onderwerpen zijn nu bijvoorbeeld:
@@ -57,7 +69,6 @@ De DOM structuur die je hanteert voor een html bestand door het juist te nesten 
 
 Css is puur voor het selecteren en aanpassen van de elementen in het html bestand.
 
-Donderdag 3 september
 
 Woensdag 2 september
 
