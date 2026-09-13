@@ -24,3 +24,10 @@ body {
   transform: rotateX(20deg);
   transform-origin: 50% 100%;
 }
+.nav {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+  font-size: 200%;
+}
