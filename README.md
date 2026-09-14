@@ -1,4 +1,3 @@
-
 Vrijdag 9 september
 Vandaag heb ik doorgewerkt aan mijn website. Omdat ik van desktop naar telefoon toe werk heb ik wat hulp gevraagd aan nicky om me te helpen begrijpen hoe ik mijn design responsive maak. De @media tag is me nu duidelijk en het lukt me steeds beter om alle elementen aan te passen aan kleinere scherm groottes.
 Ook heb ik samen met student assistenten gekeken naar mijn schetsen en gekeken hoe ik dit het best kan laten lukken in html/css, uiteindelijk heb ik gekozen voor een grit structuur met de losse elementen op flex. Daardoor komen de blok elementen naast elkaar.
@@ -9,7 +8,7 @@ Donderdag 10 september
 
 Ik heb vandaag mijn crazy 8 verder verwerkt en uitgewerkt tot 5 mobile first schetsen, hierdoor kreeg ik een beter beeld van hoe ik bepaalde elementen uit mijn crazy 8 zou kunnen gebruiken in mijn site. De 3 ontwerpen uit de crazy 8 waar ik mee door ga ga ik combineren om tot een zo dynamisch en levendig mogelijk ontwerp te komen. Dit is een combinatie van diepte en licht, een warrige strakke vormen structuur en vloeiende lijnen met veel beweging en contrasterende kleuren.
 
-Met annotaties geef ik aan wat ik verwacht dat elementen doen. 
+Met annotaties geef ik aan wat ik verwacht dat elementen doen.
 
 Woensdag 9 september
 
@@ -26,20 +25,14 @@ Visual research:
 Gekozen sfeer woorden: Dynamisch, levendig, euforisch
 
 - hier ben ik omgeslagen van onderwerp, inplaats van album hoezen ga ik mijn website nu een plekkie maken waar gebruikers mijn concert ervaringen kunnen bekijken en info over artiesten verkrijgen. Ik wil dat mijn website aanvoelt als een site van een poppodium met mijn eigen creatieve touch.<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 54" src="https://github.com/user-attachments/assets/ab4a4b48-6848-47f3-8808-4061a544df5c" />
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 51" src="https://github.com/user-attachments/assets/2419cd54-58b3-4557-89a1-73c40f9469aa" />
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 48" src="https://github.com/user-attachments/assets/1d73b251-7e9c-4745-bcb8-2e750cc7dbbf" />
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 45" src="https://github.com/user-attachments/assets/613ccdec-33a9-44a6-b41f-ad967892e479" />
-
-
-
-
-
-
+  <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 51" src="https://github.com/user-attachments/assets/2419cd54-58b3-4557-89a1-73c40f9469aa" />
+  <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 48" src="https://github.com/user-attachments/assets/1d73b251-7e9c-4745-bcb8-2e750cc7dbbf" />
+  <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 07 48 45" src="https://github.com/user-attachments/assets/613ccdec-33a9-44a6-b41f-ad967892e479" />
 
 Dinsdag 8 september
 
 Welke webby dingen heb je gezien die je ook wil gebruiken?
-Vloeiende menus met een gehusselde knoppen structuur waar je uit kan kiezen. Beweeglijke fonts (deze wil ik zelf maken). 
+Vloeiende menus met een gehusselde knoppen structuur waar je uit kan kiezen. Beweeglijke fonts (deze wil ik zelf maken).
 
 Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
 Ik zou graag een website willen ontwerpen met veel visuele elementen en voor mezelf uitdagende bewegingen, animaties.
@@ -69,11 +62,9 @@ De DOM structuur die je hanteert voor een html bestand door het juist te nesten 
 
 Css is puur voor het selecteren en aanpassen van de elementen in het html bestand.
 
-
 Woensdag 2 september
 
 - Ik heb vandaag weer verder gewerkt aan mijn website en mijn eerste deepdives gedaan. Ik begon met de deepdive over mmd, hier moesten we een online menukaart namaken in een programma naar jou keuze. Ik heb het nagemaakt in Figma, omdat ik dit graag weer een in de vingers wilden krijgen. En omdat ik al wist hoe ik daarin dingen als micro interacties kan maken.
-
 
 <img width="267" height="537" alt="Scherm­afbeelding 2026-09-04 om 14 10 16" src="https://github.com/user-attachments/assets/319c24e7-850d-4708-b61c-c678e5531059" />
 <img width="337" height="574" alt="Scherm­afbeelding 2026-09-04 om 13 52 23" src="https://github.com/user-attachments/assets/9074be23-c9e5-4e59-b142-f0828978a5a3" />
@@ -82,16 +73,15 @@ Woensdag 2 september
 
 [sanneopdracht.png]
 
-
 Maandag 31 augustus
 
 - Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
-Een source hosting platform is een website waar je een domeinnaam kan aanvragen en deze site houdt tegen betaling jouw website online.
+  Een source hosting platform is een website waar je een domeinnaam kan aanvragen en deze site houdt tegen betaling jouw website online.
 
 - Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
-Ik heb voor de domeinnaam gielsplekkie gekozen. Ik vond dit passend bij de opdracht om een website te maken die jou vertegenwoordigd. Ik heb dit gekoppeld aan mijn github account door de domain-naam in github de naam van mijn geclaimde domeinnaam te geven.
+  Ik heb voor de domeinnaam gielsplekkie gekozen. Ik vond dit passend bij de opdracht om een website te maken die jou vertegenwoordigd. Ik heb dit gekoppeld aan mijn github account door de domain-naam in github de naam van mijn geclaimde domeinnaam te geven.
 
 - Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
-Ik kan aanpassingen aan mijn website maken door veranderingen te maken aan mijn css en html. Html is de opmaaktaal die zorgt voor structuur in de website. Css kan je gebruiken om de verschillende visuele elementen in je website te stylen.
+  Ik kan aanpassingen aan mijn website maken door veranderingen te maken aan mijn css en html. Html is de opmaaktaal die zorgt voor structuur in de website. Css kan je gebruiken om de verschillende visuele elementen in je website te stylen.
 
 - Ik heb vandaag een begin gemaakt aan mijn website en heb voorbereidingen gedaan voor de deepdives.
