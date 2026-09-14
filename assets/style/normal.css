@@ -114,13 +114,14 @@ header {
   justify-content: center;
 }
 h1 {
+  rotate: 0deg;
   place-items: center;
   font-family: "Nake";
   font-style: normal;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
   font-size: 1900%;
   line-height: 0.8;
-  max-width: fit-content;
+  max-width: 90vw;
   align-items: center;
 }
 .logboek {
@@ -312,7 +313,6 @@ img {
     width: 80%;
     margin: auto;
     max-width: 60vw;
-    align-items: center;
   }
   body {
     margin-top: auto;
