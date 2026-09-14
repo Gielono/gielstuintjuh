@@ -5,9 +5,11 @@
   font-style: normal;
 }
 h1 {
-  font-size: 1000%;
+  font-size: 1900%;
+  line-height: 0.8;
   font-family: Nake;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  margin-top: -8rem;
 }
 .header {
   align-items: center;
@@ -31,4 +33,11 @@ body {
   cursor: pointer;
   text-align: left;
   font-size: 200%;
+}
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
 }

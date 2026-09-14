@@ -244,22 +244,9 @@ img {
   cursor: pointer;
 }
 .blok5 {
-  width: auto;
-  aspect-ratio: 1 / 1;
-  background-color: blueviolet;
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  font-size: 300%;
-  padding: 0;
-  border-radius: 3%;
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-}
-.blok6 {
-  width: auto;
-  aspect-ratio: 1 / 1;
+  width: 100%;
+  margin-top: 1.5rem;
+  aspect-ratio: 2 / 1;
   background-color: blueviolet;
   align-items: center;
   justify-content: center;
@@ -275,7 +262,8 @@ img {
 .blok1:hover,
 .blok2:hover,
 .blok3:hover,
-.blok4:hover {
+.blok4:hover,
+.blok5:hover {
   filter: brightness(1.15);
   transition: filter 0.2s ease;
 }
@@ -319,6 +307,12 @@ img {
     align-items: center;
     transform: rotateX(0deg);
     transform-origin: 0% 0%;
+  }
+  .blok5 {
+    width: 80%;
+    margin: auto;
+    max-width: 60vw;
+    margin-top: 1.5rem;
   }
   html {
     perspective: 0;
