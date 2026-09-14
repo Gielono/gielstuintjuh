@@ -57,6 +57,7 @@ html {
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
   perspective: 3500px;
 }
+
 body {
   font-family: "degolan", system-ui;
   background-color: black;
@@ -65,9 +66,9 @@ body {
   max-width: 1000px;
   margin: auto;
   padding: 40px 20px;
-  text-align: center;
   transform: rotateX(20deg);
   transform-origin: 50% 100%;
+  align-items: center;
 }
 body.logboekbody {
   font-family: "degolan", system-ui;
@@ -83,9 +84,9 @@ body.logboekbody {
 }
 
 header {
-  width: 80vw;
-  max-width: 1000px; /* voorkomt dat de header breder wordt dan de rest op grote schermen */
-  margin: 0 auto;
+  max-width: 90vw;
+  margin: auto;
+  margin-top: -30rem;
 }
 
 .nav {
@@ -101,7 +102,7 @@ header {
   margin: 0 auto;
   font-size: 225%;
   color: white;
-  margin-top: -11rem;
+  margin-top: -10rem;
   flex-wrap: nowrap;
   white-space: nowrap;
   position: relative;
@@ -112,17 +113,16 @@ header {
   text-align: center;
   justify-content: center;
 }
-.li1 {
+h1 {
   rotate: 0deg;
-  display: grid;
   place-items: center;
   font-family: "Nake";
-  font-weight: 400;
   font-style: normal;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  font-size: 1000%;
+  font-size: 1900%;
   line-height: 0.8;
-  margin-top: -35rem;
+  max-width: 90vw;
+  align-items: center;
 }
 .logboek {
   rotate: 0deg;
@@ -291,20 +291,36 @@ img {
 
 @media (max-width: 800px) {
   header {
-    width: fit-content;
+    margin-top: 0;
+    max-width: 90vw;
   }
-  .li1 {
-    font-size: 600%;
+  h1 {
+    font-size: 930%;
+    margin-top: 0;
+    align-items: center;
+    max-width: 90vw;
+    margin: auto;
   }
   .nav {
-    margin-top: -15%;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-top: 2rem;
   }
   .container {
     grid-template-columns: repeat(1, 1fr);
-    width: 160%;
+    width: 80%;
+    margin: auto;
+    max-width: 60vw;
   }
   body {
-    margin-top: -35rem;
+    margin-top: auto;
     align-items: center;
+    transform: rotateX(0deg);
+    transform-origin: 0% 0%;
+  }
+  html {
+    perspective: 0;
   }
 }
