@@ -1,3 +1,25 @@
+Maandag 14 september
+checkout les:
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+Een website wordt lelijk wanneer je van scherm grootte veranderd en de inhoud niet responsive is, dus meebeweegt. Dit kan je fixen door elementen tags te geven waardoor ze meebewegen met de rest, of juist niet. En de site handmatig aan te passen met @media tags voor verschillende scherm groottes.
+
+Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Ik ben al redelijk ver in het responsive maken aan de hand van @media tags en andere tags, de volgende stap is verder kloten aan deze specificaties om zo een zo goed mogelijke layout te krijgen.
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+kijk naar bovenste vragen.
+
+Wat ik heb gedaan vandaag: de bi-weekly geek over welke regels er aan internet gesteld moeten worden, hoe het niet in handen van commerciele bedrijven moet komen. En kregen we een lesje responsive design van vasilis, ik heb dat gelijk in mijn site kunnen verwerken. 
+Opdracht 16 en 17:
+Duo, Samir
+Bekijk elkaars website door de browser groter en kleiner te maken
+Samirs site is erg responsive, hij heeft m als single columm ontworpen dus hij beweegt mooi mee met andere scherm groottes, mijn eigen website is ook responsive maar nog niet zo netjes. Er zijn wat elementen die nog niet goed mee bewegen met de scherm-groottes. Ik heb hier al hulp bij gevraagd en ga hier zelf aan door kloten todat ik het nice vind.
+
+Wanneer is er een verandering van vormgeving/layout nodig? Waarom? Wat is er 'lelijk' of kan beter?
+In mijn eigen site gebruik ik 2 kolomen met knoppen, wanneer het scherm kleiner wordt moet dit naar single-column gaan. Dit is mij al gelukt, maar de titel beweegt nog niet lekker mee met de rest dus die wil ik graag beter centreren.
+
+
 Vrijdag 9 september
 Vandaag heb ik doorgewerkt aan mijn website. Omdat ik van desktop naar telefoon toe werk heb ik wat hulp gevraagd aan nicky om me te helpen begrijpen hoe ik mijn design responsive maak. De @media tag is me nu duidelijk en het lukt me steeds beter om alle elementen aan te passen aan kleinere scherm groottes.
 Ook heb ik samen met student assistenten gekeken naar mijn schetsen en gekeken hoe ik dit het best kan laten lukken in html/css, uiteindelijk heb ik gekozen voor een grit structuur met de losse elementen op flex. Daardoor komen de blok elementen naast elkaar.
