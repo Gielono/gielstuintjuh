@@ -4,6 +4,12 @@
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: Degolan;
+  src: url(../type/Degolan.otf);
+  font-weight: 400;
+  font-style: normal;
+}
 h1 {
   font-size: 1900%;
   line-height: 0.8;
@@ -16,7 +22,7 @@ h1 {
   justify-content: center;
 }
 body {
-  font-family: "degolan", system-ui;
+  font-family: system-ui, sans-serif;
   background-color: black;
   color-scheme: light dark;
   text-align: center;
@@ -38,7 +44,7 @@ body {
   padding: 15px 0;
   max-width: 1000px;
   margin: 0 auto;
-  font-size: 225%;
+  font-size: 280%;
   color: white;
   margin-top: -10rem;
   flex-wrap: nowrap;
@@ -47,6 +53,15 @@ body {
   z-index: 10;
   list-style-type: none;
   margin-bottom: 2rem;
+  font-family: "degolan";
+  a {
+    color: white;
+    transition: 0.4s ease-in-out;
+
+    &:hover {
+      color: black;
+    }
+  }
 }
 video {
   max-width: 100%;
@@ -87,4 +102,7 @@ p {
   text-shadow: 0.1em 0.05em 0.1em #3f3fa3;
   margin-top: -8rem;
   align-items: center;
+}
+.list {
+  list-style-type: none;
 }
