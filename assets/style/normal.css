@@ -107,6 +107,7 @@ header {
   white-space: nowrap;
   position: relative;
   z-index: 10;
+  list-style-type: none;
 }
 
 .dag1 {

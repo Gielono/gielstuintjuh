@@ -28,11 +28,25 @@ body {
   transform-origin: 50% 100%;
 }
 .nav {
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  text-align: left;
-  font-size: 200%;
+  overflow: hidden;
+  border-bottom: 1px white;
+  display: flex;
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+  background-color: #3f3fa3;
+  padding: 15px 0;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 225%;
+  color: white;
+  margin-top: -10rem;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  position: relative;
+  z-index: 10;
+  list-style-type: none;
+  margin-bottom: 2rem;
 }
 video {
   max-width: 100%;
@@ -40,8 +54,10 @@ video {
   border-radius: 8px;
   display: block;
   margin: 0 auto;
+  list-style-type: none;
 }
 .img1 {
+  margin-top: rem;
 }
 
 .carnertussenstuk {
@@ -51,9 +67,19 @@ video {
   transform: translateX(-50%);
   box-sizing: border-box;
   padding: 20px;
-  background-color: #3f3fa3;
+  background-color: #5252a1;
+  opacity: 100%;
+  margin: 2rem;
 }
 
+.carnertussenstuk p {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
 p {
   font-size: 22px;
+}
+.muziekjes {
+  color: black;
 }
