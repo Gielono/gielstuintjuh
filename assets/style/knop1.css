@@ -41,3 +41,19 @@ video {
   display: block;
   margin: 0 auto;
 }
+.img1 {
+}
+
+.carnertussenstuk {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: #3f3fa3;
+}
+
+p {
+  font-size: 22px;
+}
