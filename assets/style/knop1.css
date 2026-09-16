@@ -80,6 +80,11 @@ video {
 p {
   font-size: 22px;
 }
-.muziekjes {
-  color: black;
+.typhoon {
+  font-size: 1900%;
+  line-height: 0.8;
+  font-family: Nake;
+  text-shadow: 0.1em 0.05em 0.1em #3f3fa3;
+  margin-top: -8rem;
+  align-items: center;
 }
