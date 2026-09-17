@@ -1,4 +1,4 @@
-## dinsdag 15 september
+## Woensdag 16 september
 Check-out
 Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
 Balans, visuele hierarchie en contrast. 
