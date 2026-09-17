@@ -10,6 +10,25 @@ De gestalt principes, ik wil mijn site herkenbaar houden op alle schermen. Gelij
 Ik heb in de les een schets ronde gedaan waarin ik feedback heb gekregen op meerdere verschillende vlakken. Ik kreeg wat feedback over mijn lettertype, en dat dit wat spannender en aantrekkelijker kan. Ook kreeg ik wat feedback over mijn layout, samir heeft ernaast getekent wat hij zelf voor ogen had, de tekst naast elkaar inplaats van 2 keer onder elkaar. Zodat de gebruiker niet hoeft te zoeken naar het vervolg van de tekst
 <img width="1417" height="1062" alt="schets6" src="https://github.com/user-attachments/assets/8ad707e2-c818-4e8a-a6bb-8f7b8aead1fe" />
 
+ # Voorbereiding les:
+
+Artikelen woensdag 16 september
+Vijf principes van visueel ontwerp
+1. Schaal, belangrijkste elementen groot, minder belangrijke kleiner. Hoe groter een element hoe meer aandacht er naar toe gaat. Een goed ontwerp gebruikt vaak niet meer dan 3 maten
+2. Visuele hiërarchie, het begeleiden van het oog zodat het verschillende elementen opmerkt in de juiste volgorde. Kan worden bepaald door variaties in: schaal, waarde, kleur, afstand en plaatsing. Visuele hiërarchie zorgt voor duidelijkheid voor de gebruiker. Gebruik 2-3 lettergroottes om aan te geven welke tekst belangrijker is. Felle kleuren voor belangrijke items, gedempte kleuren voor minder belangrijke items.
+3. Balans, gelijk verdeelde hoeveelheid items aan beide kanten van de midden as van je scherm. Kan zowel verticaal als horizontaal. Zowel symmetrisch als a-symmetrisch werkt ten opzichte van de as. Radiaal: elementen stralen uit vanuit een centraal punt in een cirkelvormige richting. Goede balans creëert een vorm van energie en beweging ( goed voor mijn site)
+4. Contrast, om aan te geven dat qsommige elementen anders zijn dan anderen. Contrast geeft de ogen een merkbaar verschil tussen objecten om te benadrukken dat ze anders zijn. 
+5. Gestaltprincipes, hoe mensen beelden die uit veel elementen bestaan vereenvoudigen, door onbewust te rangschikken. De gehele waarneming inplaats van losse elementen. Verschillende principes: gelijkenis, continuïteit, sluiting, nabijheid. Nabijheid slaat op elementen die dicht bij elkaar staan en sneller worden gezien als deel van dezelfde groep. Deze principes verhogen de bruikbaarheid en wekken emoties en genot op
+Design consistentie, is de sleutel tot een goede product ervaring. 
+1. visuele consistentie: kleur pallet, typografie en spacing en lay-out
+2. Functionele consistentie: interacties, controls en componenten.
+3. Interne consistentie: in een product: alle delen een product zien en doen consistent.
+Wat zijn de voordelen van consistent design?
+Betere usability, gebruikers kunnen al voorspellen hoe een element zich gaat gedragen/ hoe dingen eruit gaan zien. Zorgt voor een intuïtieve ervaring.
+Snellere leercurve, gebruikers die bekend zijn met een deel van het product kunnen makkelijk navigeren in andere van hetzelfde merk
+Enhanced Aesthetics, versterkt visuele aantrekkelijkheid en oogt meer professioneel.
+Reduced errors, meer voorspelbare interacties minimaliseer errors en bevorder betrouwbaarheid
+Brand recognition, consistent gebruik van visuele en functionele elementen bevorderen de identiteit van een merk. 
 
 ## Maandag 14 september
 checkout les:
