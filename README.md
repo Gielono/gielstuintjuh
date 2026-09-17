@@ -1,4 +1,36 @@
-Maandag 14 september
+## dinsdag 15 september
+Check-out
+Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+Balans, visuele hierarchie en contrast. 
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? 
+Een grid is een soort bak waarin je elementen kan plaatsen, maar in deze bak kan je 'spelen' met de elementen om het levendig te houden.
+Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
+De gestalt principes, ik wil mijn site herkenbaar houden op alle schermen. Gelijkenis, continuiteit zijn dingen die ik in mijn website wil verwerken zodat gebruikers gewend raken aan mijn stijl en er sneller en intuitiever doorheen kunnen werken.
+
+Ik heb in de les een schets ronde gedaan waarin ik feedback heb gekregen op meerdere verschillende vlakken. Ik kreeg wat feedback over mijn lettertype, en dat dit wat spannender en aantrekkelijker kan. Ook kreeg ik wat feedback over mijn layout, samir heeft ernaast getekent wat hij zelf voor ogen had, de tekst naast elkaar inplaats van 2 keer onder elkaar. Zodat de gebruiker niet hoeft te zoeken naar het vervolg van de tekst
+<img width="1417" height="1062" alt="schets6" src="https://github.com/user-attachments/assets/8ad707e2-c818-4e8a-a6bb-8f7b8aead1fe" />
+
+ # Voorbereiding les:
+
+Artikelen woensdag 16 september
+Vijf principes van visueel ontwerp
+1. Schaal, belangrijkste elementen groot, minder belangrijke kleiner. Hoe groter een element hoe meer aandacht er naar toe gaat. Een goed ontwerp gebruikt vaak niet meer dan 3 maten
+2. Visuele hiërarchie, het begeleiden van het oog zodat het verschillende elementen opmerkt in de juiste volgorde. Kan worden bepaald door variaties in: schaal, waarde, kleur, afstand en plaatsing. Visuele hiërarchie zorgt voor duidelijkheid voor de gebruiker. Gebruik 2-3 lettergroottes om aan te geven welke tekst belangrijker is. Felle kleuren voor belangrijke items, gedempte kleuren voor minder belangrijke items.
+3. Balans, gelijk verdeelde hoeveelheid items aan beide kanten van de midden as van je scherm. Kan zowel verticaal als horizontaal. Zowel symmetrisch als a-symmetrisch werkt ten opzichte van de as. Radiaal: elementen stralen uit vanuit een centraal punt in een cirkelvormige richting. Goede balans creëert een vorm van energie en beweging ( goed voor mijn site)
+4. Contrast, om aan te geven dat qsommige elementen anders zijn dan anderen. Contrast geeft de ogen een merkbaar verschil tussen objecten om te benadrukken dat ze anders zijn. 
+5. Gestaltprincipes, hoe mensen beelden die uit veel elementen bestaan vereenvoudigen, door onbewust te rangschikken. De gehele waarneming inplaats van losse elementen. Verschillende principes: gelijkenis, continuïteit, sluiting, nabijheid. Nabijheid slaat op elementen die dicht bij elkaar staan en sneller worden gezien als deel van dezelfde groep. Deze principes verhogen de bruikbaarheid en wekken emoties en genot op
+Design consistentie, is de sleutel tot een goede product ervaring. 
+1. visuele consistentie: kleur pallet, typografie en spacing en lay-out
+2. Functionele consistentie: interacties, controls en componenten.
+3. Interne consistentie: in een product: alle delen een product zien en doen consistent.
+Wat zijn de voordelen van consistent design?
+Betere usability, gebruikers kunnen al voorspellen hoe een element zich gaat gedragen/ hoe dingen eruit gaan zien. Zorgt voor een intuïtieve ervaring.
+Snellere leercurve, gebruikers die bekend zijn met een deel van het product kunnen makkelijk navigeren in andere van hetzelfde merk
+Enhanced Aesthetics, versterkt visuele aantrekkelijkheid en oogt meer professioneel.
+Reduced errors, meer voorspelbare interacties minimaliseer errors en bevorder betrouwbaarheid
+Brand recognition, consistent gebruik van visuele en functionele elementen bevorderen de identiteit van een merk. 
+
+## Maandag 14 september
 checkout les:
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 Een website wordt lelijk wanneer je van scherm grootte veranderd en de inhoud niet responsive is, dus meebeweegt. Dit kan je fixen door elementen tags te geven waardoor ze meebewegen met de rest, of juist niet. En de site handmatig aan te passen met @media tags voor verschillende scherm groottes.
@@ -20,19 +52,28 @@ Wanneer is er een verandering van vormgeving/layout nodig? Waarom? Wat is er 'le
 In mijn eigen site gebruik ik 2 kolomen met knoppen, wanneer het scherm kleiner wordt moet dit naar single-column gaan. Dit is mij al gelukt, maar de titel beweegt nog niet lekker mee met de rest dus die wil ik graag beter centreren.
 
 
-Vrijdag 9 september
+## Vrijdag 9 september
 Vandaag heb ik doorgewerkt aan mijn website. Omdat ik van desktop naar telefoon toe werk heb ik wat hulp gevraagd aan nicky om me te helpen begrijpen hoe ik mijn design responsive maak. De @media tag is me nu duidelijk en het lukt me steeds beter om alle elementen aan te passen aan kleinere scherm groottes.
 Ook heb ik samen met student assistenten gekeken naar mijn schetsen en gekeken hoe ik dit het best kan laten lukken in html/css, uiteindelijk heb ik gekozen voor een grit structuur met de losse elementen op flex. Daardoor komen de blok elementen naast elkaar.
 
 -note to self, charley had het over een andere grit structuur die je de mogelijkheid geeft een echt gehusselde structuur te krijgen waarin de blokken niet strak naast elkaar liggen maar langs elkaar lopen. vraag hulp maandag!
 
-Donderdag 10 september
+## Donderdag 10 september
+
+wat wil ik in mijn site?
+<img width="1417" height="1062" alt="schets4" src="https://github.com/user-attachments/assets/5f01a9f4-4244-46ce-bb4a-56cde73cb754" />
 
 Ik heb vandaag mijn crazy 8 verder verwerkt en uitgewerkt tot 5 mobile first schetsen, hierdoor kreeg ik een beter beeld van hoe ik bepaalde elementen uit mijn crazy 8 zou kunnen gebruiken in mijn site. De 3 ontwerpen uit de crazy 8 waar ik mee door ga ga ik combineren om tot een zo dynamisch en levendig mogelijk ontwerp te komen. Dit is een combinatie van diepte en licht, een warrige strakke vormen structuur en vloeiende lijnen met veel beweging en contrasterende kleuren.
+mobile first schetsen:
+<img width="1062" height="1417" alt="schets3" src="https://github.com/user-attachments/assets/e3dc91f9-b361-4c5b-ad52-764994fc4600" />
+<img width="1417" height="1062" alt="schets2" src="https://github.com/user-attachments/assets/e83926f1-0482-4096-a31f-bc69ecf552b9" />
+<img width="1350" height="1063" alt="schets1" src="https://github.com/user-attachments/assets/58b995e1-5589-4e77-a4e4-a5b6bfe179b0" />
 
 Met annotaties geef ik aan wat ik verwacht dat elementen doen.
 
-Woensdag 9 september
+## Woensdag 9 september
+crazy 8 uit de visual research:
+<img width="1062" height="1271" alt="schets5" src="https://github.com/user-attachments/assets/d8db6761-1b35-43d0-a7a1-753e0b5dfcfc" />
 
 Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
 De essentie van wat ik heb gepresenteerd is dat albumhoezen een mooie combinatie zijn van 3 dingen waar ik me graag mee bezig houd: muziek, kunst en cultuur.
