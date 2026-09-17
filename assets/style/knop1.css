@@ -15,7 +15,7 @@ h1 {
   line-height: 0.8;
   font-family: Nake;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  margin-top: -8rem;
+  margin-top: -15rem;
 }
 .header {
   align-items: center;
@@ -114,4 +114,77 @@ p {
 .img4 {
   align-items: center;
   width: 50rem;
+}
+.favoriete-nummers {
+  list-style-type: none;
+  font-size: 200%;
+  a {
+    color: white;
+    transition: 0.4s ease-in-out;
+
+    &:hover {
+      color: #3f3fa3;
+    }
+  }
+}
+@media (max-width: 800px) {
+  header {
+    margin-top: 0;
+    max-width: 90vw;
+  }
+  h1 {
+    font-size: 1000%;
+    margin-top: 0;
+    align-items: center;
+    max-width: 90vw;
+    margin: auto;
+  }
+  .nav {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-top: 2rem;
+
+    font-size: 200%;
+  }
+  .container {
+    grid-template-columns: repeat(1, 1fr);
+    width: 80%;
+    margin: auto;
+    max-width: 60vw;
+  }
+  .img2 {
+    align-items: center;
+    width: 60rem;
+  }
+  .img4 {
+    align-items: center;
+
+    body {
+      margin-top: auto;
+      align-items: center;
+      transform: rotateX(0deg);
+      transform-origin: 0% 0%;
+    }
+    .blok5 {
+      width: 100%;
+      margin: auto;
+      max-width: vw;
+      margin-top: 1.5rem;
+      font-size: 400%;
+    }
+    .blok1 {
+      max-width: 70vw;
+    }
+    .blok2 {
+      max-width: 70vw;
+    }
+    .blok3 {
+      max-width: 70vw;
+    }
+    .blok4 {
+      max-width: 70vw;
+    }
+  }
 }

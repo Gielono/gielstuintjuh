@@ -41,7 +41,7 @@
 @font-face {
   font-family: Nake;
   src: url(/assets/type/Nake-Regular.otf);
-  font-weight: 400;
+  font-weight: 200;
   font-style: normal;
 }
 @font-face {
@@ -76,23 +76,11 @@ body {
   transform-origin: 50% 100%;
   align-items: center;
 }
-body.logboekbody {
-  font-family: "degolan", system-ui;
-  background-color: black;
-  color-scheme: light dark;
-  text-align: center;
-  max-width: 1000px;
-  margin: auto;
-  padding: 40px 20px;
-  text-align: center;
-  transform: rotateX(0deg);
-  transform-origin: 0% 0%;
-}
 
 header {
   max-width: 90vw;
   margin: auto;
-  margin-top: -30rem;
+  margin-top: -33rem;
 }
 
 .nav {
@@ -139,22 +127,10 @@ h1 {
   line-height: 0.8;
   max-width: 90vw;
   align-items: center;
-}
-.logboek {
-  rotate: 0deg;
-  display: grid;
-  place-items: center;
-  font-family: "Comic Relief";
-  font-weight: 400;
-  font-style: normal;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  font-size: 800%;
-  line-height: 0.8;
-  margin-top: 0rem;
-  font-family: Nake;
-}
-.logboekkopjes {
-  font-size: 2em;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
 }
 .derest {
   color-scheme: light dark;
@@ -206,7 +182,7 @@ img {
   text-align: center;
   padding: 0;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #422b6f;
+  background-color: #4f3a79;
   margin-top: 20px;
   border: 5px;
   border-color: white;
@@ -219,7 +195,7 @@ img {
 .blok2 {
   width: auto;
   aspect-ratio: 1 / 1;
-  background-color: #422b6f;
+  background-color: #4f3a79;
   margin-top: 2rem;
   align-items: center;
   justify-content: center;
@@ -227,7 +203,7 @@ img {
   font-size: 800%;
   text-align: center;
   padding: 0;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  text-shadow: 0.1em 0.1em 0.1em #b544a6;
   margin-top: 20px;
   font-family: "Movies";
   text-decoration: none;
@@ -237,13 +213,13 @@ img {
 .blok3 {
   width: auto;
   aspect-ratio: 1 / 1;
-  background-color: #422b6f;
+  background-color: #4f3a79;
   align-items: center;
   justify-content: center;
   display: flex;
   font-size: 800%;
   padding: 0;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  text-shadow: 0.1em 0.1em 0.1em #b544a6;
   font-family: "Movies";
   text-decoration: none;
   color: inherit;
@@ -252,7 +228,7 @@ img {
 .blok4 {
   width: auto;
   aspect-ratio: 1 / 1;
-  background-color: #422b6f;
+  background-color: #a11e59;
   align-items: center;
   justify-content: center;
   display: flex;
@@ -268,7 +244,7 @@ img {
   width: 100%;
   margin-top: 1.5rem;
   aspect-ratio: 2 / 1;
-  background-color: #422b6f;
+  background-color: #4f3a79;
   align-items: center;
   justify-content: center;
   display: flex;
@@ -334,7 +310,7 @@ img {
     max-width: 90vw;
   }
   h1 {
-    font-size: 930%;
+    font-size: 1000%;
     margin-top: 0;
     align-items: center;
     max-width: 90vw;
@@ -346,6 +322,8 @@ img {
     flex-wrap: wrap;
     align-content: center;
     margin-top: 2rem;
+
+    font-size: 200%;
   }
   .container {
     grid-template-columns: repeat(1, 1fr);
@@ -360,10 +338,23 @@ img {
     transform-origin: 0% 0%;
   }
   .blok5 {
-    width: 80%;
+    width: 100%;
     margin: auto;
-    max-width: 60vw;
+    max-width: 70vw;
     margin-top: 1.5rem;
+    font-size: 400%;
+  }
+  .blok1 {
+    max-width: 70vw;
+  }
+  .blok2 {
+    max-width: 70vw;
+  }
+  .blok3 {
+    max-width: 70vw;
+  }
+  .blok4 {
+    max-width: 70vw;
   }
   html {
     perspective: 0;
