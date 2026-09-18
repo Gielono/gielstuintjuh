@@ -10,6 +10,11 @@
   font-weight: 400;
   font-style: normal;
 }
+html {
+  color-scheme: light dark;
+  --color: light-dark(black, white);
+  --background-color: light-dark(white, black);
+}
 h1 {
   font-size: 1900%;
   line-height: 0.8;
@@ -23,7 +28,7 @@ h1 {
 }
 body {
   font-family: system-ui, sans-serif;
-  background-color: black;
+  background-color: var(--background-color);
   color-scheme: light dark;
   text-align: center;
   max-width: 1000px;
@@ -64,6 +69,15 @@ body {
   }
 }
 .favoriete-nummers {
+  font-size: 24px;
+  line-height: 5rem;
+  background-color: #5252a1;
+  h2 {
+    font-size: 40px;
+    background-color: #3f3fa3;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
 }
 video {
   max-width: 100%;
@@ -76,7 +90,9 @@ video {
 .img1 {
   margin-top: rem;
 }
-
+h2 {
+  font-size: 40%;
+}
 .carnertussenstuk {
   width: 100vw;
   position: relative;
