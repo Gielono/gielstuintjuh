@@ -118,17 +118,10 @@ p {
   width: 50rem;
 }
 .favoriete-nummers {
-  background-color: #5252a1;
-  padding: 60px 20px;
-  text-align: center;
   list-style-type: none;
   font-size: 200%;
-  font-family: system-ui, sans-serif;
-  font-style: normal;
-
   a {
     color: white;
-    text-decoration: underline;
     transition: 0.4s ease-in-out;
 
     &:hover {
@@ -136,6 +129,7 @@ p {
     }
   }
 }
+
 ul {
   list-style-type: none;
 }
