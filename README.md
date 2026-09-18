@@ -4,12 +4,12 @@ wat maakt een tekening goed en wat niet
 <img width="572" height="749" alt="Scherm­afbeelding 2026-09-18 om 09 43 08" src="https://github.com/user-attachments/assets/3b7c0d7a-d6b8-4f60-bac4-c213921f5edf" />
 <img width="1170" height="2532" alt="IMG_6383" src="https://github.com/user-attachments/assets/c36e921f-69b1-4efa-8582-46a57b1c9504" />
 <img width="2532" height="1170" alt="IMG_6384" src="https://github.com/user-attachments/assets/b71e7ee4-9083-457c-91e6-9b55671e8072" />
-
+<img width="1170" height="2532" alt="IMG_6382" src="https://github.com/user-attachments/assets/7910f7f8-af49-4a99-8186-1f07f939995c" /><img width="2532" height="1170" alt="IMG_6380" src="https://github.com/user-attachments/assets/01ee4e1e-e24f-4622-af33-b291d081dfd1" />
+<img width="2532" height="1170" alt="IMG_6381" src="https://github.com/user-attachments/assets/bd1e617a-95db-4fd2-9884-b19cd7753985" />
 
 
 ## Donderdag 17 september:
-Vandaag heb ik doorgewerkt aan mijn site en wat feedback uit de feedback ronde verwerkt in mijn design. Ik had feedback gekregen op het font van de knoppen, dat het wat <img width="1170" height="2532" alt="IMG_6382" src="https://github.com/user-attachments/assets/7910f7f8-af49-4a99-8186-1f07f939995c" /><img width="2532" height="1170" alt="IMG_6380" src="https://github.com/user-attachments/assets/01ee4e1e-e24f-4622-af33-b291d081dfd1" />
-<img width="2532" height="1170" alt="IMG_6381" src="https://github.com/user-attachments/assets/bd1e617a-95db-4fd2-9884-b19cd7753985" />
+Vandaag heb ik doorgewerkt aan mijn site en wat feedback uit de feedback ronde verwerkt in mijn design. Ik had feedback gekregen op het font van de knoppen, dat het wat 
  moet zijn voor de gebruiker om naar te kijken en te gebruiken. Ik wilde eigenlijk zelf in illustrator de blokken met text ontwerpen maar is niet gelukt met de tijd. Dus heb ik een goede vervangende font gevonden, dit zorgt voor een meer speelse levendige uitstraling van de website. Ook kreeg ik feedback van Bera over de knoppen, ik was zelf niet tevreden met het uiterlijk van de blokken en de kleur ervan. Dus heb ik een hover animatie toegevoegd d.m.v transform: translate. Dit zorgt voor meer interactie in de site en een interessantere look en een goede user experience. 
 Ik heb alle tekst, plaatjes en videos toegevoegd aan de artiesten pages. Het is nu een mooie combinatie van tekst en beeldmateriaal geworden, die de artiest goed weerspiegelen en mijn ervaring oop het concert eveneens.
 ## Woensdag 16 september
