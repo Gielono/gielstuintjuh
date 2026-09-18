@@ -10,6 +10,12 @@
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: Movies;
+  src: url(/assets/type/Fifties\ Movies.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
 html {
   color-scheme: light dark;
   --color: light-dark(black, white);
@@ -72,15 +78,36 @@ body {
   font-size: 24px;
   line-height: 5rem;
   background-color: black;
+  font-family: "movies";
+  list-style-type: none;
+  font-size: 300%;
   ul {
     margin-left: 100px;
     margin-right: 100px;
-    background-color: #4f3a79;
+
+    background-color: #3f3fa3;
   }
   h2 {
     font-size: 40px;
+    font-family: "Movies";
     background-color: #5252a1;
-    margin-bottom: -3.2%;
+    text-shadow: 0.1em 0.05em 0.1em #191961;
+    margin-bottom: -4.8%;
+    font-size: 150%;
+    line-height: 1;
+    padding: 20px;
+  }
+
+  a {
+    color: white;
+    transition: 0.4s ease-in-out;
+
+    &:hover {
+      color: black;
+    }
+  }
+  li a {
+    text-decoration: solid;
   }
 }
 video {
@@ -137,21 +164,10 @@ p {
   align-items: center;
   width: 50rem;
 }
-.favoriete-nummers {
-  list-style-type: none;
-  font-size: 200%;
-  a {
-    color: white;
-    transition: 0.4s ease-in-out;
-
-    &:hover {
-      color: #3f3fa3;
-    }
-  }
-}
 
 ul {
   list-style-type: none;
+  text-decoration: none;
 }
 @media (max-width: 800px) {
   header {
