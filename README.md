@@ -1,3 +1,6 @@
+## Donderdag 17 september:
+Vandaag heb ik doorgewerkt aan mijn site en wat feedback uit de feedback ronde verwerkt in mijn design. Ik had feedback gekregen op het font van de knoppen, dat het wat aantrekkelijker moet zijn voor de gebruiker om naar te kijken en te gebruiken. Ik wilde eigenlijk zelf in illustrator de blokken met text ontwerpen maar is niet gelukt met de tijd. Dus heb ik een goede vervangende font gevonden, dit zorgt voor een meer speelse levendige uitstraling van de website. Ook kreeg ik feedback van Bera over de knoppen, ik was zelf niet tevreden met het uiterlijk van de blokken en de kleur ervan. Dus heb ik een hover animatie toegevoegd d.m.v transform: translate. Dit zorgt voor meer interactie in de site en een interessantere look en een goede user experience. 
+Ik heb alle tekst, plaatjes en videos toegevoegd aan de artiesten pages. Het is nu een mooie combinatie van tekst en beeldmateriaal geworden, die de artiest goed weerspiegelen en mijn ervaring oop het concert eveneens.
 ## Woensdag 16 september
 Check-out
 Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
