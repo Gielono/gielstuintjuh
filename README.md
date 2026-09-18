@@ -1,4 +1,49 @@
 ## vrijdag 18 September:
+ # Checkout vragen:
+ # Orienteren en begrijpen:
+
+Waarom geven de docenten deze opdracht?
+Omdat het belangrijk is dat je begrijpt waar je mee werkt en wat je er allemaal mee kan maken. Ze geven ons de tools om zelf te ontdekken wat er allemaal mogelijk is en zo leer je het beste.
+
+Welke technieken gebruik ik?
+Ik heb veel geleerd van html en css deze 2 weken door gewoon te doen. Ik had een duidelijk beeld in mijn hoofd van wat ik wilde en heb toen met veel gekloot en vragen stellen aan leraren, klasgenoten en ai. Een website gemaakt die dicht bij mijn idee komt.
+Wat zijn de randvoorwaarden?
+Er waren een paar randvoorwaarden, zo moest je de technieken toepassen die je in de deepdives hebt geleerd. De custom properties, @font faces en de grids. Ook moest je ontwerpen voor meerdere devices, dus moest je design responsive zijn. Ik heb gewerkt van desktop naar telefoon, dit was de verkeerde volgorde maar heb alsnog mijn best gedaan om het responsive te maken.
+
+Waar gebruik je HTML/CSS voor?
+Met html maak je een structuur die je met css helemaal kan stylen naar hoe jij dat wil. (heb deze deepdive ook gedaan en meer uitgelegd, staat in eerste week)
+
+Wat kan er allemaal met CSS?
+Met css kan je eenvoudige dingen doen, zoals dingen kleur geven, fonts groter of kleiner maken, grids maken, etc. Maar je kan ook wat technischere dingen met css doen. Zo kan je kleine animaties maken in css, hover functies. Dat zijn de dingen die ik nu weet en ik hoop komende weken dit lijstje flink te kunnen aanvullen.
+
+# Verbeelden en conceptualiseren:
+Lukt het om verschillende ideeën te bedenken?
+Het is mij gelukt om ideeën te bedenken, toen wij de opdracht kregen wist ik al vrij snel dat ik iets met muziek wilde. Ik wilde graag een website maken over muziek, omdat het mij erg interesseert en het leek mij dat je er coole passende sites bij kan ontwerpen. Ik had eerst het idee om een website te maken over album hoezen, dit heb ik toen toch veranderd naar een site over concerten die ik heb bezocht. Ik heb dit gedaan omdat ik in de online les een visual guide ging maken adhv fotos. Ik had veel fotos van concerten op mn tel en ik vond dit een cool thema met een coole sfeer dus heb ik hier uiteindelijk voor gekozen.
+
+Lukt het om je ideeën te schetsen?
+Het is mij gelukt om mijn ideeën op papier te krijgen, wel zou ik graag nog beter willen leren schetsen zodat ik zonder er echt bij na te denken een idee kan verwerkelijken en vergelijken met andere ideeën op papier.
+
+Wat doet deze CSS-property?
+Spelen met materiaal is ook een manier om op nieuwe ideeën te komen. Een geweldig variable font kan je ineens een heel nieuw idee geven. Spelen met CSS-gradients kan je een onverwachte vormgevingsrichting opsturen. Spelen met CSS animaties en transities kan je nieuwe ideeën geven over hoe de interactie moet werken. Etc.
+Welke content, en welke HTML heb ik nodig?
+Ik had fotos van de concerten nodig waar ik was geweest, deze stonden op mn telefoon. Ook had ik videos nodig van de concerten, deze stonden ook op mijn tel. Ik wilde een stukje met mijn favoriete nummers van de artiesten maken, met linkjes naar de nummers op spotify. Voor de rest wilde ik kleine stukjes html tekst over mijn ervaring op het concert en een kleine backstory van de artiest zelf.
+
+Hoe kan ik dit soort content vormgeven?
+Ik heb dit vormgegeven door het best minimalistisch te houden, de structuur was een foto met daar onder een balk die het hele scherm lang is met daarin text. Ik heb de css van de artiesten paginas redelijk simpel gehouden om de aandacht op de visuele content te houden.
+Wat als ik hier nu eens 1000 invul?
+We zijn eigenijk best vaak voorzichtig. Onze ontwerpen zijn dus ook vaak nogal subtiel. Dan denken we een zeer expressief ding gemaakt te hebben, maar het valt niemand echt op. Probeer dus ook eens 1000 in te vullen, in plaats van 1.1. Dingen worden dan niet alleen enorm onsubtiel, maar er gebeuren ook dingen die je niet van tevoren kunt bedenken. Ook dat hoort natuurlijk bij verbeelden en conceptualiseren.
+
+# Prototypen en uitwerken:
+Begrijpen bezoekers de site?
+Ik heb klasgenoten gevraagd mijn site te gebruiken en iedereen snapt de bedoeling. De aandacht gaat eerst naar de titel (top) en daarna naar de blokken. Het is al snel duidelijk dat je erop kan klikken wanneer ze over de blokken hoveren. De content in de paginas spreekt voor zich en is duidelijk overzichtelijk heb ik teruggekregen van onder andere samir, mijn moeder en lars.
+Wat vindt de opdrachtgever er van?
+Wat ik tot nu toe heb is een werkend pro
+Werkt dit wel?
+Vaak verzinnen we dingen die niet kunnen, of die heel moeilijk te maken zijn. Daar kom je vaak pas achter als je gaat bouwen. Wacht dus vooral niet te lang, je wil er niet in de laatste week achter komen dat iets niet kan.
+Oooooh, kan dit óók?!
+Tijdens het maken kom je vaak ook op hele nieuwe ideeën. Door een CSS techniek te gebruiken kom je er achter hoe die werkt, en kom je er achter dat je er nog veel meer mee kunt doen. Je leert dit soort technieken veel beter door ze echt toe te passen, dan zit het meteen in je vingers.
+
+
 Retrospect 1
 wat maakt een tekening goed en wat niet
 <img width="572" height="749" alt="Scherm­afbeelding 2026-09-18 om 09 43 08" src="https://github.com/user-attachments/assets/3b7c0d7a-d6b8-4f60-bac4-c213921f5edf" />
