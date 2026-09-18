@@ -1,14 +1,18 @@
 ## vrijdag 18 September:
 Checkout vragen:
 Orienteren en begrijpen:
+
 Waarom geven de docenten deze opdracht?
 Omdat het belangrijk is dat je begrijpt waar je mee werkt en wat je er allemaal mee kan maken. Ze geven ons de tools om zelf te ontdekken wat er allemaal mogelijk is en zo leer je het beste.
+
 Welke technieken gebruik ik?
 Ik heb veel geleerd van html en css deze 2 weken door gewoon te doen. Ik had een duidelijk beeld in mijn hoofd van wat ik wilde en heb toen met veel gekloot en vragen stellen aan leraren, klasgenoten en ai. Een website gemaakt die dicht bij mijn idee komt.
 Wat zijn de randvoorwaarden?
 Er waren een paar randvoorwaarden, zo moest je de technieken toepassen die je in de deepdives hebt geleerd. De custom properties, @font faces en de grids. Ook moest je ontwerpen voor meerdere devices, dus moest je design responsive zijn. Ik heb gewerkt van desktop naar telefoon, dit was de verkeerde volgorde maar heb alsnog mijn best gedaan om het responsive te maken.
+
 Waar gebruik je HTML/CSS voor?
 Met html maak je een structuur die je met css helemaal kan stylen naar hoe jij dat wil. (heb deze deepdive ook gedaan en meer uitgelegd, staat in eerste week)
+
 Wat kan er allemaal met CSS?
 Met css kan je eenvoudige dingen doen, zoals dingen kleur geven, fonts groter of kleiner maken, grids maken, etc. Maar je kan ook wat technischere dingen met css doen. Zo kan je kleine animaties maken in css, hover functies. Dat zijn de dingen die ik nu weet en ik hoop komende weken dit lijstje flink te kunnen aanvullen.
 
