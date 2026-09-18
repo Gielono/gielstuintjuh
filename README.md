@@ -2,7 +2,7 @@
 Retrospect 1
 wat maakt een tekening goed en wat niet
 <img width="572" height="749" alt="Scherm­afbeelding 2026-09-18 om 09 43 08" src="https://github.com/user-attachments/assets/3b7c0d7a-d6b8-4f60-bac4-c213921f5edf" />
-<img width="1170" height="2532" alt="IMG_6383" src="https://github.com/user-attachments/assets/c36e921f-69b1-4efa-8582-46a57b1c9504" />
+
 <img width="2532" height="1170" alt="IMG_6384" src="https://github.com/user-attachments/assets/b71e7ee4-9083-457c-91e6-9b55671e8072" />
 <img width="1170" height="2532" alt="IMG_6382" src="https://github.com/user-attachments/assets/7910f7f8-af49-4a99-8186-1f07f939995c" /><img width="2532" height="1170" alt="IMG_6380" src="https://github.com/user-attachments/assets/01ee4e1e-e24f-4622-af33-b291d081dfd1" />
 <img width="2532" height="1170" alt="IMG_6381" src="https://github.com/user-attachments/assets/bd1e617a-95db-4fd2-9884-b19cd7753985" />
