@@ -63,6 +63,8 @@ body {
     }
   }
 }
+.favoriete-nummers {
+}
 video {
   max-width: 100%;
   height: auto;
@@ -126,6 +128,9 @@ p {
       color: #3f3fa3;
     }
   }
+}
+ul {
+  list-style-type: none;
 }
 @media (max-width: 800px) {
   header {
