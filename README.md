@@ -33,6 +33,15 @@ Ik heb dit vormgegeven door het best minimalistisch te houden, de structuur was 
 Wat als ik hier nu eens 1000 invul?
 We zijn eigenijk best vaak voorzichtig. Onze ontwerpen zijn dus ook vaak nogal subtiel. Dan denken we een zeer expressief ding gemaakt te hebben, maar het valt niemand echt op. Probeer dus ook eens 1000 in te vullen, in plaats van 1.1. Dingen worden dan niet alleen enorm onsubtiel, maar er gebeuren ook dingen die je niet van tevoren kunt bedenken. Ook dat hoort natuurlijk bij verbeelden en conceptualiseren.
 
+# Prototypen en uitwerken:
+Begrijpen bezoekers de site?
+Ik heb klasgenoten gevraagd mijn site te gebruiken en iedereen snapt de bedoeling. De aandacht gaat eerst naar de titel (top) en daarna naar de blokken. Het is al snel duidelijk dat je erop kan klikken wanneer ze over de blokken hoveren. De content in de paginas spreekt voor zich en is duidelijk overzichtelijk heb ik teruggekregen van onder andere samir, mijn moeder en lars.
+Wat vindt de opdrachtgever er van?
+Wat ik tot nu toe heb is een werkend pro
+Werkt dit wel?
+Vaak verzinnen we dingen die niet kunnen, of die heel moeilijk te maken zijn. Daar kom je vaak pas achter als je gaat bouwen. Wacht dus vooral niet te lang, je wil er niet in de laatste week achter komen dat iets niet kan.
+Oooooh, kan dit óók?!
+Tijdens het maken kom je vaak ook op hele nieuwe ideeën. Door een CSS techniek te gebruiken kom je er achter hoe die werkt, en kom je er achter dat je er nog veel meer mee kunt doen. Je leert dit soort technieken veel beter door ze echt toe te passen, dan zit het meteen in je vingers.
 
 
 Retrospect 1
