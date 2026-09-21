@@ -1,5 +1,8 @@
 ## Maandag 21 September:
 Vandaag zijn we begonnen met sprint 2, we hebben eerst uitleg gekregen over wetgeving en juiste html structuren. Daarna kregen we een lesje gestructureerd coderen van justus. We zetten onze eigen content in een nieuwe map, samen met justus typten we code op de manier waarop het hoort. Het verbaasde me wel hoe sommige dingen verschilde met mijn eigen site. Zo gebruikte ze geen margins en classes, maar daar hadden ze andere handige fixes op. Wat ik mee ga nemen naar mijn eigen site: De custom colors in de html tag, De grid template areas waarmee je waardes kan geven aan delen in je site. Dit ga ik verwerken in mijn site door de (. main .) te gebruiken voor mijn blokken. Zo hoef ik het niet met margins te doen maar is het een vaste waarde.
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-21 om 17 23 32" src="https://github.com/user-attachments/assets/a279be8e-1c66-41a8-a214-19c274b4e91f" />
+De andere opdracht van deze les was het analyseren van verschillende cookie pop-ups. Dit heb ik samen met Bera gedaan. Ik was verrast over het feit dat er best veel informatie van je wordt gebruikt, ook dingen als hoe je op die site bent gekomen. En dat deze worden gedeeld met heel veel externe partners.
+<img width="890" height="777" alt="Scherm­afbeelding 2026-09-21 om 17 51 35" src="https://github.com/user-attachments/assets/4298c8e8-da0f-4d2f-95bf-b4d0ce5ca01a" />
 ## vrijdag 18 September:
  # Checkout vragen:
  # Orienteren en begrijpen:
