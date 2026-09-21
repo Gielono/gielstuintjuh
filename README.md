@@ -1,3 +1,5 @@
+## Maandag 21 September:
+Vandaag zijn we begonnen met sprint 2, we hebben eerst uitleg gekregen over wetgeving en juiste html structuren. Daarna kregen we een lesje gestructureerd coderen van justus. We zetten onze eigen content in een nieuwe map, samen met justus typten we code op de manier waarop het hoort. Het verbaasde me wel hoe sommige dingen verschilde met mijn eigen site. Zo gebruikte ze geen margins en classes, maar daar hadden ze andere handige fixes op. Wat ik mee ga nemen naar mijn eigen site: De custom colors in de html tag, De grid template areas waarmee je waardes kan geven aan delen in je site. Dit ga ik verwerken in mijn site door de (. main .) te gebruiken voor mijn blokken. Zo hoef ik het niet met margins te doen maar is het een vaste waarde.
 ## vrijdag 18 September:
  # Checkout vragen:
  # Orienteren en begrijpen:
