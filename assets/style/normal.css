@@ -5,49 +5,18 @@
   font-weight: 400;
   font-style: normal;
 }
-@font-face {
-  font-family: Kaway;
-  src: url(../type/Kaway.ttf);
-  font-weight: 400;
-  font-style: normal;
-}
+
 @font-face {
   font-family: Degolan;
   src: url(../type/Degolan.otf);
   font-weight: 400;
   font-style: normal;
 }
-@font-face {
-  font-family: Flowers;
-  src: url(../type/Flowers\ Kingdom.ttf);
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: fatkat;
-  src: url(../type/Fat\ Kat\ -\ \(Demo\)\ hanscostudio.com.ttf);
-  font-weight: 200;
-}
-@font-face {
-  font-family: california;
-  src: url(../type/Groen\ California\ Sans.ttf);
-}
-@font-face {
-  font-family: Rainsoul;
-  src: url(/assets/type/ZrtwRainsoulPersonalUse-ARdKx.otf);
-  font-weight: 400;
-  font-style: normal;
-}
+
 @font-face {
   font-family: Nake;
   src: url(/assets/type/Nake-Regular.otf);
   font-weight: 200;
-  font-style: normal;
-}
-@font-face {
-  font-family: muziek;
-  src: url(/assets/type/Music\ Sound\ -\ Free\ Personal\ Used.otf);
-  font-weight: 400;
   font-style: normal;
 }
 @font-face {
@@ -125,7 +94,7 @@ h1 {
   place-items: center;
   font-family: "Nake";
   font-style: normal;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
   font-size: 2000%;
   line-height: 0.8;
   max-width: 90vw;
@@ -319,7 +288,7 @@ img {
     max-width: 90vw;
   }
   h1 {
-    font-size: 1000%;
+    font-size: 900%;
     margin-top: 0;
     align-items: center;
     max-width: 90vw;
@@ -355,15 +324,19 @@ img {
   }
   .blok1 {
     max-width: 70vw;
+    font-size: 400%;
   }
   .blok2 {
     max-width: 70vw;
+    font-size: 400%;
   }
   .blok3 {
     max-width: 70vw;
+    font-size: 400%;
   }
   .blok4 {
     max-width: 70vw;
+    font-size: 400%;
   }
   html {
     perspective: 0;

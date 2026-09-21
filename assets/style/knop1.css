@@ -25,7 +25,7 @@ h1 {
   font-size: 1900%;
   line-height: 0.8;
   font-family: Nake;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
   margin-top: -15rem;
 }
 .header {
@@ -191,11 +191,13 @@ ul {
 
     font-size: 200%;
   }
-  .container {
-    grid-template-columns: repeat(1, 1fr);
-    width: 80%;
-    margin: auto;
-    max-width: 60vw;
+  .carnertussenstuk p {
+    font-size: 1em;
+    max-height: 80vw;
+  }
+  .carnertussenstuk {
+    font-size: 1em;
+    max-height: 80vw;
   }
   .img2 {
     align-items: center;
@@ -212,25 +214,6 @@ ul {
       align-items: center;
       transform: rotateX(0deg);
       transform-origin: 0% 0%;
-    }
-    .blok5 {
-      width: 100%;
-      margin: auto;
-      max-width: vw;
-      margin-top: 1.5rem;
-      font-size: 400%;
-    }
-    .blok1 {
-      max-width: 70vw;
-    }
-    .blok2 {
-      max-width: 70vw;
-    }
-    .blok3 {
-      max-width: 70vw;
-    }
-    .blok4 {
-      max-width: 70vw;
     }
   }
 }
