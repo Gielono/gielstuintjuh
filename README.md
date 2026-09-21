@@ -24,7 +24,7 @@ Lukt het om je ideeën te schetsen?
 Het is mij gelukt om mijn ideeën op papier te krijgen, wel zou ik graag nog beter willen leren schetsen zodat ik zonder er echt bij na te denken een idee kan verwerkelijken en vergelijken met andere ideeën op papier.
 
 Wat doet deze CSS-property?
-Spelen met materiaal is ook een manier om op nieuwe ideeën te komen. Een geweldig variable font kan je ineens een heel nieuw idee geven. Spelen met CSS-gradients kan je een onverwachte vormgevingsrichting opsturen. Spelen met CSS animaties en transities kan je nieuwe ideeën geven over hoe de interactie moet werken. Etc.
+?
 Welke content, en welke HTML heb ik nodig?
 Ik had fotos van de concerten nodig waar ik was geweest, deze stonden op mn telefoon. Ook had ik videos nodig van de concerten, deze stonden ook op mijn tel. Ik wilde een stukje met mijn favoriete nummers van de artiesten maken, met linkjes naar de nummers op spotify. Voor de rest wilde ik kleine stukjes html tekst over mijn ervaring op het concert en een kleine backstory van de artiest zelf.
 
@@ -36,13 +36,41 @@ We zijn eigenijk best vaak voorzichtig. Onze ontwerpen zijn dus ook vaak nogal s
 # Prototypen en uitwerken:
 Begrijpen bezoekers de site?
 Ik heb klasgenoten gevraagd mijn site te gebruiken en iedereen snapt de bedoeling. De aandacht gaat eerst naar de titel (top) en daarna naar de blokken. Het is al snel duidelijk dat je erop kan klikken wanneer ze over de blokken hoveren. De content in de paginas spreekt voor zich en is duidelijk overzichtelijk heb ik teruggekregen van onder andere samir, mijn moeder en lars.
-Wat vindt de opdrachtgever er van?
-Wat ik tot nu toe heb is een werkend pro
-Werkt dit wel?
-Vaak verzinnen we dingen die niet kunnen, of die heel moeilijk te maken zijn. Daar kom je vaak pas achter als je gaat bouwen. Wacht dus vooral niet te lang, je wil er niet in de laatste week achter komen dat iets niet kan.
-Oooooh, kan dit óók?!
-Tijdens het maken kom je vaak ook op hele nieuwe ideeën. Door een CSS techniek te gebruiken kom je er achter hoe die werkt, en kom je er achter dat je er nog veel meer mee kunt doen. Je leert dit soort technieken veel beter door ze echt toe te passen, dan zit het meteen in je vingers.
 
+Wat vindt de opdrachtgever er van?
+?
+
+Werkt dit wel?
+?
+
+Oooooh, kan dit óók?!
+Ik ben er in deze sprint achter gekomen dat je met behulp van @media tags in css een responsive site kan bouwen die bruikbaar is op alle schermen.
+
+# Evalueren
+Wat wil(de) ik weten/bereiken?
+Ik wilde een site ontwerpen waar ik mijn concerten op een rijtje kan zetten, er een klein stukje over mijn ervaring kan vertellen, ondersteund door beeldmatriaal. En een kleine backstory over de artiesten.
+
+Wat heb ik gedaan?
+Ik heb eerst nagedacht over welke stijl ik aan mijn website wil geven, ik had als voorbeeld foto's foto's van concerten waar ik ben geweest gepakt en ben daar abstracte beelden bij gaan zoeken. Toen heb ik schetsen gemaakt adhv elementen die het gevoel van de concert foto's nabootsen. Ik heb met diepte en blokken geëxperimenteerd. En heb dit vertaald naar mijn site.
+
+Wat was het resultaat?
+Nadat je iets hebt gedaan heb je resultaat. Sommig resultaat is heel tastbaar: je hebt een aantal schetsen, je hebt een stuk code geschreven, je hebt oefeningen gedaan, je hebt een prototype getest etc. Maar ook heb je dingen die minder tastbaar zijn, maar ook heel belangrijk: je hebt bijvoorbeeld nieuwe, verschillende inzichten na een schetsoefening. Je hebt kennis vergaard over een bepaalde CSS-techniek. Je hebt bewijs dat een bepaald ontwerpdetail (niet) goed werkt. Door je bevindingen expliciet te benoemen word je je hier bewuster van, en kan je van de verschillende oefeningen beter op waarde schatten.
+Wat weet je nu (niet)?
+Nadat je iets hebt gedaan weet je dingen. Maar je bent je ook bewuster van wat je nog niet weet. Je weet bijvoorbeeld hoe je een responsive menu maakt met flexbox, maar je weet ook dat je flexbox nog niet helemaal begrijpt. Of je weet dat uit een user-test bleek dat een bepaald concept onduidelijk is, maar je weet nog niet hoe je dit wel duidelijk moet maken. Dus: wees je bewust van wat je hebt geleerd, en van wat je nog wil leren.
+Wat vond je (niet) leuk?
+Door dingen te doen kom je er achter of je iets wel of niet leuk vindt. Je kan bijvoorbeeld denken dat je code schrijven niet leuk vindt, maar het komt best vaak voor dat je er ineens achter komt dat je CSS echt een hele leuke vormgevingstaal vindt. Daar kom je alleen achter door het te doen. Het is prettig voor jezelf om te weten wat je wel en niet graag doet. Maar dat weet je pas echt als je het vaak genoeg geprobeerd hebt.
+Voldoet het nog aan de eisen?
+Elke opdracht heeft bepaalde voorwaarden en beperkingen. Soms wijk je daar, zonder dat je het door hebt, tijdens het werken van af. Stel je dus regelmatig de vraag of datgene wat je aan het doen bent wel datgene is wat er moet gebeuren. Hoe eerder je er achter komt dat dat niet zo is, hoe minder vervelend het is. Een uurtje afdwalen is veel minder erg (en vaak zelfs onverwacht goed) dan een hele week weggooien. Bekijk nog eens de randvoorwaarden bij deze sprint en verhoud je daar toe.
+
+HTML validatie
+Is de HTML die je hebt geschreven nog wel valide? Check het regelmatig, hiermee voorkom je onverklaarbare fouten. En klopt de HTML wel? Gebruik je de juiste elementen op de juiste plek?
+Toegankelijkheids-check
+Check regelmatig of je website nog wel goed te gebruiken is met het toetsenbord. En of hij nog te begrijpen is met een screenreader. Zitten er alt-teksten op de afbeeldingen? Is het contrast overal hoog genoeg?
+Is mijn website nog wel adaptief?
+Werkt mijn website nog met light en darkmode? Wat gebeurt er met de prefers-reduced-motion instelling? Werkt het op verschillende schermgroottes?
+Voldoet mijn website nog wel aan de wet?
+Overtreed je de wet niet? Bijvoorbeeld door afbeeldingen van iemand anders te gebruiken, door je niet aan de AVG te houden, of door iets ontoegankelijk te maken?
+Zie ik mezelf nog wel terug in wat ik doe?
 
 Retrospect 1
 wat maakt een tekening goed en wat niet
