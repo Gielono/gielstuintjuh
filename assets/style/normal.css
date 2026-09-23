@@ -51,23 +51,35 @@ body {
   align-items: center;
   color-scheme: light dark;
   background: radial-gradient(
-    rgb(199, 157, 231),
     rgb(43, 43, 133),
     rgb(208, 60, 124),
     rgb(7, 7, 7),
     rgb(130, 77, 227)
   );
-  min-height: 100vh;
-  background-size: 300% 400%;
-  animation: move 10s alternate infinite;
+  background-size: 400% 400%;
+  background-position: 150% 175%;
 
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --background-animatie;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+  }
   display: grid;
   grid-template-areas:
     "header"
     "main"
     "footer";
 }
-
+@keyframes --background-animatie {
+  0% {
+    background-position: top left;
+  }
+  100% {
+    background-position: bottom right;
+  }
+}
 header {
   max-width: 90vw;
   margin: auto;
