@@ -1,3 +1,32 @@
+## Dinsdag 22 September
+Artikel over dark patterns in UX design
+12 vormen van dark patterns in Ux design zijn:
+1. Hidden costs — Extra kosten pas laat in het bestelproces tonen, zodat de eindprijs veel hoger uitvalt dan verwacht.
+2. Bait and switch — Een gebruiker laten klikken op een knop met een bepaalde verwachting, maar er gebeurt iets heel anders.
+3. Forced continuity — Je moet betaalgegevens invullen voor een 'gratis proefperiode', waarna er zonder waarschuwing automatisch geld wordt afgeschreven zodra die periode afloopt.
+4. Roach motel — Aanmelden voor een dienst is heel makkelijk, maar opzeggen is bewust ingewikkeld gemaakt.
+5. Misdirection — De aandacht van de gebruiker afleiden zodat ze iets over het hoofd zien, zoals extra kosten.
+6. Confirm-shaming — Met schuldgevoelige teksten gebruikers ervan proberen te weerhouden iets te weigeren (bijv. "Nee, ik wil geen geweldige aanbiedingen").
+7. Sneak into basket — Ongevraagd extra producten aan het winkelmandje toevoegen.
+8. Friend spam — Onder het mom van 'contacten vinden' toegang vragen tot je social media-account, om vervolgens namens jou spamberichten naar je vrienden te sturen.
+9. Disguised ads — Advertenties die eruitzien als gewone content of knoppen, zodat je er per ongeluk op klikt.
+10. Trick questions — Verwarrende verwoording bij formuliervragen, waardoor je per ongeluk het tegenovergestelde aangeeft van wat je bedoelde.
+11. FOMO — Druk zetten met meldingen als "nog maar 2 op voorraad" of "10 mensen bekijken dit nu", om snelle, ondoordachte aankopen te stimuleren.
+12.  Price comparison prevention — Prijsinformatie bewust verbergen of onduidelijk maken, zodat gebruikers moeilijker goedkopere alternatieven kunnen vergelijken.
+    Hoe ga je hier mee om als UX designer?
+Ontwerp met transparantie als uitgangspunt:
+De mogelijkheid om je af te melden, uit te schrijven of te annuleren zo duidelijk mogelijk maken.
+
+Het gebruik van neutrale, duidelijke taal helpt gebruikers weloverwogen beslissingen te nemen. 
+
+Ervoor zorgen dat elke pagina of elk element eruitziet zoals verwacht.
+Je kan de ervaring van de klant beinvloeden met kleuren van knoppen, volgorde van informatie, afleidende visuals, etc. Daarom is het belangrijk er verantwoordelijk mee om te gaan.
+Hoe vermijd je het makkelijkst alle dark patterns: Gebruikers onderzoek doen. Zo kom je het beste achter de behoeften, verwachtingen en pijnpunten van je gebruikers en kan je je design daar op aanpassen. Zorg dat je je kan verplaatsen in een gebruiker.
+## Maandag 21 September:
+Vandaag zijn we begonnen met sprint 2, we hebben eerst uitleg gekregen over wetgeving en juiste html structuren. Daarna kregen we een lesje gestructureerd coderen van justus. We zetten onze eigen content in een nieuwe map, samen met justus typten we code op de manier waarop het hoort. Het verbaasde me wel hoe sommige dingen verschilde met mijn eigen site. Zo gebruikte ze geen margins en classes, maar daar hadden ze andere handige fixes op. Wat ik mee ga nemen naar mijn eigen site: De custom colors in de html tag, De grid template areas waarmee je waardes kan geven aan delen in je site. Dit ga ik verwerken in mijn site door de (. main .) te gebruiken voor mijn blokken. Zo hoef ik het niet met margins te doen maar is het een vaste waarde.
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-21 om 17 23 32" src="https://github.com/user-attachments/assets/a279be8e-1c66-41a8-a214-19c274b4e91f" />
+De andere opdracht van deze les was het analyseren van verschillende cookie pop-ups. Dit heb ik samen met Bera gedaan. Ik was verrast over het feit dat er best veel informatie van je wordt gebruikt, ook dingen als hoe je op die site bent gekomen. En dat deze worden gedeeld met heel veel externe partners.
+<img width="890" height="777" alt="Scherm­afbeelding 2026-09-21 om 17 51 35" src="https://github.com/user-attachments/assets/4298c8e8-da0f-4d2f-95bf-b4d0ce5ca01a" />
 ## vrijdag 18 September:
  # Checkout vragen:
  # Orienteren en begrijpen:
