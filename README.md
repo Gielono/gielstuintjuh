@@ -1,3 +1,30 @@
+## Woensdag 23 September
+Welke diensten verwerken gegevens van mijn gebruikers op mijn website?
+- Github pages hosting
+- Digitaal tuintje component
+- Embeds, spotify links in mijn geval
+  
+ 1. Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt.
+  Welke gegevens verwerken deze diensten?
+-Spotify: tracking cookies
+-Github: beveiligings cookies
+-Digitaal tuintje component:
+2. Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+Wat wil ik vermelden in mijn cookies?
+Alle filmpjes en veel fotos zijn zelf geschoten, de verhalen op de site komen grotendeels uit eigen ervaring en passie.
+Ik gebruik in mijn site spotify links, spotify verwerkt je IP adress, ze gebruiken tracking cookies
+Mijn site gebruikt een component aan een andere site "digitaal tuintje.nl" er wordt bij toestaan van de cookies informatie verzonden naar deze externe website, wil je dit niet sluit dan nu dit tablad.
+Github staat gelinked aan mijn website. Ze verwerken je IP adress, je browser en opgrevraagde paginas. Dit doet Github om mijn website te beveiligen, ze scannen op misbruik detectie, Rate limiting (voorkomen dat een IP de seerver over belast), Forensisch onderzoek achteraf (helpt bij een latere reconstructie van een incident) en het detecteert misbruik van Github pages. Github slaat je gegevens op, maar gebruikt geen marketing of trackings cookies.
+
+3. Op welke manier kan je instemming vragen? 
+
+4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
+   
+Ik wil voor mijn cookies een soort zelfde knoppen structuur maken als de knoppen op mijn website. Dan krijg je per dienst die informatie verwerkt een blok waar je op kan klikken, en dan krijg je uitleg over welke gegevens ze opnemen en wat ze met deze gegevens doen.
+
+
+
+
 ## Dinsdag 22 September
 Artikel over dark patterns in UX design
 12 vormen van dark patterns in Ux design zijn:
@@ -6,7 +33,7 @@ Artikel over dark patterns in UX design
 3. Forced continuity — Je moet betaalgegevens invullen voor een 'gratis proefperiode', waarna er zonder waarschuwing automatisch geld wordt afgeschreven zodra die periode afloopt.
 4. Roach motel — Aanmelden voor een dienst is heel makkelijk, maar opzeggen is bewust ingewikkeld gemaakt.
 5. Misdirection — De aandacht van de gebruiker afleiden zodat ze iets over het hoofd zien, zoals extra kosten.
-6. Confirm-shaming — Met schuldgevoelige teksten gebruikers ervan proberen te weerhouden iets te weigeren (bijv. "Nee, ik wil geen geweldige aanbiedingen").
+6. Confirm-shaming — Met schuldgevoelige teksten gebruikers ervan proberen te weerhouden iets te weigeren.
 7. Sneak into basket — Ongevraagd extra producten aan het winkelmandje toevoegen.
 8. Friend spam — Onder het mom van 'contacten vinden' toegang vragen tot je social media-account, om vervolgens namens jou spamberichten naar je vrienden te sturen.
 9. Disguised ads — Advertenties die eruitzien als gewone content of knoppen, zodat je er per ongeluk op klikt.
