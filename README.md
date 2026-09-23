@@ -10,7 +10,10 @@ Welke diensten verwerken gegevens van mijn gebruikers op mijn website?
 -Github: beveiligings cookies
 -Digitaal tuintje component:
 2. Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
-Wat wil ik vermelden in mijn cookies?
+
+
+2. Wat wil ik vermelden in mijn cookies?
+
 Alle filmpjes en veel fotos zijn zelf geschoten, de verhalen op de site komen grotendeels uit eigen ervaring en passie.
 Ik gebruik in mijn site spotify links, spotify verwerkt je IP adress, ze gebruiken tracking cookies
 Mijn site gebruikt een component aan een andere site "digitaal tuintje.nl" er wordt bij toestaan van de cookies informatie verzonden naar deze externe website, wil je dit niet sluit dan nu dit tablad.
@@ -18,12 +21,14 @@ Github staat gelinked aan mijn website. Ze verwerken je IP adress, je browser en
 
 3. Op welke manier kan je instemming vragen? 
 
+
 4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
    
 Ik wil voor mijn cookies een soort zelfde knoppen structuur maken als de knoppen op mijn website. Dan krijg je per dienst die informatie verwerkt een blok waar je op kan klikken, en dan krijg je uitleg over welke gegevens ze opnemen en wat ze met deze gegevens doen.
+<img width="669" height="406" alt="Scherm­afbeelding 2026-09-23 om 12 34 24" src="https://github.com/user-attachments/assets/bd197c7f-c44e-4628-94dd-959931ec16a6" />
 
-
-
+ # Opdracht Dark patterns
+   <img width="345" height="231" alt="Scherm­afbeelding 2026-09-23 om 12 33 22" src="https://github.com/user-attachments/assets/986f5efe-7cba-4119-a1cf-655e59a887b1" />
 
 ## Dinsdag 22 September
 Artikel over dark patterns in UX design
