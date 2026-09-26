@@ -1,4 +1,6 @@
 ## Woensdag 23 September
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-23 om 18 50 10" src="https://github.com/user-attachments/assets/64fab1a7-613b-44d1-967a-6f05445e501e" />
+Ik wilde iets anders met de achtergrond van de site. En ik wilde dat de site echt de sfeer van een concertzaal meekreeg. Ik zag bij een ander tuintje dat iemand een animatie op de achtergrond gradient had gezet. Dit vond ik met een andere kleur combinatie goed passen bij het gevoel van een concertzaal. Er zit veel beweging in, het lijkt alsof er licht valt op de main alsof het een podium is. En kleuren die terugkomen in de content. 
 Welke diensten verwerken gegevens van mijn gebruikers op mijn website?
 - Github pages hosting
 - Digitaal tuintje component
