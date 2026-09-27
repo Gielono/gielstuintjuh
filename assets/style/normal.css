@@ -275,7 +275,7 @@ img {
   display: flex;
   font-size: 800%;
   padding: 0;
-  text-shadow: 0.1em 0.1em 0.1em #b544a6;
+  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
   font-family: "Movies";
   text-decoration: none;
   color: inherit;
@@ -291,7 +291,8 @@ img {
   display: flex;
   font-size: 800%;
   padding: 0;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+  text-shadow: 0.1em 0.1em 0.1em #b544a6;
+
   font-family: "Movies";
   text-decoration: none;
   color: inherit;
