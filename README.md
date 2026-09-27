@@ -1,9 +1,10 @@
 ## Zondag 27 September
-<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 14 03" src="https://github.com/user-attachments/assets/6fb056eb-f900-4ead-a878-9af62d650797" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 09 59" src="https://github.com/user-attachments/assets/d9e2d962-4f9c-4a9f-a15b-52356222e7e7" />
+
 Ik heb vandaag de oefening gedaan die ik in de les heb gemist. Dit was de begin oefening om je html netter te krijgen. Ik heb mijn url in de aangegeven site ingevuld. hier kwam uit dat ik in mijn navigatie bar <il> heb gebruikt waar dat niet nodig is en niet kan. De links waren al een <a> dus de <li> was dubbel op en dat vindt html niet leuk. Dus heb ik alle overbodige tags weggehaald.
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 15 21" src="https://github.com/user-attachments/assets/9a6551f7-8eb5-4036-845f-2a0fc5bf78a3" />
 
-<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 09 59" src="https://github.com/user-attachments/assets/d9e2d962-4f9c-4a9f-a15b-52356222e7e7" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 14 03" src="https://github.com/user-attachments/assets/6fb056eb-f900-4ead-a878-9af62d650797" />
 
 ## Vrijdag 25 September
 ## Woensdag 23 September
