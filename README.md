@@ -8,6 +8,9 @@ Ik heb vandaag de oefening gedaan die ik in de les heb gemist. Dit was de begin 
 onverwacht experiment:
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 13 45 50" src="https://github.com/user-attachments/assets/9f2e50c0-0815-47d2-b8cd-fdcb88832255" />
 Ik was aan het experimenteren met andere layouts voor het 'mijn favoriete nummers' kopje. Ik kwam door wat met padding in een grid te sjoemelen op deze indelin. Ik vind het misschien niet op met deze verhouding passen bij deze knoppen maar ik vind het er wel aantrekkelijk uitzien, passend bij mijn onderwerp, dynamisch en beweeglijk. 
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 14 06 28" src="https://github.com/user-attachments/assets/eaa87c1d-cb86-4a94-acff-aa331a36135f" />
+
+
 ## Vrijdag 25 September
 
 ## Woensdag 23 September
