@@ -20,6 +20,10 @@ html {
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background-color: light-dark(white, black);
+  --whitespace-s: 1rem;
+  --whitespace-m: calc(var(--whitespace-s) * 2);
+  --whitespace-l: calc(var(--whitespace-s) * 4);
+  --whitespace-xs: calc(var(--whitespace-s) * 0.5);
 }
 h1 {
   font-size: 1900%;
@@ -183,7 +187,7 @@ body {
   text-align: center;
   padding: 0.5em;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  background-color: #f66942;
 
   font-family: "Movies";
   text-decoration: none;
@@ -253,22 +257,20 @@ video {
   padding: 20px;
   background-color: #5252a1;
   opacity: 100%;
+  margin: var(--whitespace-s);
 }
 
 .carnertussenstuk p {
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.Tussenkolomn {
-  display: flex;
-  align-items: flex-start;
-}
-
-.carner-columns p {
   flex: 1;
+  max-width: 480px;
+  margin: 0 auto;
+}
+.Tussenkolomn p {
+  margin-bottom: 1.5em;
+}
+
+.Tussenkolomn p:last-child {
+  margin-bottom: 0;
 }
 p {
   font-size: 22px;
