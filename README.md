@@ -5,7 +5,9 @@ Ik heb vandaag de oefening gedaan die ik in de les heb gemist. Dit was de begin 
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 15 21" src="https://github.com/user-attachments/assets/9a6551f7-8eb5-4036-845f-2a0fc5bf78a3" />
 
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 14 03" src="https://github.com/user-attachments/assets/6fb056eb-f900-4ead-a878-9af62d650797" />
-
+onverwacht experiment:
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 13 45 50" src="https://github.com/user-attachments/assets/9f2e50c0-0815-47d2-b8cd-fdcb88832255" />
+Ik was aan het experimenteren met andere layouts voor het 'mijn favoriete nummers' kopje. Ik kwam door wat met padding in een grid te sjoemelen op deze indelin. Ik vind het misschien niet op met deze verhouding passen bij deze knoppen maar ik vind het er wel aantrekkelijk uitzien, passend bij mijn onderwerp, dynamisch en beweeglijk. 
 ## Vrijdag 25 September
 ## Woensdag 23 September
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-23 om 18 50 10" src="https://github.com/user-attachments/assets/64fab1a7-613b-44d1-967a-6f05445e501e" />
