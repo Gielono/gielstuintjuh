@@ -1,3 +1,11 @@
+## Zondag 27 September
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 14 03" src="https://github.com/user-attachments/assets/6fb056eb-f900-4ead-a878-9af62d650797" />
+Ik heb vandaag de oefening gedaan die ik in de les heb gemist. Dit was de begin oefening om je html netter te krijgen. Ik heb mijn url in de aangegeven site ingevuld. hier kwam uit dat ik in mijn navigatie bar <il> heb gebruikt waar dat niet nodig is en niet kan. De links waren al een <a> dus de <li> was dubbel op en dat vindt html niet leuk. Dus heb ik alle overbodige tags weggehaald.
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 15 21" src="https://github.com/user-attachments/assets/9a6551f7-8eb5-4036-845f-2a0fc5bf78a3" />
+
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 09 59" src="https://github.com/user-attachments/assets/d9e2d962-4f9c-4a9f-a15b-52356222e7e7" />
+
+## Vrijdag 25 September
 ## Woensdag 23 September
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-23 om 18 50 10" src="https://github.com/user-attachments/assets/64fab1a7-613b-44d1-967a-6f05445e501e" />
 Ik wilde iets anders met de achtergrond van de site. En ik wilde dat de site echt de sfeer van een concertzaal meekreeg. Ik zag bij een ander tuintje dat iemand een animatie op de achtergrond gradient had gezet. Dit vond ik met een andere kleur combinatie goed passen bij het gevoel van een concertzaal. Er zit veel beweging in, het lijkt alsof er licht valt op de main alsof het een podium is. En kleuren die terugkomen in de content. 
