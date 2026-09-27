@@ -8,7 +8,13 @@ Ik heb vandaag de oefening gedaan die ik in de les heb gemist. Dit was de begin 
 onverwacht experiment:
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 13 45 50" src="https://github.com/user-attachments/assets/9f2e50c0-0815-47d2-b8cd-fdcb88832255" />
 Ik was aan het experimenteren met andere layouts voor het 'mijn favoriete nummers' kopje. Ik kwam door wat met padding in een grid te sjoemelen op deze indelin. Ik vind het misschien niet op met deze verhouding passen bij deze knoppen maar ik vind het er wel aantrekkelijk uitzien, passend bij mijn onderwerp, dynamisch en beweeglijk. 
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 14 06 28" src="https://github.com/user-attachments/assets/eaa87c1d-cb86-4a94-acff-aa331a36135f" />
+Ik wil naast de stukjes texten een illustratie met veel beweging toevoegen, ik heb als inspiratie een aansteker met een print erop.<img width="281" height="594" alt="Scherm­afbeelding 2026-09-27 om 21 04 17" src="https://github.com/user-attachments/assets/7b176f40-3e29-40e3-99b8-b86bef1eaba7" />
+
+
+
 ## Vrijdag 25 September
+
 ## Woensdag 23 September
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-23 om 18 50 10" src="https://github.com/user-attachments/assets/64fab1a7-613b-44d1-967a-6f05445e501e" />
 Ik wilde iets anders met de achtergrond van de site. En ik wilde dat de site echt de sfeer van een concertzaal meekreeg. Ik zag bij een ander tuintje dat iemand een animatie op de achtergrond gradient had gezet. Dit vond ik met een andere kleur combinatie goed passen bij het gevoel van een concertzaal. Er zit veel beweging in, het lijkt alsof er licht valt op de main alsof het een podium is. En kleuren die terugkomen in de content. 
