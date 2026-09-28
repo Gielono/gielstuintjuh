@@ -1,3 +1,15 @@
+## Maandag 28 september
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Als de user experience van de html goed is heeft dat te maken goede semantiek.
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+Cognitieve beperkingen
+visuele beperkingen
+audiovisuele beperkingen
+fysieke beperkingen
+
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+Met de tab de pijltjes en de spatie
+
 ## Zondag 27 September
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 11 09 59" src="https://github.com/user-attachments/assets/d9e2d962-4f9c-4a9f-a15b-52356222e7e7" />
 
