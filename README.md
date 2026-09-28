@@ -1,3 +1,5 @@
+
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-28 om 20 55 10" src="https://github.com/user-attachments/assets/0d95186f-ce7d-4965-a768-657d3e3349ed" />
 ## Maandag 28 september
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 Als de user experience van de html goed is heeft dat te maken goede semantiek.
@@ -144,25 +146,6 @@ Ik wilde een site ontwerpen waar ik mijn concerten op een rijtje kan zetten, er 
 
 Wat heb ik gedaan?
 Ik heb eerst nagedacht over welke stijl ik aan mijn website wil geven, ik had als voorbeeld foto's foto's van concerten waar ik ben geweest gepakt en ben daar abstracte beelden bij gaan zoeken. Toen heb ik schetsen gemaakt adhv elementen die het gevoel van de concert foto's nabootsen. Ik heb met diepte en blokken geëxperimenteerd. En heb dit vertaald naar mijn site.
-
-Wat was het resultaat?
-Nadat je iets hebt gedaan heb je resultaat. Sommig resultaat is heel tastbaar: je hebt een aantal schetsen, je hebt een stuk code geschreven, je hebt oefeningen gedaan, je hebt een prototype getest etc. Maar ook heb je dingen die minder tastbaar zijn, maar ook heel belangrijk: je hebt bijvoorbeeld nieuwe, verschillende inzichten na een schetsoefening. Je hebt kennis vergaard over een bepaalde CSS-techniek. Je hebt bewijs dat een bepaald ontwerpdetail (niet) goed werkt. Door je bevindingen expliciet te benoemen word je je hier bewuster van, en kan je van de verschillende oefeningen beter op waarde schatten.
-Wat weet je nu (niet)?
-Nadat je iets hebt gedaan weet je dingen. Maar je bent je ook bewuster van wat je nog niet weet. Je weet bijvoorbeeld hoe je een responsive menu maakt met flexbox, maar je weet ook dat je flexbox nog niet helemaal begrijpt. Of je weet dat uit een user-test bleek dat een bepaald concept onduidelijk is, maar je weet nog niet hoe je dit wel duidelijk moet maken. Dus: wees je bewust van wat je hebt geleerd, en van wat je nog wil leren.
-Wat vond je (niet) leuk?
-Door dingen te doen kom je er achter of je iets wel of niet leuk vindt. Je kan bijvoorbeeld denken dat je code schrijven niet leuk vindt, maar het komt best vaak voor dat je er ineens achter komt dat je CSS echt een hele leuke vormgevingstaal vindt. Daar kom je alleen achter door het te doen. Het is prettig voor jezelf om te weten wat je wel en niet graag doet. Maar dat weet je pas echt als je het vaak genoeg geprobeerd hebt.
-Voldoet het nog aan de eisen?
-Elke opdracht heeft bepaalde voorwaarden en beperkingen. Soms wijk je daar, zonder dat je het door hebt, tijdens het werken van af. Stel je dus regelmatig de vraag of datgene wat je aan het doen bent wel datgene is wat er moet gebeuren. Hoe eerder je er achter komt dat dat niet zo is, hoe minder vervelend het is. Een uurtje afdwalen is veel minder erg (en vaak zelfs onverwacht goed) dan een hele week weggooien. Bekijk nog eens de randvoorwaarden bij deze sprint en verhoud je daar toe.
-
-HTML validatie
-Is de HTML die je hebt geschreven nog wel valide? Check het regelmatig, hiermee voorkom je onverklaarbare fouten. En klopt de HTML wel? Gebruik je de juiste elementen op de juiste plek?
-Toegankelijkheids-check
-Check regelmatig of je website nog wel goed te gebruiken is met het toetsenbord. En of hij nog te begrijpen is met een screenreader. Zitten er alt-teksten op de afbeeldingen? Is het contrast overal hoog genoeg?
-Is mijn website nog wel adaptief?
-Werkt mijn website nog met light en darkmode? Wat gebeurt er met de prefers-reduced-motion instelling? Werkt het op verschillende schermgroottes?
-Voldoet mijn website nog wel aan de wet?
-Overtreed je de wet niet? Bijvoorbeeld door afbeeldingen van iemand anders te gebruiken, door je niet aan de AVG te houden, of door iets ontoegankelijk te maken?
-Zie ik mezelf nog wel terug in wat ik doe?
 
 Retrospect 1
 wat maakt een tekening goed en wat niet
