@@ -1,7 +1,15 @@
 ## Woensdag 30 September
 Chekout
+
 Waar staat wcag en a11y voor?
 WCAG staat voor web content Accessibility guidelines
+
+Wat vind je lastiger, je laptop/websites met alleen toetsenbord bedienen of met een screenreader
+Ik vond zelf het bedienen met de screenreader makkelijker, alle content staat in de lijst en je kan er gemmakelijk doorheen scrollen. Wel kwam ik er tijdens de checklist en oefeningen achter dat de kopjes op de content pagina niet op goede volgorde staan, dus dat moet ik fixen.
+
+Met welke beperking rekening houden vind je het meest lastig?
+vind je dat je beperkt wordt in wat je kunt ontwerpen?
+
 ## Dinsdag 29 September
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-28 om 20 55 10" src="https://github.com/user-attachments/assets/0d95186f-ce7d-4965-a768-657d3e3349ed" />
 ## Maandag 28 september
