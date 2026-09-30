@@ -19,18 +19,21 @@
   <body>
     <header>
       <h1>Giels Plekkie</h1>
+    </header>
 
+    <main>
       <nav class="nav">
         <a href="/">Home</a>
         <a href="https://github.com/Gielono/gielstuintjuh/blob/main/README.md"
           >Logboek</a
         >
+        <button commandfor="cookieModal" command="show-modal">
+          <span> Cookies op mijn site</span>
+        </button>
         <a href="/contact.html">Contact</a>
+
         <a href="/oefeningen/presentatie/presentatie.html">presentatie</a>
       </nav>
-    </header>
-
-    <main>
       <div class="container">
         <a href="knop1.html" class="blok1">
           <p>Loyle Carner</p>
@@ -57,11 +60,54 @@
         <p>Mijn mooiste momenten</p>
       </a>
     </main>
-    <details>
-      <form>
-        <p>De info</p>
-        <button>Sluit dialog</button>
+    <dialog id="cookieModal">
+      <form method="dialog">
+        <p lang="en">Mijn site gebruikt cookies.</p>
+        <div class="cookie-details">
+          <details>
+            <summary>Microsoft cookies</summary>
+            ...
+          </details>
+          <details>
+            <summary>Github cookies</summary>
+            Github staat gelinked aan mijn website. Ze verwerken je IP adress,
+            je browser en opgrevraagde paginas. Dit doet Github om mijn website
+            te beveiligen, ze scannen op misbruik detectie, Rate limiting
+            (voorkomen dat een IP de seerver over belast), Forensisch onderzoek
+            achteraf (helpt bij een latere reconstructie van een incident) en
+            het detecteert misbruik van Github pages. Github slaat je gegevens
+            tijdelijk op, maar gebruikt geen marketing of trackings cookies.
+          </details>
+          <details>
+            <summary>Spotify cookies</summary>
+            ...
+          </details>
+          <details>
+            <summary>digitaaltuintje.nl cookies</summary>
+            Mijn site gebruikt een component aan een andere site "digitaal
+            tuintje.nl" er wordt bij toestaan van de cookies informatie
+            verzonden naar deze externe website, wil je dit niet sluit dan nu
+            dit tablad.
+          </details>
+        </div>
+
+        <button id="cookieAllow" value="allow">Allow</button>
+        <button id="cookieDeny" value="deny">Deny</button>
       </form>
-    </details>
+    </dialog>
+
+    <script>
+      const cookieModal = document.getElementById("cookieModal");
+      if (!localStorage.getItem("cookieConsent")) {
+        cookieModal.showModal();
+      }
+
+      document.getElementById("cookieAllow").addEventListener("click", () => {
+        localStorage.setItem("cookieConsent", "allowed");
+      });
+      document.getElementById("cookieDeny").addEventListener("click", () => {
+        localStorage.setItem("cookieConsent", "denied");
+      });
+    </script>
   </body>
 </html>
