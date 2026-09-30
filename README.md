@@ -1,4 +1,8 @@
-
+## Woensdag 30 September
+Chekout
+Waar staat wcag en a11y voor?
+WCAG staat voor web content Accessibility guidelines
+## Dinsdag 29 September
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-28 om 20 55 10" src="https://github.com/user-attachments/assets/0d95186f-ce7d-4965-a768-657d3e3349ed" />
 ## Maandag 28 september
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
