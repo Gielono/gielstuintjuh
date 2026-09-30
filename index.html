@@ -1,9 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
+  <!-- nog even aanvinken op de checklist -->
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="[jouw naam]" />
+    <meta name="author" content="chiel giel gilles" />
     <meta name="color-scheme" content="dark light" />
 
     <title>[Digitaal Tuintje van Giel]</title>
@@ -15,6 +16,9 @@
       src="https://digitaaltuintje.nl/webring.js"
       defer
     ></script>
+
+    <!-- defer = wachten tot het document er is -->
+    <script defer src="assets/scripts/dialog.js"></script>
   </head>
   <body>
     <header>
@@ -28,47 +32,76 @@
           >Logboek</a
         >
         <button commandfor="cookieModal" command="show-modal">
-          <span> Cookies op mijn site</span>
+          <!-- <span> -->
+          Cookies op mijn site
+          <!-- </span> -->
         </button>
+
         <a href="/contact.html">Contact</a>
 
-        <a href="/oefeningen/presentatie/presentatie.html">presentatie</a>
+        <a href="/oefeningen/presentatie/presentatie.html">Presentatie</a>
       </nav>
-      <div class="container">
-        <a href="knop1.html" class="blok1">
-          <p>Loyle Carner</p>
+
+      <nav class="container">
+        <h2 class="visually-hidden">giel's lijstje links</h2>
+
+        <a href="Loyle Carner.html" class="blok1">
+          <!-- <p> -->
+          <span>Loyle Carner</span>
+
+          <!-- </p> -->
         </a>
-        <a href="knop2.html" class="blok2">
-          <p>Sef</p>
+        <a href="Sef.html" class="blok2">
+          <!-- <sp> -->
+          <span> Sef</span>
+
+          <!-- </p> -->
         </a>
 
-        <a href="knop3.html" class="blok3">
-          <p>Spinvis</p>
+        <a href="Spinvis.html" class="blok3">
+          <!-- <p> -->
+          <span> Spinvis</span>
+
+          <!-- </p> -->
         </a>
 
-        <a href="knop4.html" class="blok4">
-          <p>Joost</p>
+        <a href="Joost.html" class="blok4">
+          <!-- <p> -->
+          <span>Joost</span>
+
+          <!-- </p> -->
         </a>
         <a href="knop6.html" class="blok6">
-          <p>Billy Cobham</p>
+          <!-- <p> -->
+          <span> Billy Cobham</span>
+
+          <!-- </p> -->
         </a>
         <a href="knop7.html" class="blok7">
-          <p>Jungle By Night</p>
+          <!-- <p> -->
+          <span>Jungle By Night</span>
+
+          <!-- </p> -->
         </a>
-      </div>
-      <a href="knop5.html" class="blok5">
-        <p>Mijn mooiste momenten</p>
-      </a>
+
+        <a href="knop5.html" class="blok5">
+          <!-- <p> -->
+          <span> Mijn mooiste momenten</span>
+
+          <!-- </p> -->
+        </a>
+      </nav>
     </main>
+
     <dialog id="cookieModal">
       <form method="dialog">
         <p lang="en">Mijn site gebruikt cookies.</p>
         <div class="cookie-details">
-          <details>
+          <details name="cookieinfo">
             <summary>Microsoft cookies</summary>
             ...
           </details>
-          <details>
+          <details name="cookieinfo">
             <summary>Github cookies</summary>
             Github staat gelinked aan mijn website. Ze verwerken je IP adress,
             je browser en opgrevraagde paginas. Dit doet Github om mijn website
@@ -78,11 +111,11 @@
             het detecteert misbruik van Github pages. Github slaat je gegevens
             tijdelijk op, maar gebruikt geen marketing of trackings cookies.
           </details>
-          <details>
+          <details name="cookieinfo">
             <summary>Spotify cookies</summary>
             ...
           </details>
-          <details>
+          <details name="cookieinfo">
             <summary>digitaaltuintje.nl cookies</summary>
             Mijn site gebruikt een component aan een andere site "digitaal
             tuintje.nl" er wordt bij toestaan van de cookies informatie
@@ -95,19 +128,5 @@
         <button id="cookieDeny" value="deny">Deny</button>
       </form>
     </dialog>
-
-    <script>
-      const cookieModal = document.getElementById("cookieModal");
-      if (!localStorage.getItem("cookieConsent")) {
-        cookieModal.showModal();
-      }
-
-      document.getElementById("cookieAllow").addEventListener("click", () => {
-        localStorage.setItem("cookieConsent", "allowed");
-      });
-      document.getElementById("cookieDeny").addEventListener("click", () => {
-        localStorage.setItem("cookieConsent", "denied");
-      });
-    </script>
   </body>
 </html>

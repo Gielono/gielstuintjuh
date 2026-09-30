@@ -16,6 +16,9 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* MARK: KLEURTJES */
+
 html {
   color-scheme: light dark;
   --color: light-dark(black, white);
