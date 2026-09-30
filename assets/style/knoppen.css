@@ -24,6 +24,8 @@ html {
   --whitespace-m: calc(var(--whitespace-s) * 2);
   --whitespace-l: calc(var(--whitespace-s) * 4);
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
+  --color-blauw: #3f3fa3;
+  --color-blokken: #4f3a79;
 }
 /* MARK: HEADER
 */
@@ -32,6 +34,7 @@ h1 {
   line-height: 0.8;
   font-family: Nake;
   text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
+  text-shadow-color: var(--color-blauw);
   margin-top: -15rem;
 }
 .header {
@@ -66,7 +69,8 @@ body {
   justify-content: center;
   display: flex;
   gap: 40px;
-  background-color: #3f3fa3;
+  background-color: var(--color-blauw);
+  text-shadow: --color-blauw;
   padding: 15px 0;
   max-width: 1000px;
   margin: 0 auto;
@@ -104,13 +108,13 @@ h2 {
 }
 .container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(12, 1fr);
   gap: 16px;
   max-width: 1000px;
-  row-gap: 15px;
-  column-gap: 16px;
+  align-items: start;
 }
-/* MARK: Carner nummers 
+/* MARK: Carner nummers   row-gap: 15px;
+  column-gap: 16px;
 */
 .blok1 {
   align-items: center;
@@ -120,7 +124,7 @@ h2 {
   text-align: center;
   padding: 1em;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  background-color: var(--color-blokken);
 
   font-family: "Movies";
   text-decoration: none;
@@ -133,11 +137,11 @@ h2 {
   align-items: center;
   justify-content: center;
   display: flex;
-  font-size: 700%;
+  font-size: 400%;
   text-align: center;
   padding: 0;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  background-color: var(--color-blokken);
 
   font-family: "Movies";
   text-decoration: none;
@@ -153,7 +157,7 @@ h2 {
   text-align: center;
   padding: 0.5em;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  background-color: var(--color-blokken);
 
   font-family: "Movies";
   text-decoration: none;
@@ -169,7 +173,7 @@ h2 {
   text-align: center;
   padding: 0.5em;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  background-color: var(--color-blokken);
 
   font-family: "Movies";
   text-decoration: none;
@@ -177,37 +181,57 @@ h2 {
   cursor: pointer;
   transition: 0.4s ease-in-out;
 }
+
+.blok1 {
+  grid-column: 1 / span 7;
+  grid-row: span 2;
+  align-self: stretch;
+  min-height: 20px;
+}
+.blok2 {
+  grid-column: 8 / span 5;
+  min-height: 210px;
+}
+.blok3 {
+  grid-column: 9 / span 4;
+  min-height: 230px;
+}
+.blok4 {
+  grid-column: 1 / span 8;
+  min-height: 180px;
+}
 .blok1:hover {
-  transform: translate(42px, 18px) scale(1.05);
   filter: drop-shadow(-12px -12px 20px #f6f6f8);
+  transform: rotate(3deg);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .blok2:hover {
-  transform: translate(-42px, 18px) scale(1.05);
+  transform: rotate(-3deg);
   filter: drop-shadow(12px -12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .blok3:hover {
-  transform: translate(42px, -18px) scale(1.05);
+  transform: rotate(3deg);
   filter: drop-shadow(-12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .blok4:hover {
-  transform: translate(-42px, -18px) scale(1.05);
+  transform: rotate(-3deg);
   filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
+
 /* MARK: Sef nummers 
 */
 .sef1 {
@@ -218,7 +242,7 @@ h2 {
   text-align: center;
   padding: 1em;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  background-color: --;
 
   font-family: "Movies";
   text-decoration: none;
@@ -276,35 +300,35 @@ h2 {
   transition: 0.4s ease-in-out;
 }
 .sef1:hover {
-  transform: translate(42px, 18px) scale(1.05);
-  filter: drop-shadow(-12px -12px 20px #f6f6f8);
+  transform: rotate(3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .sef2:hover {
-  transform: translate(-42px, 18px) scale(1.05);
-  filter: drop-shadow(12px -12px 20px #f6f6f8);
+  transform: rotate(-3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .sef3:hover {
-  transform: translate(42px, -18px) scale(1.05);
-  filter: drop-shadow(-12px 12px 20px #f6f6f8);
+  transform: rotate(3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .sef4:hover {
-  transform: translate(-42px, -18px) scale(1.05);
+  transform: rotate(-3deg);
   filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 /* MARK: Spinvis nummers 
 */
@@ -334,7 +358,7 @@ h2 {
   text-align: center;
   padding: 0;
   text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  background-color: var(--color-blokken);
 
   font-family: "Movies";
   text-decoration: none;
@@ -375,35 +399,35 @@ h2 {
   transition: 0.4s ease-in-out;
 }
 .spinvis1:hover {
-  transform: translate(42px, 18px) scale(1.05);
-  filter: drop-shadow(-12px -12px 20px #f6f6f8);
+  transform: rotate(3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .spinvis2:hover {
-  transform: translate(-42px, 18px) scale(1.05);
-  filter: drop-shadow(12px -12px 20px #f6f6f8);
+  transform: rotate(-3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .spinvis3:hover {
-  transform: translate(42px, -18px) scale(1.05);
-  filter: drop-shadow(-12px 12px 20px #f6f6f8);
+  transform: rotate(3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .spinvis4:hover {
-  transform: translate(-42px, -18px) scale(1.05);
+  transform: rotate(-3deg);
   filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 /* MARK: joost nummers 
 */
@@ -473,48 +497,37 @@ h2 {
   transition: 0.4s ease-in-out;
 }
 .joost1:hover {
-  transform: translate(42px, 18px) scale(1.05);
-  filter: drop-shadow(-12px -12px 20px #f6f6f8);
+  transform: rotate(3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .joost2:hover {
-  transform: translate(-42px, 18px) scale(1.05);
-  filter: drop-shadow(12px -12px 20px #f6f6f8);
+  transform: rotate(-3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .joost3:hover {
-  transform: translate(42px, -18px) scale(1.05);
-  filter: drop-shadow(-12px 12px 20px #f6f6f8);
+  transform: rotate(3deg);
+  filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .joost4:hover {
-  transform: translate(-42px, -18px) scale(1.05);
+  transform: rotate(-3deg);
   filter: drop-shadow(12px 12px 20px #f6f6f8);
   border: #f6f6f8;
-  border-style: dashed;
-  border-width: 0.11em;
+  border-style: double;
+  border-width: 0.17em;
 }
 
-video {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  display: block;
-  margin: 0 auto;
-  list-style-type: none;
-}
-.img1 {
-  margin-top: rem;
-}
 /* MARK: tussenteksten 
 */
 h3 {
@@ -560,10 +573,16 @@ p {
   align-items: center;
   width: 50rem;
 }
-
-ul {
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
   list-style-type: none;
-  text-decoration: none;
+}
+.img1 {
+  margin-top: rem;
 }
 /* MARK: @media tags 
 */
