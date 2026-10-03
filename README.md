@@ -10,6 +10,13 @@ Ik vond zelf het bedienen met de screenreader makkelijker, alle content staat in
 Met welke beperking rekening houden vind je het meest lastig?
 vind je dat je beperkt wordt in wat je kunt ontwerpen?
 
+Ik heb vandaag meegedaan aan de deepdive van sanne, hij heeft me geholpen met het schoonmaken van mijn html en css. Hij heeft me wat handige dingen laten zien zoals een a( tag op een parent zodat ik niet voor elk blok individueel alle code hoef te plakken, maar daar 1 plek voor heb.
+Ook ben ik weggestapt van alle margins, ik gebruikte dit veel om de site eruit te laten zien zoals ik wilde. Maar dit is rommelig en niet juist gecodeerd. Dus heb ik veel onnodige code weggehaald en er op een andere manier, met grids en gaps. Voor gezorgd dat de site eruit ziet zoals ik in mijn hoofd heb.
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-03 om 09 30 26" src="https://github.com/user-attachments/assets/4b0b2e7c-c39f-46c6-9853-3e2ab148a47c" />
+
+Ik heb als titel van de blokken een onzichtbaar stukje tekst gemaakt. Dit zorgt ervoor dat mensen die de screenreader gebruiken ook weten dat er een groepje links is.
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-03 om 09 34 39" src="https://github.com/user-attachments/assets/d91994e9-a9a8-41f5-a865-8cf65c297625" />
+
 ## Dinsdag 29 September
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-28 om 20 55 10" src="https://github.com/user-attachments/assets/0d95186f-ce7d-4965-a768-657d3e3349ed" />
 ## Maandag 28 september
