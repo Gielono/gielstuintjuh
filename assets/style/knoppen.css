@@ -175,21 +175,33 @@ section {
 .blok1:hover {
   filter: drop-shadow(-12px -12px 20px #f6f6f8);
   transform: rotate(3deg);
+  border: #f6f6f8;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .blok2:hover {
   transform: rotate(-3deg);
   filter: drop-shadow(12px -12px 20px #f6f6f8);
+  border: #f6f6f8;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .blok3:hover {
   transform: rotate(3deg);
   filter: drop-shadow(-12px 12px 20px #f6f6f8);
+  border: #f6f6f8;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 .blok4:hover {
   transform: rotate(-3deg);
   filter: drop-shadow(12px 12px 20px #f6f6f8);
+  border: #f6f6f8;
+  border-style: double;
+  border-width: 0.17em;
 }
 
 /* MARK: Sef nummers 
