@@ -8,6 +8,7 @@ Wat vind je lastiger, je laptop/websites met alleen toetsenbord bedienen of met 
 Ik vond zelf het bedienen met de screenreader makkelijker, alle content staat in de lijst en je kan er gemmakelijk doorheen scrollen. Wel kwam ik er tijdens de checklist en oefeningen achter dat de kopjes op de content pagina niet op goede volgorde staan, dus dat moet ik fixen.
 
 Met welke beperking rekening houden vind je het meest lastig?
+Ik denk iemand met een verstandelijke beperking, ik 
 vind je dat je beperkt wordt in wat je kunt ontwerpen?
 
 Ik heb vandaag meegedaan aan de deepdive van sanne, hij heeft me geholpen met het schoonmaken van mijn html en css. Hij heeft me wat handige dingen laten zien zoals een a( tag op een parent zodat ik niet voor elk blok individueel alle code hoef te plakken, maar daar 1 plek voor heb.
