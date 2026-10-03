@@ -57,10 +57,6 @@ html {
 
 /* MARK: WRAPPERS */
 
-html {
-  /* overflow-x: clip; */
-}
-
 @keyframes --background-animatie {
   0% {
     background-position: top left;
@@ -109,12 +105,30 @@ body {
 header {
   max-width: 90vw;
   margin: 0 auto;
+  row-gap: var(--whitespace-s);
 }
+h1 {
+  place-items: center;
+  font-family: "Nake";
+  font-style: normal;
+  text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
+  font-size: clamp(6.7rem, -1rem + 30vw, 20rem);
 
+  line-height: 0.8;
+  max-width: 100vw;
+  align-items: center;
+  color: var(--color);
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
 /* MARK: MAIN */
 main {
   max-width: 1000px;
   margin: 0 auto;
+
   transform: rotateX(20deg);
   transform-origin: 50% 0%;
 
@@ -123,9 +137,10 @@ main {
 
 nav.nav {
   margin: 0 auto;
+  margin-bottom: 2rem;
   padding: 15px 0;
-
-  display: grid;
+  margin-bottom: var(--whitespace-s);
+  margin-top: var(--whitespace-s);
   grid-template-columns: min-content min-content;
   align-items: center;
   justify-content: center;
@@ -182,49 +197,6 @@ nav.nav {
 .dag1 {
   text-align: center;
   justify-content: center;
-}
-
-h1 {
-  place-items: center;
-  font-family: "Nake";
-  font-style: normal;
-  text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
-  font-size: clamp(5rem, -1rem + 30vw, 14rem);
-
-  line-height: 0.8;
-  max-width: 90vw;
-  align-items: center;
-  color: var(--color);
-  overflow-wrap: break-word;
-  box-sizing: border-box;
-  overflow-wrap: break-word;
-  box-sizing: border-box;
-  margin: 0 auto;
-}
-
-.derest {
-  color-scheme: light dark;
-  text-align: center;
-  max-width: 10000px;
-  margin: 0 auto;
-  padding: 40px 20px;
-  text-align: center;
-  font-size: 200%;
-  font-family: "Degolan";
-  gap: 2rem;
-  letter-spacing: 0.07em;
-  transform: rotateX(20deg);
-  transform-origin: 50% 100%;
-}
-.derestlogboek {
-  font-family: "Comic Relief", system-ui;
-
-  color-scheme: light dark;
-  text-align: center;
-  max-width: 1000px;
-  margin: auto;
-  padding: 40px 20px;
-  text-align: center;
 }
 
 /* p { */
@@ -431,7 +403,7 @@ img {
   .blok6 {
     &:hover {
       /* BAH PX's */
-      translate: 0 0 200px;
+      translate: 0 0 150px;
       box-shadow: 12px 12px 20px #f6f6f8;
       rotate: y -5deg;
     }
@@ -440,7 +412,7 @@ img {
   .blok7 {
     &:hover {
       /* BAH PX's */
-      translate: 0 0 200px;
+      translate: 0 0 150px;
       box-shadow: 12px 12px 20px #f6f6f8;
       rotate: y 5deg;
     }
