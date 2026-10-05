@@ -207,58 +207,38 @@ section {
 /* MARK: Sef nummers 
 */
 .sef1 {
-  font-size: 650%;
-
+  font-size: 850%;
+  grid-column: 1 / span 7;
+  grid-row: span 2;
+  align-self: stretch;
+  min-height: 20px;
   padding: 1em;
 }
 
 .sef2 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
   font-size: 450%;
-  text-align: center;
-  padding: 0.5em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0.5em;
+  grid-column: 8 / span 5;
+  min-height: 210px;
 }
 .sef3 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  font-size: 500%;
-  text-align: center;
-  padding: 0.5em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  font-size: 400%;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 1em;
+
+  padding: 0.5em;
+  grid-column: 9 / span 10;
+  min-height: 230px;
 }
 .sef4 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  font-size: 400%;
-  text-align: center;
-  padding: 0.5em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  font-size: 600%;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0.5em;
+
+  padding: 0.5em;
+  grid-column: 1 / span 8;
+  min-height: 180px;
 }
 .sef1:hover {
   transform: rotate(3deg);
@@ -295,69 +275,40 @@ section {
 */
 
 .spinvis1 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
   font-size: 650%;
-  text-align: center;
+  grid-column: 1 / span 7;
+  grid-row: span 2;
+  align-self: stretch;
+  min-height: 20px;
   padding: 1em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
-
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  max-height: fit-content;
 }
 
 .spinvis2 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
   font-size: 400%;
-  text-align: center;
-  padding: 0;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: var(--color-blokken);
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0;
+  padding: 0.5em;
+  grid-column: 8 / span 5;
+  min-height: 210px;
 }
 .spinvis3 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
   font-size: 500%;
-  text-align: center;
-  padding: 0.5em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0.5em;
+
+  grid-column: 9 / span 10;
+  min-height: 230px;
+  width: 5.5em;
+  max-height: fit-content;
 }
 .spinvis4 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
   font-size: 400%;
-  text-align: center;
-  padding: 0.5em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0.5em;
+
+  grid-column: 2 / span 8;
+  min-height: 180px;
 }
 .spinvis1:hover {
   transform: rotate(3deg);
@@ -393,69 +344,39 @@ section {
 /* MARK: joost nummers 
 */
 .joost1 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  font-size: 650%;
-  text-align: center;
-  padding: 0.6em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
-
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  font-size: 500%;
+  grid-column: 1 / span 7;
+  grid-row: span 2;
+  align-self: stretch;
+  min-height: 20px;
+  max-height: fit-content;
+  padding: 1em;
 }
 
 .joost2 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
   font-size: 700%;
-  text-align: center;
-  padding: 0.1em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0.1em;
+  padding: 0;
+  padding: 0.5em;
+  grid-column: 8 / span 5;
+  min-height: 210px;
 }
 .joost3 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
   font-size: 500%;
-  text-align: center;
-  padding: 0.5em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0.5em;
+
+  grid-column: 3 / span 5;
+  min-height: 230px;
 }
 .joost4 {
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  font-size: 400%;
-  text-align: center;
-  padding: 0.5em;
-  text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
-  background-color: #4f3a79;
+  font-size: 500%;
 
-  font-family: "Movies";
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-  transition: 0.4s ease-in-out;
+  padding: 0.5em;
+
+  grid-column: 7 / span 10;
+  min-height: 180px;
 }
 .joost1:hover {
   transform: rotate(3deg);

@@ -418,7 +418,13 @@ img {
     }
   }
 }
-
+.cookieinfo {
+  background-color: #4f3a79;
+}
+details {
+  background-color: var(--color-blokken);
+  padding: 2em;
+}
 /* @media (max-width: 800px) {
 
   .blok5 {
@@ -470,6 +476,15 @@ dialog {
   text-align: center;
   border: 3px solid white;
   padding: 2rem;
+}
+dialog p {
+  font-family: "nake";
+  font-size: 4em;
+  font-style: normal;
+  text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
+  padding: 0 auto;
+  line-height: 1em;
+  margin: 0 auto;
 }
 
 dialog::backdrop {
