@@ -115,6 +115,8 @@ section {
   gap: 16px;
   max-width: 1000px;
   align-items: start;
+  border: none;
+  outline: none;
 }
 /* MARK: Carner nummers   row-gap: 15px;
   column-gap: 16px;
