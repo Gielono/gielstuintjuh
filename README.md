@@ -1,3 +1,5 @@
+## Donderdag 8 Oktober
+
 ## Dinsdag 6 Oktober
 
 Na de opdracht van Maandag ben ik aan de slag gegaan met wat schetsen van hoe ik de lyric visualiseer. Ik heb voor Voor ik vergeet gekozen van spinvis. Ik heb dit gekozen omdat spinvis hele verhalende muziek maakt, hij leest als het ware meer iets voor dan dat hij zingt. Hij legt de nadruk op bepaalde woorden die gelijk een bepaalde energie krijgen. Hierdoor krijg ik een goed beeld bij nummers van spinvis en kan ik het gevoel van dit nummer goed visualiseren met typografie.
