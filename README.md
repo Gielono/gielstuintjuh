@@ -1,3 +1,56 @@
+## Dinsdag 6 Oktober
+
+Na de opdracht van Maandag ben ik aan de slag gegaan met wat schetsen van hoe ik de lyric visualiseer. Ik heb voor Voor ik vergeet gekozen van spinvis. Ik heb dit gekozen omdat spinvis hele verhalende muziek maakt, hij leest als het ware meer iets voor dan dat hij zingt. Hij legt de nadruk op bepaalde woorden die gelijk een bepaalde energie krijgen. Hierdoor krijg ik een goed beeld bij nummers van spinvis en kan ik het gevoel van dit nummer goed visualiseren met typografie.
+<img width="471" height="740" alt="Scherm­afbeelding 2026-10-09 om 11 14 06" src="https://github.com/user-attachments/assets/e1700f21-16b0-4589-b85d-abe566d02808" />
+
+<img width="438" height="597" alt="Scherm­afbeelding 2026-10-09 om 11 14 00" src="https://github.com/user-attachments/assets/270003f4-be9b-49d2-990c-de956eda29b1" />
+<img width="445" height="726" alt="Scherm­afbeelding 2026-10-09 om 11 13 53" src="https://github.com/user-attachments/assets/82430e29-cb4b-4a6b-bb0f-7659f85241ca" />
+<img width="478" height="766" alt="Scherm­afbeelding 2026-10-09 om 11 13 46" src="https://github.com/user-attachments/assets/5aae3490-ff6c-4e69-bf8e-09562644bcd5" />
+<img width="486" height="766" alt="Scherm­afbeelding 2026-10-09 om 11 13 38" src="https://github.com/user-attachments/assets/9ef8e59f-044f-4a75-8c2f-382f680796b3" />
+<img width="511" height="843" alt="Scherm­afbeelding 2026-10-09 om 11 13 31" src="https://github.com/user-attachments/assets/320a4be2-359d-4311-bdb7-dde93ddcd261" />
+
+## Maandag 5 Oktober
+checkout:
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. 
+Kerning: het aanpassen van de ruimte tussen twee bv, To letters, zodat het letterbeeld optisch gelijkmatig oogt.
+
+Tracking: het gelijkmatig vergroten of verkleinen van de letterafstand over een heel woord, regel of tekstblok.
+
+Leading: de regelafstand, gemeten van grondlijn tot grondlijn.
+
+Flush-left: links uitgelijnde tekst.
+
+Flush-right: rechts uitgelijnde tekst.
+
+Centered: gecentreerde tekst.
+
+Justified: tekst die links en rechts strak is uitgelijnd, wat ongelijke woordafstanden veroorzaakt.
+
+Indent: het naar rechts laten inspringen van de eerste regel van een alinea.
+
+Outdent: het naar links laten uitsteken van de eerste regel ten opzichte van de rest van de tekst.
+
+Modular scale: een reeks lettergroottes die op een vaste verhouding is gebaseerd, (gulden snede) zodat groottes harmonisch samenhangen.
+
+Focuspunt: het element in een ontwerp dat als eerste de aandacht trekt, door contrast in grootte, kleur of positie.
+
+Vijf soorten contrast: vijf manieren om verschil te creëren in typografie, grootte, dikte, vorm/structuur, kleur en.
+
+Spatial tension: de spanning die ontstaat door de manier waarop ruimte tussen en rond elementen wordt benut, bijvoorbeeld door elementen bijna te laten raken of uit balans te plaatsen.
+
+Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+Een regellengte die zich aanpast aan de lettergrootte. Als je een grootte kop hebt wil je veel spacing om de hierarchie te ondersteunen. Bij kleine stukken tekst met kleine letters is er ook goede regellengte nodig, anders wordt het te onduidelijk en onleesbaar.
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+ik zou dan voor plaatsing kiezen. Met plaatsing kan je visuele hierarchie nog heel duidelijk maken ook zonder verschillende groottes, lettertypes of spacing. Het is de enige van de 4 die een duidelijk verschil tussen elementen kan aangeven zonder dat het een zooitje wordt.
+
+## Vrijdag 2 Oktober
+<img width="1013" height="767" alt="Scherm­afbeelding 2026-10-09 om 10 49 28" src="https://github.com/user-attachments/assets/e801a358-c334-43c1-81fa-3b4c9af664a6" />
+
+Ik heb vandaag meegedaan aan de 2de retrospect. We begonnen weer met wat opwarm oefeningen waarna we weer een grafiek moesten tekenen van de afgelopen twee weken. Ik heb de 2 weken positief ervaren, ik vond het uitdagend en had nog steeds een duidelijk beeld voor me van wat ik wilde als eind product. Met soms wat puntjes met minder motivatie door activiteiten buiten school of strugles met de opdracht. 
+
+<img width="711" height="578" alt="Scherm­afbeelding 2026-10-09 om 10 52 00" src="https://github.com/user-attachments/assets/0e7d9556-b05f-42ba-a00e-59abb819fa7d" />
+
 ## Woensdag 30 September
 Chekout
 
