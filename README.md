@@ -1,4 +1,14 @@
-## Donderdag 8 Oktober
+## Donderdag 15 Oktober
+Ik heb afgelopen week niet aan school kunnen werken door een vakantie en wat omstandigheden. Dus moet ik nog heel wat werk inhalen, ik heb de lessen van woensdag en vrijdag gemist en ik kreeg daar wat stress van. Nu ik weer tijd heb ga ik aan de slag met het les materiaal en hoop zo volgende week dit blok met een voldoende af te kunnen ronden.
+Ik ben vandaag bezig geweest met de lyrics opdracht. Ik had al wat schetsen gemaakt en heb deze nu digitaal uitgewerkt. Omdat ik niet bij de les was en ik de online uitleg niet zo goed begreep heb ik niet alle materialen kunnen gebruiken, maar heb ik met kennis die ik al heb verkregen van dit blok een interpetatie van het govoel van het nummer kunnen omzetten in een visueel beeld adhv een font.
+
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-09 om 10 46 15" src="https://github.com/user-attachments/assets/096c0f06-6108-4a76-9e69-9c52bfe6cb50" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 49 34" src="https://github.com/user-attachments/assets/5762ef8f-a7d3-4be2-a26a-7fcea6167228" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 49 16" src="https://github.com/user-attachments/assets/933be722-ad00-477b-9e7c-f374123ba2dc" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 49 12" src="https://github.com/user-attachments/assets/6316f0dc-a6fe-469e-979d-e8fe36e9328e" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 48 53" src="https://github.com/user-attachments/assets/472bb009-3ac3-49ae-8ee4-8304ec2ec9b8" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 46 56" src="https://github.com/user-attachments/assets/4b185a6c-25af-48ae-acd7-61fec2ed4e81" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 37 05" src="https://github.com/user-attachments/assets/ad9a5d4e-426d-46f0-833c-c5aaa6b95e73" />
 
 ## Dinsdag 6 Oktober
 
@@ -99,7 +109,7 @@ experiment:
 Ik was aan het experimenteren met andere layouts voor het 'mijn favoriete nummers' kopje. Ik kwam door wat met padding in een grid te sjoemelen op deze indelin. Ik vind het misschien niet op met deze verhouding passen bij deze knoppen maar ik vind het er wel aantrekkelijk uitzien, passend bij mijn onderwerp, dynamisch en beweeglijk. 
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 14 06 28" src="https://github.com/user-attachments/assets/eaa87c1d-cb86-4a94-acff-aa331a36135f" />
 Ik wil naast de stukjes texten een illustratie met veel beweging toevoegen, ik heb als inspiratie een aansteker met een print erop.<img width="281" height="594" alt="Scherm­afbeelding 2026-09-27 om 21 04 17" src="https://github.com/user-attachments/assets/7b176f40-3e29-40e3-99b8-b86bef1eaba7" />
-
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 57 31" src="https://github.com/user-attachments/assets/9a323379-8ebf-456f-8023-29549a0b0267" />
 
 
 ## Vrijdag 25 September
