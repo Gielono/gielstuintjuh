@@ -1,3 +1,4 @@
+
 ## Donderdag 15 Oktober
 Ik heb afgelopen week niet aan school kunnen werken door een vakantie en wat omstandigheden. Dus moet ik nog heel wat werk inhalen, ik heb de lessen van woensdag en vrijdag gemist en ik kreeg daar wat stress van. Nu ik weer tijd heb ga ik aan de slag met het les materiaal en hoop zo volgende week dit blok met een voldoende af te kunnen ronden.
 Ik ben vandaag bezig geweest met de lyrics opdracht. Ik had al wat schetsen gemaakt en heb deze nu digitaal uitgewerkt. Omdat ik niet bij de les was en ik de online uitleg niet zo goed begreep heb ik niet alle materialen kunnen gebruiken, maar heb ik met kennis die ik al heb verkregen van dit blok een interpetatie van het govoel van het nummer kunnen omzetten in een visueel beeld adhv een font.
@@ -10,6 +11,7 @@ Ik ben vandaag bezig geweest met de lyrics opdracht. Ik had al wat schetsen gema
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 46 56" src="https://github.com/user-attachments/assets/4b185a6c-25af-48ae-acd7-61fec2ed4e81" />
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 37 05" src="https://github.com/user-attachments/assets/ad9a5d4e-426d-46f0-833c-c5aaa6b95e73" />
 
+voor de rest heb ik mijn site wat opgeruimd en verbeterd. Uit de vorige feedback sessie kreeg ik de feedback dat ik de stukjes teksten links moet uitlijnen, dat is gebruikelijker en leest fijner voor de gebruiker. Dus heb ik dat aangepast en heb ik alle stukjes text links uitgelijnd.
 ## Dinsdag 6 Oktober
 
 Na de opdracht van Maandag ben ik aan de slag gegaan met wat schetsen van hoe ik de lyric visualiseer. Ik heb voor Voor ik vergeet gekozen van spinvis. Ik heb dit gekozen omdat spinvis hele verhalende muziek maakt, hij leest als het ware meer iets voor dan dat hij zingt. Hij legt de nadruk op bepaalde woorden die gelijk een bepaalde energie krijgen. Hierdoor krijg ik een goed beeld bij nummers van spinvis en kan ik het gevoel van dit nummer goed visualiseren met typografie.
