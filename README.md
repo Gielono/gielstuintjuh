@@ -1,3 +1,70 @@
+
+## Donderdag 15 Oktober
+Ik heb afgelopen week niet aan school kunnen werken door een vakantie en wat omstandigheden. Dus moet ik nog heel wat werk inhalen, ik heb de lessen van woensdag en vrijdag gemist en ik kreeg daar wat stress van. Nu ik weer tijd heb ga ik aan de slag met het les materiaal en hoop zo volgende week dit blok met een voldoende af te kunnen ronden.
+Ik ben vandaag bezig geweest met de lyrics opdracht. Ik had al wat schetsen gemaakt en heb deze nu digitaal uitgewerkt. Omdat ik niet bij de les was en ik de online uitleg niet zo goed begreep heb ik niet alle materialen kunnen gebruiken, maar heb ik met kennis die ik al heb verkregen van dit blok een interpetatie van het govoel van het nummer kunnen omzetten in een visueel beeld adhv een font.
+
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-09 om 10 46 15" src="https://github.com/user-attachments/assets/096c0f06-6108-4a76-9e69-9c52bfe6cb50" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 49 34" src="https://github.com/user-attachments/assets/5762ef8f-a7d3-4be2-a26a-7fcea6167228" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 49 16" src="https://github.com/user-attachments/assets/933be722-ad00-477b-9e7c-f374123ba2dc" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 49 12" src="https://github.com/user-attachments/assets/6316f0dc-a6fe-469e-979d-e8fe36e9328e" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 48 53" src="https://github.com/user-attachments/assets/472bb009-3ac3-49ae-8ee4-8304ec2ec9b8" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 46 56" src="https://github.com/user-attachments/assets/4b185a6c-25af-48ae-acd7-61fec2ed4e81" />
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 37 05" src="https://github.com/user-attachments/assets/ad9a5d4e-426d-46f0-833c-c5aaa6b95e73" />
+
+voor de rest heb ik mijn site wat opgeruimd en verbeterd. Uit de vorige feedback sessie kreeg ik de feedback dat ik de stukjes teksten links moet uitlijnen, dat is gebruikelijker en leest fijner voor de gebruiker. Dus heb ik dat aangepast en heb ik alle stukjes text links uitgelijnd.
+## Dinsdag 6 Oktober
+
+Na de opdracht van Maandag ben ik aan de slag gegaan met wat schetsen van hoe ik de lyric visualiseer. Ik heb voor Voor ik vergeet gekozen van spinvis. Ik heb dit gekozen omdat spinvis hele verhalende muziek maakt, hij leest als het ware meer iets voor dan dat hij zingt. Hij legt de nadruk op bepaalde woorden die gelijk een bepaalde energie krijgen. Hierdoor krijg ik een goed beeld bij nummers van spinvis en kan ik het gevoel van dit nummer goed visualiseren met typografie.
+<img width="471" height="740" alt="Scherm­afbeelding 2026-10-09 om 11 14 06" src="https://github.com/user-attachments/assets/e1700f21-16b0-4589-b85d-abe566d02808" />
+
+<img width="438" height="597" alt="Scherm­afbeelding 2026-10-09 om 11 14 00" src="https://github.com/user-attachments/assets/270003f4-be9b-49d2-990c-de956eda29b1" />
+<img width="445" height="726" alt="Scherm­afbeelding 2026-10-09 om 11 13 53" src="https://github.com/user-attachments/assets/82430e29-cb4b-4a6b-bb0f-7659f85241ca" />
+<img width="478" height="766" alt="Scherm­afbeelding 2026-10-09 om 11 13 46" src="https://github.com/user-attachments/assets/5aae3490-ff6c-4e69-bf8e-09562644bcd5" />
+<img width="486" height="766" alt="Scherm­afbeelding 2026-10-09 om 11 13 38" src="https://github.com/user-attachments/assets/9ef8e59f-044f-4a75-8c2f-382f680796b3" />
+<img width="511" height="843" alt="Scherm­afbeelding 2026-10-09 om 11 13 31" src="https://github.com/user-attachments/assets/320a4be2-359d-4311-bdb7-dde93ddcd261" />
+
+## Maandag 5 Oktober
+checkout:
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. 
+Kerning: het aanpassen van de ruimte tussen twee bv, To letters, zodat het letterbeeld optisch gelijkmatig oogt.
+
+Tracking: het gelijkmatig vergroten of verkleinen van de letterafstand over een heel woord, regel of tekstblok.
+
+Leading: de regelafstand, gemeten van grondlijn tot grondlijn.
+
+Flush-left: links uitgelijnde tekst.
+
+Flush-right: rechts uitgelijnde tekst.
+
+Centered: gecentreerde tekst.
+
+Justified: tekst die links en rechts strak is uitgelijnd, wat ongelijke woordafstanden veroorzaakt.
+
+Indent: het naar rechts laten inspringen van de eerste regel van een alinea.
+
+Outdent: het naar links laten uitsteken van de eerste regel ten opzichte van de rest van de tekst.
+
+Modular scale: een reeks lettergroottes die op een vaste verhouding is gebaseerd, (gulden snede) zodat groottes harmonisch samenhangen.
+
+Focuspunt: het element in een ontwerp dat als eerste de aandacht trekt, door contrast in grootte, kleur of positie.
+
+Vijf soorten contrast: vijf manieren om verschil te creëren in typografie, grootte, dikte, vorm/structuur, kleur en.
+
+Spatial tension: de spanning die ontstaat door de manier waarop ruimte tussen en rond elementen wordt benut, bijvoorbeeld door elementen bijna te laten raken of uit balans te plaatsen.
+
+Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+Een regellengte die zich aanpast aan de lettergrootte. Als je een grootte kop hebt wil je veel spacing om de hierarchie te ondersteunen. Bij kleine stukken tekst met kleine letters is er ook goede regellengte nodig, anders wordt het te onduidelijk en onleesbaar.
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+ik zou dan voor plaatsing kiezen. Met plaatsing kan je visuele hierarchie nog heel duidelijk maken ook zonder verschillende groottes, lettertypes of spacing. Het is de enige van de 4 die een duidelijk verschil tussen elementen kan aangeven zonder dat het een zooitje wordt.
+
+## Vrijdag 2 Oktober
+<img width="1013" height="767" alt="Scherm­afbeelding 2026-10-09 om 10 49 28" src="https://github.com/user-attachments/assets/e801a358-c334-43c1-81fa-3b4c9af664a6" />
+
+Ik heb vandaag meegedaan aan de 2de retrospect. We begonnen weer met wat opwarm oefeningen waarna we weer een grafiek moesten tekenen van de afgelopen twee weken. Ik heb de 2 weken positief ervaren, ik vond het uitdagend en had nog steeds een duidelijk beeld voor me van wat ik wilde als eind product. Met soms wat puntjes met minder motivatie door activiteiten buiten school of strugles met de opdracht. 
+
+<img width="711" height="578" alt="Scherm­afbeelding 2026-10-09 om 10 52 00" src="https://github.com/user-attachments/assets/0e7d9556-b05f-42ba-a00e-59abb819fa7d" />
+
 ## Woensdag 30 September
 Chekout
 
@@ -44,7 +111,7 @@ experiment:
 Ik was aan het experimenteren met andere layouts voor het 'mijn favoriete nummers' kopje. Ik kwam door wat met padding in een grid te sjoemelen op deze indelin. Ik vind het misschien niet op met deze verhouding passen bij deze knoppen maar ik vind het er wel aantrekkelijk uitzien, passend bij mijn onderwerp, dynamisch en beweeglijk. 
 <img width="3440" height="1440" alt="Scherm­afbeelding 2026-09-27 om 14 06 28" src="https://github.com/user-attachments/assets/eaa87c1d-cb86-4a94-acff-aa331a36135f" />
 Ik wil naast de stukjes texten een illustratie met veel beweging toevoegen, ik heb als inspiratie een aansteker met een print erop.<img width="281" height="594" alt="Scherm­afbeelding 2026-09-27 om 21 04 17" src="https://github.com/user-attachments/assets/7b176f40-3e29-40e3-99b8-b86bef1eaba7" />
-
+<img width="3440" height="1440" alt="Scherm­afbeelding 2026-10-15 om 11 57 31" src="https://github.com/user-attachments/assets/9a323379-8ebf-456f-8023-29549a0b0267" />
 
 
 ## Vrijdag 25 September
