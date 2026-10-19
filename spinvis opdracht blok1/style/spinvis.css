@@ -1,0 +1,127 @@
+/* MARK: fonts */
+@font-face {
+  font-family: "Seraphs";
+  src: url("fonts/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("./fonts/RobotoFlex[GRAD\,XOPQ\,XTRA\,YOPQ\,YTAS\,YTDE\,YTFI\,YTLC\,YTUC\,opsz\,slnt\,wdth\,wght].ttf")
+    format("woff2"); /* Modern Browsers */
+}
+@font-face {
+  font-family: "Wave";
+  src: url("./fonts/Wavefont[ROND\,YELA\,wght].ttf") format("woff2"); /* Modern Browsers */
+}
+/* MARK: items */
+body {
+  font-family: "Seraphs";
+  margin: 0;
+
+  overflow-x: hidden;
+  text-align: center;
+  align-items: center;
+}
+
+.groep1 {
+  margin: 0;
+
+  gap: 0.5em;
+  font-size: 8em;
+  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
+
+  margin: 0;
+}
+.groep2 {
+  margin: 0;
+
+  gap: 0.5em;
+  font-size: 8em;
+  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
+
+  margin: 0;
+}
+.groep3 {
+  margin: 0;
+
+  gap: 0.5em;
+  font-size: 8em;
+  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
+
+  margin: 0;
+}
+.groep4 {
+  margin: 0;
+
+  gap: 0.5em;
+  font-size: 8em;
+  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
+
+  margin: 0;
+}
+
+.groepp {
+  margin: 0;
+  font-size: 4em;
+  rotate: 5deg;
+}
+.groepp2 {
+  margin: 0;
+  font-size: 4em;
+  rotate: 5deg;
+}
+.de {
+  font-size: 20rem;
+  rotate: 40deg;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.hele {
+  font-size: 20em;
+  rotate: 40deg;
+  margin: 0;
+}
+.dag {
+  font-size: 20em;
+  rotate: 40deg;
+  margin: 0;
+}
+.eerstezin {
+  gap: 0.5em;
+  font-size: 8.5em;
+  margin: 0;
+  text-align: left;
+  margin: 0;
+}
+.tweedezin {
+  display: flex; /* zet de p's naast elkaar */
+  gap: 0.5em;
+  font-size: 8.5em;
+  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
+
+  margin: 0;
+}
+.derdezin {
+}
+.voorikvergeet {
+  font-weight: 1200;
+  margin: 0;
+  margin-top: 0.5em;
+  font-size: 3em;
+  text-align: center;
+  font-style: oblique;
+}
+.voorikvergeet2 {
+  font-weight: 1200;
+  margin: 0;
+  margin-top: -1em;
+  font-size: 3em;
+  text-align: center;
+  font-style: oblique;
+}
+.vierdezin {
+  gap: 0.5em;
+  font-size: 8.5em;
+  margin: 0;
+  text-align: left;
+  margin: 0;
+}
