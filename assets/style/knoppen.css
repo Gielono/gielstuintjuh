@@ -18,7 +18,6 @@
 }
 
 /* MARK: KLEURTJES */
-
 html {
   color-scheme: light dark;
   --color: light-dark(black, white);
@@ -437,7 +436,6 @@ h3 {
   margin: 0 auto;
 }
 .Tussenkolomn p {
-  margin-bottom: 1.5em;
   text-align: left;
 }
 
@@ -469,6 +467,13 @@ video {
 }
 .img1 {
   margin-top: rem;
+}
+.variable {
+  font-family: "Wave";
+  font-size: 10em;
+  margin: 0;
+  text-align: center;
+  padding: 0;
 }
 /* MARK: @media tags 
 */
@@ -522,4 +527,25 @@ video {
       transform-origin: 0% 0%;
     }
   }
+}
+@font-face {
+  font-family: wavefont;
+  font-display: block;
+  src: url("/assets/type/Wavefont.woff2") format("woff2");
+}
+.wavefont-golf {
+  font-family: "wavefont";
+  font-size: 120px;
+  line-height: 1.6;
+  color: white;
+  white-space: nowrap;
+  margin: var(--whitespace-m);
+
+  overflow: hidden;
+  text-align: center;
+  letter-spacing: 1ch; /* ruimte tussen de balkjes */
+  font-variation-settings:
+    "wght" 525,
+    /* dikte van de balkjes (4-1000) */ "ROND" 50,
+    /* afronding (0-100) */ "YELA" 0; /* 0 = vanuit het midden */
 }
