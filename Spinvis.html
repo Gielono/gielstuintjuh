@@ -17,6 +17,21 @@
     ></script>
   </head>
   <body>
+    <audio
+      id="muziek"
+      src="./oefeningen/presentatie/Ottolenghi.mp3"
+      autoplay
+      muted
+      loop
+    ></audio>
+    <button
+      class="knopjemuziek"
+      onclick="document.getElementById('muziek').muted = false"
+    >
+      Klik mij
+    </button>
+
+    <div class="pagina">
     <header>
       <h1 class="">Spinvis</h1>
       <nav class="nav">
@@ -64,8 +79,8 @@
         woorden of zinnen die op zichzelf niet zoveel betekenen maar samen toch
         een gevoel of verhaal oproepen.
       </p>
+      </div>
     </article>
-    </div>
     <img
       class="img2"
       src="./oefeningen/presentatie/spinvis1.png"
@@ -113,7 +128,7 @@
             >Limonade glazen vodka</a
           >
     </section>
-  
+    </div>
+    <script src="./assets/scripts/wavefont.js"></script>
   </body>
-      <script src="./assets/scripts/wavefont.js"></script>
 </html>

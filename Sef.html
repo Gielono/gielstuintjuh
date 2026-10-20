@@ -17,6 +17,21 @@
     ></script>
   </head>
   <body>
+    <audio
+      id="muziek"
+      src="./oefeningen/presentatie/Ottolenghi.mp3"
+      autoplay
+      muted
+      loop
+    ></audio>
+    <button
+      class="knopjemuziek"
+      onclick="document.getElementById('muziek').muted = false"
+    >
+      Klik mij
+    </button>
+
+    <div class="pagina">
     <header>
       <h1 class="sef">Sef</h1>
       <nav class="nav">
@@ -106,6 +121,7 @@
         >We moeten door</a
       >
     </section>
+    </div>
     <script src="./assets/scripts/wavefont.js"></script>
   </body>
 </html>
