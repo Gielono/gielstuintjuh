@@ -16,27 +16,46 @@
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: wavefont;
+  font-display: block;
+  src: url("/assets/type/Wavefont.woff2") format("woff2");
+}
 
 /* MARK: KLEURTJES */
 html {
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background-color: light-dark(white, black);
+
   --whitespace-s: 1rem;
   --whitespace-m: calc(var(--whitespace-s) * 2);
   --whitespace-l: calc(var(--whitespace-s) * 4);
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
+
+  --color-wit: white;
+  --color-zwart: black;
   --color-blauw: #3f3fa3;
   --color-blokken: #4f3a79;
+  --color-paars: #923fa3;
+  --color-tussenstuk: #5252a1;
+  --color-knop: #b544a6;
+  --color-knop-hover: #3f3f9f;
+  --color-gloed: #f6f6f8;
+
+  --color-lila: rgb(199, 157, 231);
+  --color-donkerblauw: rgb(43, 43, 133);
+  --color-roze: rgb(208, 60, 124);
+  --color-bijna-zwart: rgb(7, 7, 7);
+  --color-violet: rgb(130, 77, 227);
 }
-/* MARK: HEADER
-*/
+
+/* MARK: HEADER */
 h1 {
   font-size: clamp(6.7rem, -1rem + 30vw, 20rem);
   line-height: 0.8;
   font-family: Nake;
-  text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
-  text-shadow-color: var(--color-blauw);
+  text-shadow: 0.05em 0.05em 0.05em var(--color-blauw);
   margin-top: -15rem;
 }
 .header {
@@ -45,76 +64,67 @@ h1 {
 }
 body {
   font-family: system-ui, sans-serif;
-  color-scheme: light dark;
   text-align: center;
   max-width: 1000px;
   margin: auto;
   padding: 40px 20px;
-  text-align: center;
   transform: rotateX(20deg);
   transform-origin: 50% 100%;
   background: radial-gradient(
-    rgb(199, 157, 231),
-    rgb(43, 43, 133),
-    rgb(208, 60, 124),
-    rgb(7, 7, 7),
-    rgb(130, 77, 227)
+    var(--color-lila),
+    var(--color-donkerblauw),
+    var(--color-roze),
+    var(--color-bijna-zwart),
+    var(--color-violet)
   );
   min-height: 100vh;
   background-size: 300% 400%;
   animation: move 10s alternate infinite;
 }
 .nav {
-  overflow: hidden;
-  border-bottom: 1px white;
   display: flex;
   justify-content: center;
-  display: flex;
   gap: 40px;
-  background-color: var(--color-blauw);
-  text-shadow: --color-blauw;
-  padding: 15px 0;
-  max-width: 1000px;
-  margin: 0 auto;
-  font-size: 280%;
-  color: white;
-  margin-top: -10rem;
   flex-wrap: nowrap;
-  white-space: nowrap;
+  overflow: hidden;
   position: relative;
   z-index: 10;
-  list-style-type: none;
-  margin-bottom: 2rem;
-  font-family: "degolan";
+  max-width: 1000px;
+  margin: -10rem auto 2rem;
+  padding: 15px 0;
+  background-color: var(--color-blauw);
+  color: var(--color-wit);
+  font-family: Degolan;
   font-size: clamp(3rem, 2.8333rem + 0.8333vw, 3.25rem);
+  white-space: nowrap;
+  list-style-type: none;
+
   a {
-    color: white;
+    color: var(--color-wit);
     transition: 0.4s ease-in-out;
 
     &:hover {
-      color: black;
+      color: var(--color-zwart);
     }
   }
 }
-/* MARK: Favo nummers 
-*/
 
+/* MARK: Favo nummers */
 h2 {
   font-size: 1600%;
   margin-top: 0.2em;
   margin-bottom: 0.2em;
-  list-style-type: none;
   line-height: 0.8;
   font-family: Nake;
-  text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
+  text-shadow: 0.05em 0.05em 0.05em var(--color-blauw);
 }
 h3 {
   font-size: 5em;
   line-height: 0.8;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  font-family: movies;
-  text-shadow: 0.05em 0.05em 0.05em #923fa3;
+  font-family: Movies;
+  text-shadow: 0.05em 0.05em 0.05em var(--color-paars);
 }
 
 .carnertussenstuk {
@@ -124,22 +134,17 @@ h3 {
   transform: translateX(-50%);
   box-sizing: border-box;
   padding: 20px;
-  background-color: #5252a1;
-  opacity: 100%;
+  background-color: var(--color-tussenstuk);
   margin-top: var(--whitespace-s);
   margin-bottom: var(--whitespace-l);
 }
-
 .carnertussenstuk p {
-  flex: 1;
   max-width: 480px;
-  margin: 0 auto;
-  margin-bottom: var(--whitespace-m);
+  margin: 0 auto var(--whitespace-m);
 }
 .Tussenkolomn p {
   text-align: left;
 }
-
 .Tussenkolomn p:last-child {
   margin-bottom: 0;
 }
@@ -147,127 +152,138 @@ p {
   font-size: 22px;
 }
 .knopjemuziek {
-  color: white;
-  background: #b544a6;
-  border: 2px solid white;
+  color: var(--color-wit);
+  background: var(--color-knop);
+  border: 2px solid var(--color-wit);
   border-radius: 0;
   padding: 1rem;
   font-size: 2em;
   width: 20em;
   margin-bottom: 1em;
-
   appearance: none;
   cursor: pointer;
   white-space: nowrap;
 
   &:hover {
-    background: white;
-    color: #3f3f9f;
+    background: var(--color-wit);
+    color: var(--color-knop-hover);
   }
 
   body.consent & {
-    background-color: black;
+    background-color: var(--color-zwart);
   }
 }
+
+/* MARK: Blokken (grid) */
 section {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: 16px;
   max-width: 1000px;
   align-items: start;
-  border: none;
-  outline: none;
-}
-/* MARK: Carner nummers   row-gap: 15px;
-  column-gap: 16px;
-*/
-section {
-  a {
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    display: flex;
 
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 1em;
-    text-shadow: 0.1em 0.1em 0.1em #3f3fa3;
+    text-shadow: 0.1em 0.1em 0.1em var(--color-blauw);
     background-color: var(--color-blokken);
-    font-family: "Movies";
+    font-family: Movies;
     text-decoration: none;
     color: inherit;
     cursor: pointer;
     transition: 0.4s ease-in-out;
   }
+
   &:hover {
-    border: #f6f6f8;
-    border-style: double;
-    border-width: 0.17em;
+    border: 0.17em double var(--color-gloed);
   }
 }
+
+.blok1:hover,
+.blok2:hover,
+.blok3:hover,
+.blok4:hover,
+.sef1:hover,
+.sef2:hover,
+.sef3:hover,
+.sef4:hover,
+.spinvis1:hover,
+.spinvis2:hover,
+.spinvis3:hover,
+.spinvis4:hover,
+.joost1:hover,
+.joost2:hover,
+.joost3:hover,
+.joost4:hover {
+  border: 0.17em double var(--color-gloed);
+}
+
+.sef1:hover,
+.sef3:hover,
+.spinvis1:hover,
+.spinvis3:hover,
+.joost1:hover,
+.joost3:hover {
+  transform: rotate(3deg);
+  filter: drop-shadow(12px 12px 20px var(--color-gloed));
+}
+
+.sef2:hover,
+.sef4:hover,
+.spinvis2:hover,
+.spinvis4:hover,
+.joost2:hover,
+.joost4:hover {
+  transform: rotate(-3deg);
+  filter: drop-shadow(12px 12px 20px var(--color-gloed));
+}
+
+/* MARK: Carner nummers */
 .blok1 {
   font-size: 650%;
-
   grid-column: 1 / span 7;
   grid-row: span 2;
   align-self: stretch;
   min-height: 20px;
 }
-
 .blok2 {
   font-size: 400%;
-
   padding: 0;
   grid-column: 8 / span 5;
   min-height: 210px;
 }
 .blok3 {
   font-size: 500%;
-
   padding: 0.5em;
   grid-column: 9 / span 4;
   min-height: 230px;
 }
 .blok4 {
   font-size: 400%;
-
   padding: 0.5em;
   grid-column: 1 / span 8;
   min-height: 180px;
 }
-
 .blok1:hover {
-  filter: drop-shadow(-12px -12px 20px #f6f6f8);
   transform: rotate(3deg);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
+  filter: drop-shadow(-12px -12px 20px var(--color-gloed));
 }
-
 .blok2:hover {
   transform: rotate(-3deg);
-  filter: drop-shadow(12px -12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
+  filter: drop-shadow(12px -12px 20px var(--color-gloed));
 }
-
 .blok3:hover {
   transform: rotate(3deg);
-  filter: drop-shadow(-12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
+  filter: drop-shadow(-12px 12px 20px var(--color-gloed));
 }
-
 .blok4:hover {
   transform: rotate(-3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
+  filter: drop-shadow(12px 12px 20px var(--color-gloed));
 }
 
-/* MARK: Sef nummers 
-*/
+/* MARK: Sef nummers */
 .sef1 {
   font-size: 850%;
   grid-column: 1 / span 7;
@@ -276,89 +292,44 @@ section {
   min-height: 20px;
   padding: 1em;
 }
-
 .sef2 {
   font-size: 450%;
-
   padding: 0.5em;
   grid-column: 8 / span 5;
   min-height: 210px;
 }
 .sef3 {
   font-size: 400%;
-
-  padding: 1em;
-
   padding: 0.5em;
   grid-column: 9 / span 10;
   min-height: 230px;
 }
 .sef4 {
   font-size: 600%;
-
-  padding: 0.5em;
-
   padding: 0.5em;
   grid-column: 1 / span 8;
   min-height: 180px;
 }
-.sef1:hover {
-  transform: rotate(3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
 
-.sef2:hover {
-  transform: rotate(-3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-
-.sef3:hover {
-  transform: rotate(3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-
-.sef4:hover {
-  transform: rotate(-3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-/* MARK: Spinvis nummers 
-*/
-
+/* MARK: Spinvis nummers */
 .spinvis1 {
   font-size: 650%;
   grid-column: 1 / span 7;
   grid-row: span 2;
   align-self: stretch;
   min-height: 20px;
-  padding: 1em;
   max-height: fit-content;
+  padding: 1em;
 }
-
 .spinvis2 {
   font-size: 400%;
-
-  padding: 0;
   padding: 0.5em;
   grid-column: 8 / span 5;
   min-height: 210px;
 }
 .spinvis3 {
   font-size: 500%;
-
   padding: 0.5em;
-
   grid-column: 9 / span 10;
   min-height: 230px;
   width: 5.5em;
@@ -366,45 +337,12 @@ section {
 }
 .spinvis4 {
   font-size: 400%;
-
   padding: 0.5em;
-
   grid-column: 2 / span 8;
   min-height: 180px;
 }
-.spinvis1:hover {
-  transform: rotate(3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
 
-.spinvis2:hover {
-  transform: rotate(-3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-
-.spinvis3:hover {
-  transform: rotate(3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-
-.spinvis4:hover {
-  transform: rotate(-3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-/* MARK: joost nummers 
-*/
+/* MARK: Joost nummers */
 .joost1 {
   font-size: 500%;
   grid-column: 1 / span 7;
@@ -414,76 +352,33 @@ section {
   max-height: fit-content;
   padding: 1em;
 }
-
 .joost2 {
   font-size: 700%;
-
-  padding: 0.1em;
-  padding: 0;
   padding: 0.5em;
   grid-column: 8 / span 5;
   min-height: 210px;
 }
 .joost3 {
   font-size: 500%;
-
   padding: 0.5em;
-
   grid-column: 3 / span 5;
   min-height: 230px;
 }
 .joost4 {
   font-size: 500%;
-
   padding: 0.5em;
-
   grid-column: 7 / span 10;
   min-height: 180px;
 }
-.joost1:hover {
-  transform: rotate(3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
 
-.joost2:hover {
-  transform: rotate(-3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-
-.joost3:hover {
-  transform: rotate(3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-
-.joost4:hover {
-  transform: rotate(-3deg);
-  filter: drop-shadow(12px 12px 20px #f6f6f8);
-  border: #f6f6f8;
-  border-style: double;
-  border-width: 0.17em;
-}
-
-/* MARK: tussenteksten 
-*/
-
+/* MARK: Tussenteksten */
 .list {
   list-style-type: none;
 }
 .img2 {
-  align-items: center;
   width: 60rem;
 }
 .img4 {
-  align-items: center;
   width: 50rem;
 }
 video {
@@ -492,20 +387,31 @@ video {
   border-radius: 8px;
   display: block;
   margin: 0 auto;
-  list-style-type: none;
-}
-.img1 {
-  margin-top: rem;
 }
 .variable {
   font-family: "Wave";
   font-size: 10em;
   margin: 0;
-  text-align: center;
   padding: 0;
+  text-align: center;
 }
-/* MARK: @media tags 
-*/
+.wavefont-golf {
+  font-family: wavefont;
+  font-size: 120px;
+  line-height: 1.6;
+  color: var(--color-wit);
+  white-space: nowrap;
+  margin: var(--whitespace-m);
+  overflow: hidden;
+  text-align: center;
+  letter-spacing: 1ch;
+  font-variation-settings:
+    "wght" 525,
+    "ROND" 50,
+    "YELA" 0;
+}
+
+/* MARK: Media queries */
 @media (max-width: 800px) {
   header {
     margin-top: 0;
@@ -513,68 +419,28 @@ video {
   }
   h1 {
     font-size: 900%;
-    margin-top: 0;
-    align-items: center;
     max-width: 90vw;
-    margin: auto;
-    margin-top: -12rem;
+    margin: -12rem auto 0;
   }
   h2 {
     font-size: 850%;
   }
   .nav {
     max-width: 100%;
-    display: flex;
     flex-wrap: wrap;
     align-content: center;
     margin-top: 2rem;
-
     font-size: 200%;
-  }
-  .carnertussenstuk p {
-    font-size: 1em;
-    max-height: 80vw;
   }
   .carnertussenstuk {
     font-size: 1em;
     max-height: 80vw;
   }
-  .img2 {
-    align-items: center;
-    width: 60rem;
+  .carnertussenstuk p {
+    font-size: 1em;
+    max-height: 80vw;
   }
   img {
     max-width: 60vw;
   }
-  .img4 {
-    align-items: center;
-
-    body {
-      margin-top: auto;
-      align-items: center;
-      transform: rotateX(0deg);
-      transform-origin: 0% 0%;
-    }
-  }
-}
-@font-face {
-  font-family: wavefont;
-  font-display: block;
-  src: url("/assets/type/Wavefont.woff2") format("woff2");
-}
-.wavefont-golf {
-  font-family: "wavefont";
-  font-size: 120px;
-  line-height: 1.6;
-  color: white;
-  white-space: nowrap;
-  margin: var(--whitespace-m);
-
-  overflow: hidden;
-  text-align: center;
-  letter-spacing: 1ch; /* ruimte tussen de balkjes */
-  font-variation-settings:
-    "wght" 525,
-    /* dikte van de balkjes (4-1000) */ "ROND" 50,
-    /* afronding (0-100) */ "YELA" 0; /* 0 = vanuit het midden */
 }
