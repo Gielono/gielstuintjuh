@@ -127,7 +127,7 @@ h1 {
 /* MARK: MAIN */
 main {
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 0 auto 40vh;
 
   transform: rotateX(20deg);
   transform-origin: 50% 0%;
@@ -221,6 +221,7 @@ img {
   grid-template-columns: repeat(var(--cols, 1), 1fr);
   gap: 16px;
   max-width: 1000px;
+  height: 100%;
 
   gap: var(--whitespace-s);
 

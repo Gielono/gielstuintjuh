@@ -103,11 +103,71 @@ h2 {
   font-size: 1600%;
   margin-top: 0.2em;
   margin-bottom: 0.2em;
-  font-family: "movies";
   list-style-type: none;
   line-height: 0.8;
   font-family: Nake;
   text-shadow: 0.05em 0.05em 0.05em #3f3fa3;
+}
+h3 {
+  font-size: 5em;
+  line-height: 0.8;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-family: movies;
+  text-shadow: 0.05em 0.05em 0.05em #923fa3;
+}
+
+.carnertussenstuk {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: #5252a1;
+  opacity: 100%;
+  margin-top: var(--whitespace-s);
+  margin-bottom: var(--whitespace-l);
+}
+
+.carnertussenstuk p {
+  flex: 1;
+  max-width: 480px;
+  margin: 0 auto;
+  margin-bottom: var(--whitespace-m);
+}
+.Tussenkolomn p {
+  text-align: left;
+}
+
+.Tussenkolomn p:last-child {
+  margin-bottom: 0;
+}
+p {
+  font-size: 22px;
+}
+.knopjemuziek {
+  color: white;
+  background: #b544a6;
+  border: 2px solid white;
+  border-radius: 0;
+  padding: 1rem;
+  font-size: 2em;
+  width: 20em;
+  margin-bottom: 1em;
+
+  appearance: none;
+  cursor: pointer;
+  white-space: nowrap;
+
+  &:hover {
+    background: white;
+    color: #3f3f9f;
+  }
+
+  body.consent & {
+    background-color: black;
+  }
 }
 section {
   display: grid;
@@ -414,37 +474,6 @@ section {
 
 /* MARK: tussenteksten 
 */
-h3 {
-  font-size: 2em;
-}
-.carnertussenstuk {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  box-sizing: border-box;
-  padding: 20px;
-  background-color: #5252a1;
-  opacity: 100%;
-  margin-top: var(--whitespace-s);
-  margin-bottom: var(--whitespace-s);
-}
-
-.carnertussenstuk p {
-  flex: 1;
-  max-width: 480px;
-  margin: 0 auto;
-}
-.Tussenkolomn p {
-  text-align: left;
-}
-
-.Tussenkolomn p:last-child {
-  margin-bottom: 0;
-}
-p {
-  font-size: 22px;
-}
 
 .list {
   list-style-type: none;
