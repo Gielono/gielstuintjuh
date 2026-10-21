@@ -1,4 +1,16 @@
 
+Woensdag 21 Oktober
+<img width="1242" height="2208" alt="IMG_6805" src="https://github.com/user-attachments/assets/b0fb18b4-77a1-4e6e-bf60-b709767c3bed" />
+Dinsdag 20 Oktober
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 23" src="https://github.com/user-attachments/assets/2ad27ab7-e8d2-46c5-8ae4-b0fc04e92fe4" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 20" src="https://github.com/user-attachments/assets/f791566b-5ee3-4c53-94c6-552a945d68ab" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 19" src="https://github.com/user-attachments/assets/21f9f79e-c3af-4da9-9d19-4d9567d108fd" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 16" src="https://github.com/user-attachments/assets/db8fd54f-6369-4479-a15d-2bdfa5fee601" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 07 57" src="https://github.com/user-attachments/assets/6144a171-44ff-4e26-ab16-4fcb7a46c3e9" />
+Ik heb vandaag verder gewerkt aan de site adhv van het, Hoe webby is jou website? blad. Ik heb met behulp van ai een nettere structuur gegeven aan mijn code. Ik heb custom properties toegepast en heb gewerkt aan het beter responsive maken van mijn design. 
+Maandag 19 Oktobe
+<img width="580" height="772" alt="Scherm­afbeelding 2026-10-21 om 10 06 30" src="https://github.com/user-attachments/assets/a0855169-de7f-4b0b-891b-fba779a862b1" />
+Ik heb na een gesprek met vasilis besloten niet verder te gaan met het responsive maken van de variable font op de muziek. Omdat dit veel javascript nodig heeft en dat niet de opdracht is. 
 ## Donderdag 15 Oktober
 Ik heb afgelopen week niet aan school kunnen werken door een vakantie en wat omstandigheden. Dus moet ik nog heel wat werk inhalen, ik heb de lessen van woensdag en vrijdag gemist en ik kreeg daar wat stress van. Nu ik weer tijd heb ga ik aan de slag met het les materiaal en hoop zo volgende week dit blok met een voldoende af te kunnen ronden.
 Ik ben vandaag bezig geweest met de lyrics opdracht. Ik had al wat schetsen gemaakt en heb deze nu digitaal uitgewerkt. Omdat ik niet bij de les was en ik de online uitleg niet zo goed begreep heb ik niet alle materialen kunnen gebruiken, maar heb ik met kennis die ik al heb verkregen van dit blok een interpetatie van het govoel van het nummer kunnen omzetten in een visueel beeld adhv een font.
