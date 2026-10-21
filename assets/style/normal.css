@@ -145,6 +145,9 @@ h1 {
   margin: 0 auto;
   color: var(--color);
   overflow-wrap: break-word;
+  @media (width < 400px) {
+    font-size: 550%;
+  }
 }
 
 /* MARK: MAIN */

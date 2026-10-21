@@ -2,6 +2,7 @@
 @font-face {
   font-family: "Seraphs";
   src: url("fonts/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+  font-style: swap;
 }
 @font-face {
   font-family: "Roboto";
