@@ -1,128 +1,204 @@
 /* MARK: fonts */
 @font-face {
   font-family: "Seraphs";
-  src: url("fonts/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
-  font-style: swap;
+  src: url("fonts/SeraphsVF.woff2") format("woff2");
+  font-display: swap;
 }
-@font-face {
-  font-family: "Roboto";
-  src: url("./fonts/RobotoFlex[GRAD\,XOPQ\,XTRA\,YOPQ\,YTAS\,YTDE\,YTFI\,YTLC\,YTUC\,opsz\,slnt\,wdth\,wght].ttf")
-    format("woff2"); /* Modern Browsers */
-}
-@font-face {
-  font-family: "Wave";
-  src: url("./fonts/Wavefont[ROND\,YELA\,wght].ttf") format("woff2"); /* Modern Browsers */
-}
-/* MARK: items */
+
+/* MARK: basis */
 body {
-  font-family: "Seraphs";
   margin: 0;
-
   overflow-x: hidden;
+  background: black;
+  color: white;
+  font-family: "Seraphs", serif;
   text-align: center;
+}
+
+header {
+  display: none;
+}
+
+p {
+  margin: 0;
+}
+
+footer {
+  padding: 1rem;
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
+
+/* MARK: grid */
+
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-auto-rows: auto;
+  row-gap: 0;
+}
+
+.muur,
+.podium {
+  display: contents;
+}
+
+main section,
+.slot {
+  display: flex;
+  justify-content: center;
   align-items: center;
+  padding: 0 1rem;
 }
 
-.groep1 {
-  margin: 0;
-
-  gap: 0.5em;
-  font-size: 8em;
-  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
-
-  margin: 0;
-}
-.groep2 {
-  margin: 0;
-
-  gap: 0.5em;
-  font-size: 8em;
-  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
-
-  margin: 0;
-}
-.groep3 {
-  margin: 0;
-
-  gap: 0.5em;
-  font-size: 8em;
-  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
-
-  margin: 0;
-}
+/* MARK: papapa */
+.groep1,
+.groep2,
+.groep3,
 .groep4 {
-  margin: 0;
-
   gap: 0.5em;
-  font-size: 8em;
-  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
-
-  margin: 0;
+  flex-wrap: wrap;
+  align-content: center;
+  min-height: 24dvh;
+  white-space: nowrap;
+  font-size: min(16dvh, 6.2vw);
+  line-height: 1;
 }
 
 .groepp {
-  margin: 0;
-  font-size: 4em;
-  rotate: 5deg;
+  flex-basis: 100%;
+  margin: 10rem;
 }
 .groepp2 {
-  margin: 0;
-  font-size: 4em;
+  font-size: 0.5em;
   rotate: 5deg;
 }
-.de {
-  font-size: 20rem;
-  rotate: 40deg;
-  margin-bottom: 0;
-  margin-top: 0;
+.groep1 p,
+.groep2 p,
+.groep3 p,
+.groep4 p {
+  font-family: "Seraphs", serif;
+  font-variation-settings:
+    "wght" 525,
+    "ROND" 50,
+    "YELA" 500;
 }
-.hele {
-  font-size: 20em;
-  rotate: 40deg;
-  margin: 0;
-}
-.dag {
-  font-size: 20em;
-  rotate: 40deg;
-  margin: 0;
-}
-.eerstezin {
-  gap: 0.5em;
-  font-size: 8.5em;
-  margin: 0;
-  text-align: left;
-  margin: 0;
-}
-.tweedezin {
-  display: flex; /* zet de p's naast elkaar */
-  gap: 0.5em;
-  font-size: 8.5em;
-  flex-wrap: wrap; /* laat woorden naar de volgende regel gaan als het niet past */
 
-  margin: 0;
+@keyframes golf {
+  from {
+    font-variation-settings:
+      "wght" 150,
+      "ROND" 0,
+      "YELA" 0;
+  }
+  to {
+    font-variation-settings:
+      "wght" 800,
+      "ROND" 100,
+      "YELA" 100;
+  }
 }
-.derdezin {
+
+.eerstezin,
+.tweedezin {
+  flex-direction: column;
+  gap: 0.2em;
+  min-height: 90dvh;
 }
-.voorikvergeet {
-  font-weight: 1200;
-  margin: 0;
-  margin-top: 0.5em;
-  font-size: 3em;
-  text-align: center;
-  font-style: oblique;
-}
+
+.voorikvergeet,
 .voorikvergeet2 {
-  font-weight: 1200;
-  margin: 0;
-  margin-top: -1em;
-  font-size: 3em;
-  text-align: center;
+  font-size: min(14vw, 24dvh);
   font-style: oblique;
+  font-weight: 1200;
+  line-height: 0.95;
 }
+
+.eerstezin p:last-child,
+.tweedezin p:last-child,
+.vierdezin p {
+  font-size: min(4.6vw, 8dvh);
+  line-height: 1.1;
+}
+
 .vierdezin {
-  gap: 0.5em;
-  font-size: 8.5em;
-  margin: 0;
-  text-align: left;
-  margin: 0;
+  min-height: 60dvh;
+}
+
+.derdedezin {
+  gap: 0.3em;
+  min-height: 90dvh;
+  font-size: min(17vw, 30dvh);
+  line-height: 1;
+  rotate: 40deg;
+}
+
+.de,
+.hele,
+.dag {
+  rotate: 0deg;
+}
+
+.slot {
+  min-height: 70dvh;
+  font-size: min(2.6vw, 3.6dvh);
+  line-height: 1.25;
+}
+
+.slot {
+  max-width: 44ch;
+  margin: 0 auto;
+  text-wrap: balance;
+}
+
+/* MARK: animaties */
+/* gehaald uit de deepdive font animaties van sanne */
+@media (prefers-reduced-motion: no-preference) {
+  .groep1 p,
+  .groep2 p,
+  .groep3 p,
+  .groep4 p {
+    animation: golf 3s ease-in-out infinite alternate;
+    animation-delay: calc(var(--rij, 0) * -0.6s - var(--p, 0) * 1s);
+  }
+  .groep2 {
+    --rij: 1;
+  }
+  .groep3 {
+    --rij: 2;
+  }
+  .groep4 {
+    --rij: 3;
+  }
+  :is(.groep1, .groep2, .groep3, .groep4) p:nth-child(2) {
+    --p: 4;
+  }
+  :is(.groep1, .groep2, .groep3, .groep4) p:nth-child(3) {
+    --p: 3;
+  }
+  :is(.groep1, .groep2, .groep3, .groep4) p:nth-child(4) {
+    --p: 2;
+  }
+  :is(.groep1, .groep2, .groep3, .groep4) p:nth-child(5) {
+    --p: 1;
+  }
+  /* gevraagd aan ai hoe dit moest. Heb de code gekopieerd en snap hoe het werkt. */
+  .derdedezin p {
+    animation: stuiter 0.8s ease-in-out infinite alternate;
+  }
+  .hele {
+    animation-delay: 0.25s;
+  }
+  .dag {
+    animation-delay: 0.5s;
+  }
+}
+
+@keyframes stuiter {
+  from {
+    translate: 0 0;
+  }
+  to {
+    translate: 0 -0.12em;
+  }
 }
