@@ -166,6 +166,8 @@ h3 {
 p {
   font-size: 22px;
 }
+/* MARK: Knopje muziek
+ */
 .knopjemuziek {
   position: fixed;
   top: var(--whitespace-m);
@@ -232,7 +234,10 @@ p {
     box-shadow: 0 0 0 0 transparent;
   }
 }
-
+.knopjemuziek img {
+  width: 7rem;
+  height: 7rem;
+}
 /* MARK: Favoriete nummers (grid) */
 section {
   display: grid;
@@ -271,7 +276,7 @@ section {
       opacity: 0.7;
       text-shadow: none;
     }
-
+    /* heb zelf de hover animatie en dergelijken bedacht. En heb aan ai gevraagd de animatie te verbeteren omdat hij nog haperig verliep.  */
     &:hover {
       outline: 0.17em double var(--color-gloed);
       outline-offset: -0.4em;
@@ -342,28 +347,6 @@ video {
   border-radius: 8px;
   display: block;
   margin: 0 auto;
-}
-.variable {
-  font-family: "Wave";
-  font-size: 10em;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-.wavefont-golf {
-  font-family: wavefont;
-  font-size: 120px;
-  line-height: 1.6;
-  color: var(--color-wit);
-  white-space: nowrap;
-  margin: var(--whitespace-m);
-  overflow: hidden;
-  text-align: center;
-  letter-spacing: 1ch;
-  font-variation-settings:
-    "wght" 525,
-    "ROND" 50,
-    "YELA" 0;
 }
 
 /* MARK: Media queries */

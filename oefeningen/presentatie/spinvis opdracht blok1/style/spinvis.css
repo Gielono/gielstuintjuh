@@ -152,7 +152,7 @@ main section,
 }
 
 /* MARK: animaties */
-/* gehaald uit de deepdive font animaties van sanne */
+/* gehaald uit de deepdive variable fonts van sanne */
 @media (prefers-reduced-motion: no-preference) {
   .groep1 p,
   .groep2 p,
@@ -182,7 +182,7 @@ main section,
   :is(.groep1, .groep2, .groep3, .groep4) p:nth-child(5) {
     --p: 1;
   }
-  /* gevraagd aan ai hoe dit moest. Heb de code gekopieerd en snap hoe het werkt. */
+  /* gevraagd aan ai hoe dit moest. Heb de code gekopieerd. */
   .derdedezin p {
     animation: stuiter 0.8s ease-in-out infinite alternate;
   }
