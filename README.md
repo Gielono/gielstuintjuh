@@ -1,4 +1,4 @@
-Donderdag 22 Oktober
+## Donderdag 22 Oktober
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 16 29 43" src="https://github.com/user-attachments/assets/19d6c699-2dbe-4681-bf1a-5d6bb0400a78" />
 Ik heb met de inzichten uit de deep dives mijn font size op een clamp gezet. Sanne heeft me uitgelegd hoe je custom clamps maakt zodat je font meebeweegt met verschillende scherm groottes. Dit heb ik nu dus ook toegevoegd aan het kopje van het stukje favoriete nummers. Omdat deze steeds te groot waren voor het scherm en er daardoor extra wit ruimte ontstont.
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 16 35 20" src="https://github.com/user-attachments/assets/5d13703d-50b7-4788-90a9-b651e68f0f33" />
@@ -8,16 +8,21 @@ Ik heb een nieuw icoontje voor de muziek knop gemaakt. Ik vond de tekst niet hel
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 12 08 23" src="https://github.com/user-attachments/assets/ab591819-28b2-47a3-b0d9-a59cd3ba3ee2" />
 Ik heb de songtekst weer helemaal veranderd. Ik vond dat de content te ver uit elkaar stond waardoor je de boodschap niet goed meekreeg. Ik heb met behulp van de deepdives en ai animaties toegevoegd. Ik ben blijer met hoe het eruit ziet. De papapa's "dansen" nu als het ware in een soort ritme
-Woensdag 21 Oktober
-<img width="1242" height="2208" alt="IMG_6805" src="https://github.com/user-attachments/assets/b0fb18b4-77a1-4e6e-bf60-b709767c3bed" />
-Dinsdag 20 Oktober
+
+## Woensdag 21 Oktober
+<img width="997" height="704" alt="Scherm­afbeelding 2026-10-22 om 17 39 31" src="https://github.com/user-attachments/assets/f150c5d8-f057-4cf2-b279-3064b3cd1188" />
+<img width="494" height="712" alt="Scherm­afbeelding 2026-10-22 om 17 39 14" src="https://github.com/user-attachments/assets/96a739da-13d3-42d6-9726-962472f91c75" />
+<img width="580" height="776" alt="Scherm­afbeelding 2026-10-22 om 17 39 05" src="https://github.com/user-attachments/assets/d36cbe2f-3cd4-4eba-b503-5cd69afd8d83" />
+
+## Dinsdag 20 Oktober
+
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 23" src="https://github.com/user-attachments/assets/2ad27ab7-e8d2-46c5-8ae4-b0fc04e92fe4" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 20" src="https://github.com/user-attachments/assets/f791566b-5ee3-4c53-94c6-552a945d68ab" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 19" src="https://github.com/user-attachments/assets/21f9f79e-c3af-4da9-9d19-4d9567d108fd" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 16" src="https://github.com/user-attachments/assets/db8fd54f-6369-4479-a15d-2bdfa5fee601" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 07 57" src="https://github.com/user-attachments/assets/6144a171-44ff-4e26-ab16-4fcb7a46c3e9" />
 Ik heb vandaag verder gewerkt aan de site adhv van het, Hoe webby is jou website? blad. Ik heb met behulp van ai een nettere structuur gegeven aan mijn code. Ik heb custom properties toegepast en heb gewerkt aan het beter responsive maken van mijn design. 
-Maandag 19 Oktober
+## Maandag 19 Oktober
 <img width="580" height="772" alt="Scherm­afbeelding 2026-10-21 om 10 06 30" src="https://github.com/user-attachments/assets/a0855169-de7f-4b0b-891b-fba779a862b1" />
 Ik heb na een gesprek met vasilis besloten niet verder te gaan met het responsive maken van de variable font op de muziek. Omdat dit veel javascript nodig heeft en dat niet de opdracht is. 
 ## Donderdag 15 Oktober
