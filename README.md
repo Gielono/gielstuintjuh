@@ -7,7 +7,7 @@ Ook heb ik de tekst in de content paginas gefixt. Eerst ging deze over de blokke
 Ik heb een nieuw icoontje voor de muziek knop gemaakt. Ik vond de tekst niet helemaal top, ik wilde iets duidelijks en grafisch. Dus heb ik gekozen voor het icoontje van een speaker. Deze heb ik gemaakt in illustrator.
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 12 08 23" src="https://github.com/user-attachments/assets/ab591819-28b2-47a3-b0d9-a59cd3ba3ee2" />
-
+Ik heb de songtekst weer helemaal veranderd. Ik vond dat de content te ver uit elkaar stond waardoor je de boodschap niet goed meekreeg. Ik heb met behulp van de deepdives en ai animaties toegevoegd. Ik ben blijer met hoe het eruit ziet. De papapa's "dansen" nu als het ware in een soort ritme
 Woensdag 21 Oktober
 <img width="1242" height="2208" alt="IMG_6805" src="https://github.com/user-attachments/assets/b0fb18b4-77a1-4e6e-bf60-b709767c3bed" />
 Dinsdag 20 Oktober
@@ -17,7 +17,7 @@ Dinsdag 20 Oktober
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 08 16" src="https://github.com/user-attachments/assets/db8fd54f-6369-4479-a15d-2bdfa5fee601" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-21 om 10 07 57" src="https://github.com/user-attachments/assets/6144a171-44ff-4e26-ab16-4fcb7a46c3e9" />
 Ik heb vandaag verder gewerkt aan de site adhv van het, Hoe webby is jou website? blad. Ik heb met behulp van ai een nettere structuur gegeven aan mijn code. Ik heb custom properties toegepast en heb gewerkt aan het beter responsive maken van mijn design. 
-Maandag 19 Oktobe
+Maandag 19 Oktober
 <img width="580" height="772" alt="Scherm­afbeelding 2026-10-21 om 10 06 30" src="https://github.com/user-attachments/assets/a0855169-de7f-4b0b-891b-fba779a862b1" />
 Ik heb na een gesprek met vasilis besloten niet verder te gaan met het responsive maken van de variable font op de muziek. Omdat dit veel javascript nodig heeft en dat niet de opdracht is. 
 ## Donderdag 15 Oktober
