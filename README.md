@@ -1,3 +1,12 @@
+Donderdag 22 Oktober
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 16 29 43" src="https://github.com/user-attachments/assets/19d6c699-2dbe-4681-bf1a-5d6bb0400a78" />
+Ik heb met de inzichten uit de deep dives mijn font size op een clamp gezet. Sanne heeft me uitgelegd hoe je custom clamps maakt zodat je font meebeweegt met verschillende scherm groottes. Dit heb ik nu dus ook toegevoegd aan het kopje van het stukje favoriete nummers. Omdat deze steeds te groot waren voor het scherm en er daardoor extra wit ruimte ontstont.
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 16 35 20" src="https://github.com/user-attachments/assets/5d13703d-50b7-4788-90a9-b651e68f0f33" />
+Ook heb ik de tekst in de content paginas gefixt. Eerst ging deze over de blokken heen, nu blijven ze netjes in de blokken. Hetzelfde heb ik gedaan met de muziek knop. Ik heb deze ook met media tags aangepast zodat hij kleiner is op een kleiner scherm en niet het hele scherm over neemt.
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 12 44 54" src="https://github.com/user-attachments/assets/544b7df8-2fa1-4fc6-af21-b68b8f63494a" />
+Ik heb een nieuw icoontje voor de muziek knop gemaakt. Ik vond de tekst niet helemaal top, ik wilde iets duidelijks en grafisch. Dus heb ik gekozen voor het icoontje van een speaker. Deze heb ik gemaakt in illustrator.
+
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 12 08 23" src="https://github.com/user-attachments/assets/ab591819-28b2-47a3-b0d9-a59cd3ba3ee2" />
 
 Woensdag 21 Oktober
 <img width="1242" height="2208" alt="IMG_6805" src="https://github.com/user-attachments/assets/b0fb18b4-77a1-4e6e-bf60-b709767c3bed" />
