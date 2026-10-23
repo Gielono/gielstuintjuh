@@ -54,6 +54,8 @@
 
 /* MARK: KLEURTJES EN CO */
 html {
+  color-scheme: light dark;
+
   --whitespace-s: 1rem;
   --whitespace-xs: calc(var(--whitespace-s) * 0.5);
   --whitespace-m: calc(var(--whitespace-s) * 2);
@@ -81,6 +83,14 @@ html {
   --color-bijna-zwart: rgb(7, 7, 7);
   --color-roze: rgb(208, 60, 124);
   --color-violet: rgb(130, 77, 227);
+
+  /* achtergrond-gradient: dark = zoals het was, light = zwart wordt wit
+     en het donkerblauw wordt lichter zodat zwarte tekst leesbaar blijft */
+  --gradient-donker: light-dark(white, var(--color-bijna-zwart));
+  --gradient-blauw: light-dark(rgb(150, 150, 240), var(--color-donkerblauw));
+
+  /* gloed bij hover: op wit zou een witte gloed onzichtbaar zijn */
+  --color-gloed-schaduw: light-dark(var(--color-blauw), var(--color-gloed));
 }
 
 /* MARK: WRAPPERS */
@@ -96,10 +106,10 @@ html {
 body,
 dialog {
   background: radial-gradient(
-    var(--color-donkerblauw),
-    var(--color-bijna-zwart),
+    var(--gradient-blauw),
+    var(--gradient-donker),
     var(--color-roze),
-    var(--color-bijna-zwart),
+    var(--gradient-donker),
     var(--color-violet)
   );
   background-size: 400% 400%;
@@ -118,6 +128,7 @@ body {
   margin: auto;
   padding: 40px 20px;
   font-family: Degolan, system-ui;
+  color: var(--color);
   text-align: center;
 
   @media (width > 800px) {
@@ -177,6 +188,7 @@ nav.nav {
   }
 
   a {
+    color: var(--color-wit); /* navigatietekst altijd wit, ook in light mode */
     transition: 0.4s ease-in-out;
 
     &:hover {
@@ -353,18 +365,18 @@ img {
   .blok3:hover,
   .blok5:hover,
   .blok6:hover {
-    box-shadow: 12px 12px 20px var(--color-gloed);
+    box-shadow: 12px 12px 20px var(--color-gloed-schaduw);
     rotate: y -5deg;
   }
 
   .blok2:hover,
   .blok4:hover {
-    box-shadow: -12px 12px 20px var(--color-gloed);
+    box-shadow: -12px 12px 20px var(--color-gloed-schaduw);
     rotate: y 5deg;
   }
 
   .blok7:hover {
-    box-shadow: 12px 12px 20px var(--color-gloed);
+    box-shadow: 12px 12px 20px var(--color-gloed-schaduw);
     rotate: y 5deg;
   }
 
@@ -393,9 +405,9 @@ dialog {
   max-width: 800px;
   font-size: 24px;
   font-family: sans-serif;
-  color: var(--color-wit);
+  color: var(--color);
   text-align: center;
-  border: 3px solid var(--color-wit);
+  border: 3px solid var(--color);
   padding: 2rem;
 }
 dialog p {
