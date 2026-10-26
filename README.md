@@ -656,9 +656,9 @@ kijk naar bovenste vragen.
 </details>
 
 <details>
-<summary>Wat ik gedaan heb: bi-weekly geek en responsive design</summary>
+<summary>bi-weekly geek en responsive design</summary>
 
-Wat ik heb gedaan vandaag: de bi-weekly geek over welke regels er aan internet gesteld moeten worden, hoe het niet in handen van commerciele bedrijven moet komen. En kregen we een lesje responsive design van vasilis, ik heb dat gelijk in mijn site kunnen verwerken.
+de bi-weekly geek over welke regels er aan internet gesteld moeten worden, hoe het niet in handen van commerciele bedrijven moet komen. En kregen we een lesje responsive design van vasilis.
 
 </details>
 
