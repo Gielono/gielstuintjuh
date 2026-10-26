@@ -84,12 +84,11 @@ html {
   --color-roze: rgb(208, 60, 124);
   --color-violet: rgb(130, 77, 227);
 
-  /* achtergrond-gradient: dark = zoals het was, light = zwart wordt wit
-     en het donkerblauw wordt lichter zodat zwarte tekst leesbaar blijft */
+
   --gradient-donker: light-dark(white, var(--color-bijna-zwart));
   --gradient-blauw: light-dark(rgb(150, 150, 240), var(--color-donkerblauw));
 
-  /* gloed bij hover: op wit zou een witte gloed onzichtbaar zijn */
+
   --color-gloed-schaduw: light-dark(var(--color-blauw), var(--color-gloed));
 }
 
@@ -188,7 +187,7 @@ nav.nav {
   }
 
   a {
-    color: var(--color-wit); /* navigatietekst altijd wit, ook in light mode */
+    color: var(--color-wit); 
     transition: 0.4s ease-in-out;
 
     &:hover {
