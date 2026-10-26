@@ -1,6 +1,5 @@
-# Leerdagboek
+# logboek Giel Keukens
 
-Klik op een dag om hem uit te klappen. Binnen de dagen zitten weer kleinere blokken per onderdeel (deepdive, checkout, feedback, enz.).
 
 ---
 
