@@ -4,6 +4,7 @@
 
 ## Vrijdag 23 Oktober
 <img width="648" height="477" alt="Scherm­afbeelding 2026-10-26 om 14 08 43" src="https://github.com/user-attachments/assets/1c7d821e-42c1-43b8-a3da-3297e5cf5ff0" />
+Ik heb voor deze retrospect de bovenliggende tekening gemaakt. De tekening gaat verder waar mijn vorige tekening is gestopt. Ik dacht toen dat de top van de berg het eindpunt zou zijn. Maar in mijn laatste tekeningen ga ik vanaf die berg met een raket naar de maan, dit is dan ook mijn echte eindpunt, met als tussenstop de expo en hindernissen als de herfstvakantie.
 <img width="447" height="593" alt="Scherm­afbeelding 2026-10-26 om 14 08 16" src="https://github.com/user-attachments/assets/b9489a9c-edcf-49c7-bddb-202063dbb417" />
 
 ## Donderdag 22 Oktober
