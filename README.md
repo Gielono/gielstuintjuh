@@ -355,7 +355,7 @@ Ik wil naast de stukjes texten een illustratie met veel beweging toevoegen, ik h
 <summary><h2>Vrijdag 25 September</h2></summary>
 <details>
  <summary> Deepdive Vasilis Responsive grid</summary>
-<img width="153" alt="Scherm­afbeelding 2026-10-26 om 20 54 30" src="https://github.com/user-attachments/assets/3d74e951-05c6-4f29-92ae-3197795a1765" </details>
+<img width="153" alt="Scherm­afbeelding 2026-10-26 om 20 54 30" src="https://github.com/user-attachments/assets/3d74e951-05c6-4f29-92ae-3197795a1765" 
 Ik heb vandaag de deepdive Responsive grid van Vasilis zelfstandig gedaan. Ik ben mijn website begonnen op desktop dus was het lastiger voor mij om het om te bouwen naar een scherm dat ook past op je telefoon. De bovenstaande afbeelding laat zien wat mijn site eerst deed (ik heb geen recentere afbeelding met de blokken erop). De content werd samengeperst en paste zich niet goed aan aan de scherm grootte. 
 De foto hieronder is wat ik met de inzichten uit de deepdive heb bereikt. Ik heb toegepast wat Vasilis toepasste op de fotos. Zodat ze inplaats van naast elkaar, onder elkaar komen te staan.
  <img width="311" alt="Scherm­afbeelding 2026-10-26 om 21 01 38" src="https://github.com/user-attachments/assets/ea0984b4-af13-463a-bb5a-440c274743f3" />
@@ -363,7 +363,7 @@ De foto hieronder is wat ik met de inzichten uit de deepdive heb bereikt. Ik heb
  <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 11 38 01" src="https://github.com/user-attachments/assets/ab3f3266-4965-4293-bbe2-dc966317dedd" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 09 34 42" src="https://github.com/user-attachments/assets/af1fd499-e22c-4c24-9709-1fc17c212662" />
 
-
+</details>
 </details>
 
 <details>
