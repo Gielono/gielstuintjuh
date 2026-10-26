@@ -120,7 +120,7 @@ main section,
 .eerstezin p:last-child,
 .tweedezin p:last-child,
 .vierdezin p {
-  font-size: 10em;
+  font-size: 5em;
   line-height: 1.1;
   font-variation-settings:
     "wght" 100,
@@ -138,7 +138,6 @@ main section,
   font-size: min(17vw, 30dvh);
   line-height: 1;
   rotate: 40deg;
-  margin-bottom: 5em;
 }
 
 .de,
