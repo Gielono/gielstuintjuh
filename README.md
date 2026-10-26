@@ -1,3 +1,11 @@
+## Maandag 26 Oktober
+<img width="600" height="354" alt="Scherm­afbeelding 2026-10-26 om 14 08 03" src="https://github.com/user-attachments/assets/77cd7062-0219-4e73-b213-d30a62bc3f34" />
+<img width="827" height="691" alt="Scherm­afbeelding 2026-10-26 om 14 07 42" src="https://github.com/user-attachments/assets/1a80b7bb-520f-4f17-a51e-e9d7b64458dc" />
+
+## Vrijdag 23 Oktober
+<img width="648" height="477" alt="Scherm­afbeelding 2026-10-26 om 14 08 43" src="https://github.com/user-attachments/assets/1c7d821e-42c1-43b8-a3da-3297e5cf5ff0" />
+<img width="447" height="593" alt="Scherm­afbeelding 2026-10-26 om 14 08 16" src="https://github.com/user-attachments/assets/b9489a9c-edcf-49c7-bddb-202063dbb417" />
+
 ## Donderdag 22 Oktober
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-22 om 16 29 43" src="https://github.com/user-attachments/assets/19d6c699-2dbe-4681-bf1a-5d6bb0400a78" />
 Ik heb met de inzichten uit de deep dives mijn font size op een clamp gezet. Sanne heeft me uitgelegd hoe je custom clamps maakt zodat je font meebeweegt met verschillende scherm groottes. Dit heb ik nu dus ook toegevoegd aan het kopje van het stukje favoriete nummers. Omdat deze steeds te groot waren voor het scherm en er daardoor extra wit ruimte ontstont.
@@ -10,7 +18,9 @@ Ik heb een nieuw icoontje voor de muziek knop gemaakt. Ik vond de tekst niet hel
 Ik heb de songtekst weer helemaal veranderd. Ik vond dat de content te ver uit elkaar stond waardoor je de boodschap niet goed meekreeg. Ik heb met behulp van de deepdives en ai animaties toegevoegd. Ik ben blijer met hoe het eruit ziet. De papapa's "dansen" nu als het ware in een soort ritme
 
 ## Woensdag 21 Oktober
+Ik heb vandaag het schema, hoe webby is jouw website ingevuld. Waaruit ik wat punten heb gehaald (in het rood) die ik nog wil aanpassen, dit zijn veel schoonheids dingetjes. Zoals custom properties gebruiken. Maar ook het afmaken van het responsive maken van de site en de cookies info aanvullen.
 <img width="997" height="704" alt="Scherm­afbeelding 2026-10-22 om 17 39 31" src="https://github.com/user-attachments/assets/f150c5d8-f057-4cf2-b279-3064b3cd1188" />
+Daarna gingen we een peerfeedback formulier invullen. Hier kwamen nog wat puntjes uit, deze heb ik in een lijstje gezet en ga ik afwerken voor de expo van volgende week.
 <img width="494" height="712" alt="Scherm­afbeelding 2026-10-22 om 17 39 14" src="https://github.com/user-attachments/assets/96a739da-13d3-42d6-9726-962472f91c75" />
 <img width="580" height="776" alt="Scherm­afbeelding 2026-10-22 om 17 39 05" src="https://github.com/user-attachments/assets/d36cbe2f-3cd4-4eba-b503-5cd69afd8d83" />
 
@@ -26,7 +36,6 @@ Ik heb vandaag verder gewerkt aan de site adhv van het, Hoe webby is jou website
 <img width="580" height="772" alt="Scherm­afbeelding 2026-10-21 om 10 06 30" src="https://github.com/user-attachments/assets/a0855169-de7f-4b0b-891b-fba779a862b1" />
 Ik heb na een gesprek met vasilis besloten niet verder te gaan met het responsive maken van de variable font op de muziek. Omdat dit veel javascript nodig heeft en dat niet de opdracht is. 
 ## Donderdag 15 Oktober
-Ik heb afgelopen week niet aan school kunnen werken door een vakantie en wat omstandigheden. Dus moet ik nog heel wat werk inhalen, ik heb de lessen van woensdag en vrijdag gemist en ik kreeg daar wat stress van. Nu ik weer tijd heb ga ik aan de slag met het les materiaal en hoop zo volgende week dit blok met een voldoende af te kunnen ronden.
 Ik ben vandaag bezig geweest met de lyrics opdracht. Ik had al wat schetsen gemaakt en heb deze nu digitaal uitgewerkt. Omdat ik niet bij de les was en ik de online uitleg niet zo goed begreep heb ik niet alle materialen kunnen gebruiken, maar heb ik met kennis die ik al heb verkregen van dit blok een interpetatie van het govoel van het nummer kunnen omzetten in een visueel beeld adhv een font.
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-09 om 10 46 15" src="https://github.com/user-attachments/assets/096c0f06-6108-4a76-9e69-9c52bfe6cb50" />
