@@ -692,7 +692,7 @@ In mijn eigen site gebruik ik 2 kolomen met knoppen, wanneer het scherm kleiner 
 
  Ik heb vandaag met de inzichten uit de deepdive van sanne een begin gemaakt aan het maken van mijn grid. Ik wil graag een blokken grid die in 2 kolommen met een diepte als het ware naar je toekomt. Dit heb ik gekregen uit de visual research oefening. Hierin kwam terug dat diepte en donker licht contrast bijdragen aan het gevoel van een concert dat ik wil creëren. Ik ben begonnen met het toevoegen van 2 blokken in html en heb daar wat styling aan toegevoegd om het overzichtelijk voor mezelf te krijgen. Bovenstaande fotos is waar ik mee ben begonnen, en de onderstaande foto waarmee ik ben geëindigd. Dit is hoe ik het voor me zag, ik wil nu nog de gaps tussen de blokken aanpassen zodat het meer lijkt alsof ze echt tot een groep behoren, en de diepte toevoegen om het gewenste gevoel na te bootsen.
  
- <img width="512" height="982" alt="Scherm­afbeelding 2026-09-11 om 12 08 03" src="https://github.com/user-attachments/assets/0c2fd1e9-ab64-45f6-bd02-97b2ea70d1c6" />
+ <img width="512" alt="Scherm­afbeelding 2026-09-11 om 12 08 03" src="https://github.com/user-attachments/assets/0c2fd1e9-ab64-45f6-bd02-97b2ea70d1c6" />
 
  />
 </details>
