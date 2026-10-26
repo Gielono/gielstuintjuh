@@ -24,7 +24,7 @@
 
 /* MARK: KLEURTJES */
 html {
-  overflow-x: clip; /* vakken van 100vw geven anders een horizontale scrollbalk */
+  overflow-x: clip; 
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background-color: light-dark(white, black);
@@ -50,8 +50,7 @@ html {
   --color-bijna-zwart: rgb(7, 7, 7);
   --color-violet: rgb(130, 77, 227);
 
-  /* achtergrond-gradient: dark = zoals het was, light = zwart wordt wit
-     en het donkerblauw wordt lichter zodat zwarte tekst leesbaar blijft */
+
   --gradient-donker: light-dark(white, var(--color-bijna-zwart));
   --gradient-blauw: light-dark(rgb(150, 150, 240), var(--color-donkerblauw));
 }
@@ -149,8 +148,8 @@ h3 {
   left: 50%;
   transform: translateX(-50%);
   box-sizing: border-box;
-  color: var(--color-wit); /* vak is in beide modes donker */
-  overflow-wrap: anywhere; /* lange woorden breken i.p.v. uit het vak lopen */
+  color: var(--color-wit); 
+  overflow-wrap: anywhere; 
   padding: var(--whitespace-l) var(--whitespace-m);
   margin-top: var(--whitespace-m);
   margin-bottom: var(--whitespace-l);
@@ -292,7 +291,7 @@ section {
     overflow-wrap: anywhere;
     text-shadow: 0.06em 0.06em 0.1em var(--color-donkerblauw);
     text-decoration: none;
-    color: var(--color-wit); /* blokken zijn blauw in beide modes */
+    color: var(--color-wit); 
     cursor: pointer;
     transition: 0.4s ease-in-out;
 
