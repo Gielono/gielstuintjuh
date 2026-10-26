@@ -92,7 +92,13 @@ body {
   background-size: 300% 400%;
   animation: move 10s alternate infinite;
 }
-
+main {
+  transform: rotateX(15deg);
+  transform-origin: 30% 20%;
+  transform-style: preserve-3d;
+  margin: 0 auto 10vh;
+  perspective: 7000px;
+}
 .nav {
   display: flex;
   justify-content: center;
@@ -217,8 +223,27 @@ p {
   body.consent & {
     background: var(--color-zwart);
   }
+  /* code door ai laten schrijven, ik wilde een active state en pauze knop op het muziek knopje. */
+}
+.muziekcheck {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
 }
 
+.muziekcheck:checked + .knopjemuziek {
+  animation-play-state: paused;
+  scale: 1.1;
+  rotate: -6deg;
+  background: var(--color-wit);
+  color: var(--color-knop-hover);
+  text-shadow: none;
+}
+
+.muziekcheck:focus-visible + .knopjemuziek {
+  outline: 0.2em solid var(--color-wit);
+  outline-offset: 0.2em;
+}
 @keyframes blob {
   to {
     border-radius: 40% 60% 45% 55% / 60% 40% 60% 40%;

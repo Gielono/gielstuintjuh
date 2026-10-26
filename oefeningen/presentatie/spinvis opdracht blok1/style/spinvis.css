@@ -61,13 +61,14 @@ main section,
   align-content: center;
   min-height: 24dvh;
   white-space: nowrap;
-  font-size: min(16dvh, 6.2vw);
+  font-size: 5em;
   line-height: 1;
 }
 
 .groepp {
-  flex-basis: 100%;
+  flex-basis: 0;
   margin: 10rem;
+  font-size: 3em;
 }
 .groepp2 {
   font-size: 0.5em;
@@ -79,9 +80,9 @@ main section,
 .groep4 p {
   font-family: "Seraphs", serif;
   font-variation-settings:
-    "wght" 525,
-    "ROND" 50,
-    "YELA" 500;
+    "wght" 125,
+    "ROND" 0,
+    "YELA" 200;
 }
 
 @keyframes golf {
@@ -93,7 +94,7 @@ main section,
   }
   to {
     font-variation-settings:
-      "wght" 800,
+      "wght" 100,
       "ROND" 100,
       "YELA" 100;
   }
@@ -104,11 +105,13 @@ main section,
   flex-direction: column;
   gap: 0.2em;
   min-height: 90dvh;
+  font-size: 0.5em;
 }
 
 .voorikvergeet,
-.voorikvergeet2 {
-  font-size: min(14vw, 24dvh);
+.voorikvergeet2,
+.voorikvergeet3 {
+  font-size: 20em;
   font-style: oblique;
   font-weight: 1200;
   line-height: 0.95;
@@ -117,8 +120,12 @@ main section,
 .eerstezin p:last-child,
 .tweedezin p:last-child,
 .vierdezin p {
-  font-size: min(4.6vw, 8dvh);
+  font-size: 10em;
   line-height: 1.1;
+  font-variation-settings:
+    "wght" 100,
+    "ROND" 100,
+    "YELA" 100;
 }
 
 .vierdezin {
@@ -131,6 +138,7 @@ main section,
   font-size: min(17vw, 30dvh);
   line-height: 1;
   rotate: 40deg;
+  margin-bottom: 5em;
 }
 
 .de,

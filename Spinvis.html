@@ -24,13 +24,15 @@
       muted
       loop
     ></audio>
-    <button
-      class="knopjemuziek"
-      onclick="document.getElementById('muziek').muted = false"
-      aria-label="Muziek aanzetten"
-    >
+    <input
+      type="checkbox"
+      id="muziekknop"
+      class="muziekcheck"
+      onchange="document.getElementById('muziek').muted = !this.checked"
+    />
+    <label for="muziekknop" class="knopjemuziek" aria-label="Muziek aan of uit">
       <img src="./oefeningen/presentatie/Middel 2.svg" alt="Klik mij" />
-    </button>
+    </label>
 
     <div class="pagina">
       <header>
