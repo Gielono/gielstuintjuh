@@ -356,12 +356,13 @@ Ik wil naast de stukjes texten een illustratie met veel beweging toevoegen, ik h
 <details>
  <summary> Deepdive Vasilis Responsive grid</summary>
 <img width="153" alt="Scherm­afbeelding 2026-10-26 om 20 54 30" src="https://github.com/user-attachments/assets/3d74e951-05c6-4f29-92ae-3197795a1765" 
+
 Ik heb vandaag de deepdive Responsive grid van Vasilis zelfstandig gedaan. Ik ben mijn website begonnen op desktop dus was het lastiger voor mij om het om te bouwen naar een scherm dat ook past op je telefoon. De bovenstaande afbeelding laat zien wat mijn site eerst deed (ik heb geen recentere afbeelding met de blokken erop). De content werd samengeperst en paste zich niet goed aan aan de scherm grootte. 
 De foto hieronder is wat ik met de inzichten uit de deepdive heb bereikt. Ik heb toegepast wat Vasilis toepasste op de fotos. Zodat ze inplaats van naast elkaar, onder elkaar komen te staan.
+ 
  <img width="311" alt="Scherm­afbeelding 2026-10-26 om 21 01 38" src="https://github.com/user-attachments/assets/ea0984b4-af13-463a-bb5a-440c274743f3" />
 
- <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 11 38 01" src="https://github.com/user-attachments/assets/ab3f3266-4965-4293-bbe2-dc966317dedd" />
-<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 09 34 42" src="https://github.com/user-attachments/assets/af1fd499-e22c-4c24-9709-1fc17c212662" />
+
 
 </details>
 </details>
@@ -674,7 +675,7 @@ de bi-weekly geek over welke regels er aan internet gesteld moeten worden, hoe h
 <summary>Opdracht 16 en 17 (duo: Samir)</summary>
 
 **Bekijk elkaars website door de browser groter en kleiner te maken**
-Samirs site is erg responsive, hij heeft m als single columm ontworpen dus hij beweegt mooi mee met andere scherm groottes, mijn eigen website is ook responsive maar nog niet zo netjes. Er zijn wat elementen die nog niet goed mee bewegen met de scherm-groottes. Ik heb hier al hulp bij gevraagd en ga hier zelf aan door kloten todat ik het nice vind.
+Samirs site is erg responsive, hij heeft m als single columm ontworpen dus hij beweegt mooi mee met andere scherm groottes, mijn eigen website is ook responsive maar nog niet zo netjes. Er zijn wat elementen die nog niet goed mee bewegen met de scherm-groottes. Ik heb hier al hulp bij gevraagd en ga hier zelf aan door kloten todat het er netjes uit ziet.
 
 **Wanneer is er een verandering van vormgeving/layout nodig? Waarom? Wat is er 'lelijk' of kan beter?**
 In mijn eigen site gebruik ik 2 kolomen met knoppen, wanneer het scherm kleiner wordt moet dit naar single-column gaan. Dit is mij al gelukt, maar de titel beweegt nog niet lekker mee met de rest dus die wil ik graag beter centreren.
@@ -684,8 +685,17 @@ In mijn eigen site gebruik ik 2 kolomen met knoppen, wanneer het scherm kleiner 
 </details>
 
 <details>
-<summary><h2>Vrijdag 9 September</h2></summary>
+<summary><h2>Vrijdag 11 September</h2></summary>
+<details>
+ <summary> Deepdive 101 Grid </summary>  <img width="512" alt="Scherm­afbeelding 2026-09-11 om 11 38 01" src="https://github.com/user-attachments/assets/ab3f3266-4965-4293-bbe2-dc966317dedd" />
+<img width="512" alt="Scherm­afbeelding 2026-09-11 om 09 34 42" src="https://github.com/user-attachments/assets/af1fd499-e22c-4c24-9709-1fc17c212662"
 
+ Ik heb vandaag met de inzichten uit de deepdive van sanne een begin gemaakt aan het maken van mijn grid. Ik wil graag een blokken grid die in 2 kolommen met een diepte als het ware naar je toekomt. Dit heb ik gekregen uit de visual research oefening. Hierin kwam terug dat diepte en donker licht contrast bijdragen aan het gevoel van een concert dat ik wil creëren. Ik ben begonnen met het toevoegen van 2 blokken in html en heb daar wat styling aan toegevoegd om het overzichtelijk voor mezelf te krijgen. Bovenstaande fotos is waar ik mee ben begonnen, en de onderstaande foto waarmee ik ben geëindigd. Dit is hoe ik het voor me zag, ik wil nu nog de gaps tussen de blokken aanpassen zodat het meer lijkt alsof ze echt tot een groep behoren, en de diepte toevoegen om het gewenste gevoel na te bootsen.
+ 
+ <img width="512" height="982" alt="Scherm­afbeelding 2026-09-11 om 12 08 03" src="https://github.com/user-attachments/assets/0c2fd1e9-ab64-45f6-bd02-97b2ea70d1c6" />
+
+ />
+</details>
 <details>
 <summary>Werken aan de website: responsive en grid</summary>
 
