@@ -2,16 +2,20 @@
 
 
 ---
-
+<details>
+ <summary> <h2> Dinsdag 27 Oktober</h2></summary>
+ Vandaag is de laatste dag van dit blok. Ik heb bedacht om vandaag een reflectie van dit blok te doen:
+ Hoe heb ik dit blok ervaren: Dit blok was 
+</details>
 <details>
 <summary><h2>Maandag 26 Oktober</h2></summary>
 
 <details>
 <summary>Afbeeldingen</summary>
-
+Ik heb tijdens de laatste les van dit blok feedback ontvangen van mijn klasgenoten over het eindproduct. Deze feedback was positief en bevestigde voor mij dat mijn ontwerp past bij het onderwerp en het het goede gevoel over brengt. Ik kreeg helaas maar 1 klein kritiek puntje over de focus states van de knoppen. Ik had graag nog wat meer diepgaande feedback gehad die ik als verbeter punten in de toekomst kan gebruiken. Dus ga ik nu zelf een reflectie maken met verbeter punten voor komende blokken.
 <img width="250" alt="Schermafbeelding 14 08 03" src="https://github.com/user-attachments/assets/77cd7062-0219-4e73-b213-d30a62bc3f34" />
 <img width="250" alt="Schermafbeelding 14 07 42" src="https://github.com/user-attachments/assets/1a80b7bb-520f-4f17-a51e-e9d7b64458dc" />
-
+Ook heb ik vandaag met Hiba een Hoe Webby is jouw website formulier ingevuld. We hebben dit voor elkaar ingevuld terwijl we zelf onze website toonden. Dit was een goede oefening om te spiegelen naast het webby formulier van vorige week. Vorige week kwamen er nog veel punten uit die ik moest verbeteren, nu waren al die punten gefixt. Wel had ik nog een puntje bij de priegeligheid van de navigatiebar knopjes wanneer deze op telefoon gebruikt moet worden. 
 </details>
 
 </details>
