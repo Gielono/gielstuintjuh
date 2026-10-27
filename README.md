@@ -278,7 +278,7 @@ Ik heb als titel van de blokken een onzichtbaar stukje tekst gemaakt. Dit zorgt 
 
 <details>
 <summary>Afbeelding</summary>
-
+Ik heb vandaag gewerkt aan het "mijn favoriete nummers" kopje. Ik heb een hover toegevoegd die het blok een beetje kantelt en een lichtschaduw achter het blok geeft, een beetje hetzelfde als de blokken op de home pagina. 
 <img width="300" alt="Schermafbeelding 2026-09-28 20 55 10" src="https://github.com/user-attachments/assets/0d95186f-ce7d-4965-a768-657d3e3349ed" />
 
 </details>
