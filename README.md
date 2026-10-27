@@ -129,20 +129,6 @@ Ik heb vandaag verder gewerkt aan de site adhv van het, Hoe webby is jou website
 </details>
 
 <details>
-<summary><h2>Maandag 19 Oktober</h2></summary>
-
-<details>
-<summary>Besluit variable font</summary>
-
-<img width="250" alt="Schermafbeelding 10 06 30" src="https://github.com/user-attachments/assets/a0855169-de7f-4b0b-891b-fba779a862b1" />
-
-Ik heb na een gesprek met vasilis besloten niet verder te gaan met het responsive maken van de variable font op de muziek. Omdat dit veel javascript nodig heeft en dat niet de opdracht is.
-
-</details>
-
-</details>
-
-<details>
 <summary><h2>Donderdag 15 Oktober</h2></summary>
 
 <details>
