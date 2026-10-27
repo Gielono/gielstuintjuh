@@ -5,9 +5,10 @@
 <details>
  <summary> <h2> Dinsdag 27 Oktober</h2></summary>
  Vandaag is de laatste dag van dit blok. Ik heb bedacht om vandaag een reflectie van dit blok te doen:
- Wat ging er goed dit blok? Ik heb dit blok leren coderen volgens de juiste regels, ik heb meer inzicht gekregen in wat er allemaal mogelijk is met html en css en ben het een beetje leuk gaan vinden. Ook heb ik meer geleerd over visuele theorie, we zijn veel bezig geweest met visuele hierarchie, ritme, ruimte, etc. En ik vind het leuk dat uit de peerfeedback kwam dat ik dit goed heb gebruikt in mijn site.
- Wat ging er minder goed? Ik merkde zeker aan het einde van het blok dat mijn consentratie een stuk minder werd en ik minder tijd stopte in mijn schoolwerk. Dit kwam mede door de vakantie, leuke dingen naast school en minder leuke dingen. Ook had ik graag wat meer bij de deepdives aanwezig willen zijn inplaats van deze zelfstandig te maken.
- Wat ga ik meenemen naar het volgende blok?
+<h2> Wat ging er goed dit blok? </h2>
+ Ik heb dit blok leren coderen volgens de juiste regels, ik heb meer inzicht gekregen in wat er allemaal mogelijk is met html en css en ben het een beetje leuk gaan vinden. Ook heb ik meer geleerd over visuele theorie, we zijn veel bezig geweest met visuele hierarchie, ritme, ruimte, etc. En ik vind het leuk dat uit de peerfeedback kwam dat ik dit goed heb gebruikt in mijn site.
+<h2> Wat ging er minder goed?</h2> Ik merkde zeker aan het einde van het blok dat mijn consentratie een stuk minder werd en ik minder tijd stopte in mijn schoolwerk. Dit kwam mede door de vakantie, leuke dingen naast school en minder leuke dingen. Ook had ik graag wat meer bij de deepdives aanwezig willen zijn inplaats van deze zelfstandig te maken.
+<h2>Wat ga ik meenemen naar het volgende blok? </h2>
  Wat ik absoluut anders ga doen in het volgende blok is het net houden van mijn mappen structuur. Ik heb gemerkt dat als je eenmaal een slordige mappen structuur hebt het moeilijk is om die op te schonen omdat alles al staat gelinked. Ook ga ik netter werken in mijn html en css files, ik kwam er nu later achter en dan is het een heel gedoe om alles op te schonen. Conclusie: netter werken.
 </details>
 <details>
